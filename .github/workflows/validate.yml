@@ -75,6 +75,6 @@ jobs:
       - name: Add msbuild to PATH
         uses: microsoft/setup-msbuild@v1.0.2
       - run: ./.github/scripts/win/ss/build-dll.ps1 -bid "${{ matrix.build_id }}"
-        environment:
+        env:
           CC: cl.exe
           CXX: cl.exe
