@@ -1,4 +1,4 @@
-project('ss-dll', 'cpp',
+project('ss-dll', 'c', 'cpp',
   version : '0.1.0',
   default_options : ['cpp_std=c++latest'],
   meson_version : '>=0.50.0')
@@ -7,24 +7,20 @@ build_specific_sources = []
 build_specific_include_dirs = []
 build_specific_pch = []
 
-if get_option('build-id') == 'b6326492'
-  build_specific_sources = [
-    'versioned/b6326492/win/appdata/il2cpp-api-functions-ptr.h', 'versioned/b6326492/win/appdata/il2cpp-api-functions.h', 'versioned/b6326492/win/appdata/il2cpp-functions.h', 'versioned/b6326492/win/appdata/il2cpp-metadata-version.h', 'versioned/b6326492/win/appdata/il2cpp-types-ptr.h', 'versioned/b6326492/win/appdata/il2cpp-types.h',
-    'versioned/b6326492/win/framework/dllmain.cpp', 'versioned/b6326492/win/framework/helpers.cpp', 'versioned/b6326492/win/framework/helpers.h', 'versioned/b6326492/win/framework/il2cpp-appdata.h', 'versioned/b6326492/win/framework/il2cpp-init.cpp', 'versioned/b6326492/win/framework/il2cpp-init.h'
-  ]
-  build_specific_include_dirs = ['versioned/b6326492/win/appdata/', 'versioned/b6326492/win/framework/']
-  build_specific_pch = ['versioned/b6326492/win/framework/pch-il2cpp.h']
+build_specific_sources = [
+  'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-api-functions-ptr.h', 'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-api-functions.h', 'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-functions.h', 'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-metadata-version.h', 'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-types-ptr.h', 'versioned/' + get_option('build-id') + '/win/appdata/il2cpp-types.h',
+  'versioned/' + get_option('build-id') + '/win/framework/dllmain.cpp', 'versioned/' + get_option('build-id') + '/win/framework/helpers.cpp', 'versioned/' + get_option('build-id') + '/win/framework/helpers.h', 'versioned/' + get_option('build-id') + '/win/framework/il2cpp-appdata.h', 'versioned/' + get_option('build-id') + '/win/framework/il2cpp-init.cpp', 'versioned/' + get_option('build-id') + '/win/framework/il2cpp-init.h'
+]
+build_specific_include_dirs = ['versioned/' + get_option('build-id') + '/win/appdata/', 'versioned/' + get_option('build-id') + '/win/framework/']
+build_specific_pch = ['versioned/' + get_option('build-id') + '/win/framework/pch-il2cpp.h']
 
-  add_global_arguments('-DPHASMO_BID=b6326492', language : 'cpp')
-else
-  assert(false, 'Phasmophobia Build ID is unknown!')
-endif
+add_global_arguments('-DPHASMO_BID=' + get_option('build-id'), language : 'cpp')
 
 nlohmann_json_proj = subproject('nlohmann_json')
 libjson_dep = nlohmann_json_proj.get_variable('nlohmann_json_dep')
 thread_dep = dependency('threads')
 
-library('ss', 
+library('ss-' + get_option('build-id'),
   [
     'src/main.cc',
     'src/main.h',

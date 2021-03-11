@@ -1,4 +1,5 @@
 #include <chrono>
+#include <cstdio>
 #include <fstream>
 #include <iostream>
 #include <nlohmann/json.hpp>
@@ -6,6 +7,9 @@
 #include <string>
 #include <string_view>
 #include <thread>
+
+#include <nana/gui.hpp>
+#include <nana/gui/widgets/button.hpp>
 
 #include "injector.h"
 #include "named_pipe.h"
@@ -26,7 +30,7 @@ auto file_picker(bool use_save) -> std::string {
   }
 
   if (result != NFD_OKAY) {
-    throw new std::runtime_error("Failed to File Pick!");
+    throw std::runtime_error("Failed to File Pick!");
   }
 
   return path;
@@ -40,33 +44,56 @@ void write_file(const std::string& file_path, const std::string& file_data) {
 }
 
 int main(int argc, const char** argv) {
-  /*
-  auto dll_injection_path = file_picker(false);
-  // Inject our DLL so it spins up a Named Pipe.
-  ss::inject_dll(dll_injection_path);
-  // Give time for our DLL to spin up.
-  std::this_thread::sleep_for(std::chrono::seconds(1));
-  auto srv = ss::NamedPipe("stunned-swallow");
-  srv.connect();
-*/
+  try {
+    using namespace nana;
 
-/*
-srv.write_message(std::string_view("dump_localization"));
-        auto read_msg = srv.read_message();
-        auto parsed = nlohmann::json::parse(read_msg);
-        if (parsed.contains("error")) {
-          throw new std::runtime_error(parsed["error"].get<std::string>());
-        }
-        auto localization_csv = file_picker(true);
-        write_file(localization_csv,
-                   parsed["localisation.csv"].get<std::string>());
-        srv.write_message(std::string_view("dump_voice_words"));
-        auto read_msg = srv.read_message();
-        auto parsed = nlohmann::json::parse(read_msg);
-        if (parsed.contains("error")) {
-          throw new std::runtime_error(parsed["error"].get<std::string>());
-        }
-        auto voice_json = file_picker(true);
-        write_file(voice_json, parsed.dump());
-*/
+    auto dll_injection_path = file_picker(false);
+    // Inject our DLL so it spins up a Named Pipe.
+    ss::inject_dll(dll_injection_path);
+    // Give time for our DLL to spin up.
+    std::this_thread::sleep_for(std::chrono::seconds(1));
+    auto srv = ss::NamedPipe("stunned-swallow");
+    srv.connect();
+
+    form fm;
+    fm.caption("Stunned-Swallow");
+    fm.size(nana::size(680, 420));
+    button dump_localization{fm,"Dump - localization.csv"};
+    button dump_words{fm, "Dump - Important Voice Triggers"};
+
+    dump_localization.events().click([&]() {
+      srv.write_message(std::string_view("dump_localization"));
+      std::this_thread::sleep_for(std::chrono::seconds(2));
+      auto read_msg = srv.read_message();
+      std::cout << "Read Message: " << read_msg << std::endl;
+      auto parsed = nlohmann::json::parse(read_msg);
+      if (parsed.contains("error")) {
+        throw std::runtime_error(parsed["error"].get<std::string>());
+      }
+      auto localization_csv = file_picker(true);
+      write_file(localization_csv, parsed["localisation.csv"].get<std::string>());
+    });
+    dump_words.events().click([&]() {
+      srv.write_message(std::string_view("dump_voice_words"));
+      std::this_thread::sleep_for(std::chrono::seconds(2));
+      auto read_msg = srv.read_message();
+      auto parsed = nlohmann::json::parse(read_msg);
+      if (parsed.contains("error")) {
+        throw std::runtime_error(parsed["error"].get<std::string>());
+      }
+      auto voice_json = file_picker(true);
+      write_file(voice_json, parsed.dump());
+    });
+
+    place layout(fm);
+    layout.div("vertical <local margin=10>");
+    layout["local"] << dump_localization << dump_words;
+    layout.collocate();
+
+    fm.show();
+    exec();
+  } catch (std::exception& e) {
+    std::cout << e.what() << std::endl;
+    getchar();
+  }
 }

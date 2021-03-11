@@ -1,3 +1,4 @@
 /builddir/
 /version/
 /subprojects/nlohmann_json/
+/subprojects/nana/out/

@@ -57,14 +57,14 @@ void load_remote_dll(HANDLE process, const char* dll_path) {
       VirtualAllocEx(process, nullptr, strlen(dll_path),
                      MEM_RESERVE | MEM_COMMIT, PAGE_EXECUTE_READWRITE);
   if (addr_in_remote == nullptr) {
-    throw new std::runtime_error(
+    throw std::runtime_error(
         "Failed to allocate memory in Phasmophobia.exe");
   }
 
   BOOL succeededWriting = WriteProcessMemory(process, addr_in_remote, dll_path,
                                              strlen(dll_path), nullptr);
   if (!succeededWriting) {
-    throw new std::runtime_error("Failed to write dll into Phasmophobia.exe");
+    throw std::runtime_error("Failed to write dll into Phasmophobia.exe");
   }
 
   LPVOID loadLibraryAddress =
@@ -77,7 +77,7 @@ void load_remote_dll(HANDLE process, const char* dll_path) {
       process, nullptr, 0, (LPTHREAD_START_ROUTINE)loadLibraryAddress,
       addr_in_remote, 0, nullptr);
   if (remoteThread == nullptr) {
-    throw new std::runtime_error(
+    throw std::runtime_error(
         "Failed to jump Phasmophobia.exe to LoadLibraryA");
   }
 
@@ -87,7 +87,7 @@ void load_remote_dll(HANDLE process, const char* dll_path) {
 void inject_dll(std::string dll_path) {
   auto find_phasmo = find_process();
   if (!find_phasmo.has_value()) {
-    throw new std::runtime_error(
+    throw std::runtime_error(
         "Failed to Locate Phasmophobia.exe, did you start the game?");
   }
   auto found_phasmo = *find_phasmo;
@@ -95,7 +95,7 @@ void inject_dll(std::string dll_path) {
   try {
     load_remote_dll(found_phasmo, dll_path.c_str());
   } catch (const std::exception& e) {
-    throw new std::runtime_error(
+    throw std::runtime_error(
         std::string(
             "Failed to inject into Phasmophobia.exe, perhaps not admin?: ") +
         e.what());

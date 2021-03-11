@@ -20,17 +20,17 @@ void NamedPipe::connect() {
       break;
     } else if (GetLastError() == ERROR_PIPE_BUSY) {
       if (!WaitNamedPipe(static_cast<LPCSTR>(pipe_path.data()), 30 * 1000)) {
-        throw new std::runtime_error("Failed to wait for named pipe!");
+        throw std::runtime_error("Failed to wait for named pipe!");
       }
     } else {
-      throw new std::runtime_error("Failed to connect to pipe!");
+      throw std::runtime_error("Failed to connect to pipe!");
     }
   }
 
   DWORD pipe_mode = PIPE_TYPE_BYTE | PIPE_READMODE_BYTE | PIPE_NOWAIT;
   if (!SetNamedPipeHandleState(_pipe, &pipe_mode, nullptr, nullptr)) {
     CloseHandle(_pipe);
-    throw new std::runtime_error("Failed to set pipe handle state!");
+    throw std::runtime_error("Failed to set pipe handle state!");
   }
 
   _setup = true;
@@ -42,7 +42,7 @@ auto NamedPipe::read_message() -> std::string {
   char signature_byte;
 
   if (!_setup) {
-    throw new std::runtime_error(
+    throw std::runtime_error(
         "NamedPipe read_message called before listen()");
   }
 
@@ -50,21 +50,21 @@ auto NamedPipe::read_message() -> std::string {
                 nullptr)) {
     auto error_str = std::string("Failed to read signature byte ReadFile: ") +
                      std::to_string(GetLastError());
-    throw new std::runtime_error(error_str);
+    throw std::runtime_error(error_str);
   }
 
   if (signature_byte != static_cast<char>(0x2B)) {
-    throw new std::runtime_error("Client did not send special byte '0x2B'");
+    throw std::runtime_error("Client did not send special byte '0x2B'");
   }
 
   if (!ReadFile(_pipe, (LPVOID)&message_bytes, sizeof(uint32_t),
                 &bytes_received, NULL)) {
     auto error_str = std::string("Failed to read message length ReadFile: ") +
                      std::to_string(GetLastError());
-    throw new std::runtime_error(error_str);
+    throw std::runtime_error(error_str);
   }
   if (message_bytes > kMaxMessageSize) {
-    throw new std::runtime_error("Message size is too large!");
+    throw std::runtime_error("Message size is too large!");
   }
 
   std::unique_ptr<char[]> buffer(new char[message_bytes + 1]);
@@ -77,7 +77,7 @@ auto NamedPipe::read_message() -> std::string {
       auto error_str = std::string("Failed to read message of length ") +
                        std::to_string(message_bytes) + " from pipe '" +
                        _pipe_name + "': " + std::to_string(GetLastError());
-      throw new std::runtime_error(error_str);
+      throw std::runtime_error(error_str);
     }
     total_bytes_received += bytes_received;
   }
@@ -92,7 +92,7 @@ void NamedPipe::write_message(std::string_view data) {
                          "Can't write something bigger than max message size! "
                          "Size writing was: ") +
                      std::to_string(data.size());
-    throw new std::runtime_error(error_str);
+    throw std::runtime_error(error_str);
   }
 
   auto new_size = data.size() + sizeof(uint32_t) + 1;
@@ -105,7 +105,7 @@ void NamedPipe::write_message(std::string_view data) {
   if (!WriteFile(_pipe, buffer.get(), new_size, nullptr, nullptr)) {
     auto error_str = std::string("Failed to write message to pipe '") +
                      _pipe_name + "': " + std::to_string(GetLastError());
-    throw new std::runtime_error(error_str);
+    throw std::runtime_error(error_str);
   }
 }
 
