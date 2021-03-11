@@ -72,4 +72,6 @@ jobs:
         with:
           python-version: '3.x'
       - run: pip install meson ninja
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v1.0.2
       - run: ./.github/scripts/win/ss/build-dll.ps1 -bid "${{ matrix.build_id }}"
