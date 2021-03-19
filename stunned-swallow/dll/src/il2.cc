@@ -1,6 +1,6 @@
 #include "il2.h"
 
-namespace ss {
+namespace stunned_swallow {
 
 auto std2il(const char* data) -> app::String* {
   return reinterpret_cast<app::String*>(il2cpp_string_new(data));
@@ -15,4 +15,4 @@ auto il2std(Il2CppString* app_str) -> std::string {
   return il2cppi_to_string(app_str);
 }
 
-}  // namespace ss
+}  // namespace stunned_swallow

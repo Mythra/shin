@@ -5,7 +5,7 @@
 #include <string>
 #include <string_view>
 
-namespace ss {
+namespace stunned_swallow {
 
 /**
  * A generic NamedPipe on windows that is used to create a local listen
@@ -44,4 +44,4 @@ class NamedPipe {
   std::string _pipe_name;
 };
 
-}  // namespace ss
+}  // namespace stunned_swallow

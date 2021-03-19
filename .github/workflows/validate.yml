@@ -66,6 +66,9 @@ jobs:
           - 'b6325153'
           - 'b6326492'
           - 'b6325644'
+          - 'b6402651'
+          - 'b6404079'
+          - 'b6406070'
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v1
@@ -74,7 +77,7 @@ jobs:
       - run: pip install meson ninja
       - name: Enable Developer Command Prompt
         uses: ilammy/msvc-dev-cmd@v1.6.0
-      - run: ./.github/scripts/win/ss/build-dll.ps1 -bid "${{ matrix.build_id }}"
+      - run: ./.github/scripts/win/stunned_swallow/build-dll.ps1 -bid "${{ matrix.build_id }}"
         env:
           CC: cl.exe
           CXX: cl.exe

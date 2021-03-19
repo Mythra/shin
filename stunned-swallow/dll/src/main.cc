@@ -28,15 +28,16 @@ void Run() {
           std::string msg;
           auto found = inbound_queue->try_dequeue(msg);
           if (found) {
-            outbound_queue->enqueue(ss::HandleCommand(msg));
+            outbound_queue->enqueue(stunned_swallow::HandleCommand(msg));
           }
           std::this_thread::yield();
         }
       } catch (const std::exception& e) {
-        il2cppi_log_write(std::string("Exception in processing_thread(): ") + e.what());
+        il2cppi_log_write(std::string("Exception in processing_thread(): ") +
+                          e.what());
       } catch (Il2CppExceptionWrapper& e) {
         auto ex = e.ex;
-        il2cppi_log_write(ss::il2std(ex->message));
+        il2cppi_log_write(stunned_swallow::il2std(ex->message));
       }
     });
     processing_thread.detach();
@@ -45,7 +46,7 @@ void Run() {
       il2cpp_thread_attach(il2cpp_domain_get());
 
       try {
-        auto srv = ss::NamedPipe("stunned-swallow");
+        auto srv = stunned_swallow::NamedPipe("stunned-swallow");
         srv.listen();
 
         while (true) {
@@ -63,10 +64,11 @@ void Run() {
           srv.write_message(std::string_view(resp));
         }
       } catch (const std::exception& e) {
-        il2cppi_log_write(std::string("Exception in listen_thread(): ") + e.what());
+        il2cppi_log_write(std::string("Exception in listen_thread(): ") +
+                          e.what());
       } catch (Il2CppExceptionWrapper& e) {
         auto ex = e.ex;
-        il2cppi_log_write(ss::il2std(ex->message));
+        il2cppi_log_write(stunned_swallow::il2std(ex->message));
       }
     });
     listen_thread.detach();
@@ -74,6 +76,6 @@ void Run() {
     il2cppi_log_write(std::string("Exception in Run(): ") + e.what());
   } catch (Il2CppExceptionWrapper& e) {
     auto ex = e.ex;
-    il2cppi_log_write(ss::il2std(ex->message));
+    il2cppi_log_write(stunned_swallow::il2std(ex->message));
   }
 }

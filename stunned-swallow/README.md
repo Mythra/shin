@@ -40,9 +40,9 @@ Scripts for DLL:
 
 ```powershell
 # Building
-.\.github\scripts\win\ss\build-dll.ps1
+.\.github\scripts\win\stunned_swallow\build-dll.ps1
 # Formatting, if you have clang-format installed
-.\.github\scripts\win\ss\format-dll.ps1
+.\.github\scripts\win\stunned_swallow\format-dll.ps1
 ```
 
 ## Architecture Notes ##

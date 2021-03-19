@@ -7,7 +7,7 @@
 #include <optional>
 #include <stdexcept>
 
-namespace ss {
+namespace stunned_swallow {
 
 auto char_to_wchar(char* car) -> std::unique_ptr<wchar_t[]> {
   size_t car_size = strlen(car) + 1;
@@ -102,4 +102,4 @@ void inject_dll(std::string dll_path) {
   }
 }
 
-}  // namespace ss
+}  // namespace stunned_swallow

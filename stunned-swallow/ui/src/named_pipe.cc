@@ -4,7 +4,7 @@
 #include <memory>
 #include <stdexcept>
 
-namespace ss {
+namespace stunned_swallow {
 
 // Max uint32_t - 4 for message len - 1 for magic byte.
 constexpr uint32_t kMaxMessageSize = 0xFFFFFFFF - sizeof(uint32_t) - 1;
@@ -109,4 +109,4 @@ void NamedPipe::write_message(std::string_view data) {
   }
 }
 
-}  // namespace ss
+}  // namespace stunned_swallow

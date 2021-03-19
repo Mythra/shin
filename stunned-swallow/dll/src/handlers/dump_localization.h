@@ -2,8 +2,8 @@
 
 #include <string>
 
-namespace ss::handler {
+namespace stunned_swallow::handler {
 
 auto dump_localization() -> std::string;
 
-}  // namespace ss::handler
+}  // namespace stunned_swallow::handler

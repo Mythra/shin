@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace ss {
+namespace stunned_swallow {
 
 /**
  * Inject a DLL into `Phasmophobia.exe`. Uses just a simple method to inject
@@ -13,4 +13,4 @@ namespace ss {
  */
 void inject_dll(std::string dll_path);
 
-}  // namespace ss
+}  // namespace stunned_swallow

@@ -1,4 +1,4 @@
-﻿Please refer to the Library Installation Documentation for the detailed installation instructions.
+Please refer to the Library Installation Documentation for the detailed installation instructions.
 https://github.com/qPCR4vir/nana-docs/wiki/Installation
 NOTE: The method of library installation for VC2003/2005/2008/2010/2012 is only for the version older than 0.8. Since version 0.8, the library only works in VC2013 and later. If you have not VC2013 installed, please choose the latest Codeblocks instead.
 

@@ -1,4 +1,4 @@
-﻿You can download the precompiled external libraries at http://sourceforge.net/projects/nanapro/files/extrlib/
+You can download the precompiled external libraries at http://sourceforge.net/projects/nanapro/files/extrlib/
 Extract the ZIP file to the directory nana/extrlib. Then modify the marco switch defined in nana/include/config.hpp header file and rebuild the nana library.
 
 A method to configure the 3rd party libraries

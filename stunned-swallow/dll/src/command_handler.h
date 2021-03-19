@@ -2,8 +2,8 @@
 
 #include <string>
 
-namespace ss {
+namespace stunned_swallow {
 
 auto HandleCommand(const std::string& command) -> std::string;
 
-}  // namespace ss
+}  // namespace stunned_swallow

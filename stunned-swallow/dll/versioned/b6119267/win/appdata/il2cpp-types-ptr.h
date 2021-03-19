@@ -1,5 +1,5 @@
-// Generated C++ file by Il2CppInspector - http://www.djkaty.com - https://github.com/djkaty
-// Target Unity version: 2019.4.0 - 2019.4.9
+// Generated C++ file by Il2CppInspector - http://www.djkaty.com -
+// https://github.com/djkaty Target Unity version: 2019.4.0 - 2019.4.9
 
 // ******************************************************************************
 // * IL2CPP application-specific type definition addresses
@@ -81,7 +81,9 @@ DO_TYPEDEF(0x02A3F9A0, CodePointIndexer);
 DO_TYPEDEF(0x02A3FBD0, CodePointIndexer_TableRange__Array);
 DO_TYPEDEF(0x02A3FB18, Contraction);
 DO_TYPEDEF(0x02A3FAF8, Level2Map);
-DO_TYPEDEF(0x02A3C330, Dictionary_2_System_String_Mono_Globalization_Unicode_SimpleCollator_);
+DO_TYPEDEF(
+    0x02A3C330,
+    Dictionary_2_System_String_Mono_Globalization_Unicode_SimpleCollator_);
 DO_TYPEDEF(0x02A3F900, SortKey);
 DO_TYPEDEF(0x02A3C3E8, Calendar);
 DO_TYPEDEF(0x02A3C088, GregorianCalendarTypes__Enum);
@@ -91,10 +93,12 @@ DO_TYPEDEF(0x02A40358, Hashtable);
 DO_TYPEDEF(0x02A3E2D8, Hashtable_bucket__Array);
 DO_TYPEDEF(0x02A3C118, TokenHashValue);
 DO_TYPEDEF(0x02A3C170, TokenHashValue__Array);
-DO_TYPEDEF(0x02A3C230, Dictionary_2_System_Int32_System_Globalization_CultureInfo_);
+DO_TYPEDEF(0x02A3C230,
+           Dictionary_2_System_Int32_System_Globalization_CultureInfo_);
 DO_TYPEDEF(0x02A2F948, CultureInfo__Array);
 DO_TYPEDEF(0x02A3A468, IEnumerator_1_System_Globalization_CultureInfo_);
-DO_TYPEDEF(0x02A3C1F8, Dictionary_2_System_String_System_Globalization_CultureInfo_);
+DO_TYPEDEF(0x02A3C1F8,
+           Dictionary_2_System_String_System_Globalization_CultureInfo_);
 DO_TYPEDEF(0x02A3B310, FieldInfo_1);
 DO_TYPEDEF(0x02A38A50, RuntimeFieldInfo);
 DO_TYPEDEF(0x02A3E6B0, RtFieldInfo);
@@ -143,12 +147,14 @@ DO_TYPEDEF(0x02A39108, CallContextRemotingData);
 DO_TYPEDEF(0x02A390C8, CallContextSecurityData);
 DO_TYPEDEF(0x02A38460, Header__Array);
 DO_TYPEDEF(0x02A39060, IllogicalCallContext);
-DO_TYPEDEF(0x02A362E8, Dictionary_2_System_Threading_IAsyncLocal_System_Object_);
+DO_TYPEDEF(0x02A362E8,
+           Dictionary_2_System_Threading_IAsyncLocal_System_Object_);
 DO_TYPEDEF(0x02A36298, IAsyncLocal);
 DO_TYPEDEF(0x02A37C60, IEnumerator_1_System_Object_);
 DO_TYPEDEF(0x02A362B0, List_1_System_Threading_IAsyncLocal_);
 DO_TYPEDEF(0x02A3B740, ContextCallback);
-DO_TYPEDEF(0x02A363E8, SparselyPopulatedArray_1_CancellationCallbackInfo___Array);
+DO_TYPEDEF(0x02A363E8,
+           SparselyPopulatedArray_1_CancellationCallbackInfo___Array);
 DO_TYPEDEF(0x02A36430, CancellationTokenRegistration);
 DO_TYPEDEF(0x02A36370, CancellationTokenRegistration__Array);
 DO_TYPEDEF(0x02A39398, Timer);
@@ -159,7 +165,9 @@ DO_TYPEDEF(0x02A3E088, SortedList_ValueList);
 DO_TYPEDEF(0x02A3E518, IList);
 DO_TYPEDEF(0x02A393C8, TimerCallback);
 DO_TYPEDEF(0x02A3B970, TaskScheduler);
-DO_TYPEDEF(0x02A35968, ConditionalWeakTable_2_System_Threading_Tasks_TaskScheduler_System_Object_);
+DO_TYPEDEF(
+    0x02A35968,
+    ConditionalWeakTable_2_System_Threading_Tasks_TaskScheduler_System_Object_);
 DO_TYPEDEF(0x02A59AA0, Ephemeron__Array);
 DO_TYPEDEF(0x02A3E7C0, EventArgs);
 DO_TYPEDEF(0x02A35A80, UnobservedTaskExceptionEventArgs);
@@ -186,12 +194,15 @@ DO_TYPEDEF(0x02A35E20, Task_ContingentProperties);
 DO_TYPEDEF(0x02A36268, ManualResetEventSlim);
 DO_TYPEDEF(0x02A35D98, TaskExceptionHolder);
 DO_TYPEDEF(0x02A3E9A0, EventHandler);
-DO_TYPEDEF(0x02A3EC40, List_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
+DO_TYPEDEF(0x02A3EC40,
+           List_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
 DO_TYPEDEF(0x02A3A190, ExceptionDispatchInfo);
 DO_TYPEDEF(0x02A35D78, ExceptionDispatchInfo__Array);
-DO_TYPEDEF(0x02A35DE0, Shared_1_System_Threading_CancellationTokenRegistration_);
+DO_TYPEDEF(0x02A35DE0,
+           Shared_1_System_Threading_CancellationTokenRegistration_);
 DO_TYPEDEF(0x02A35D08, List_1_System_Threading_Tasks_Task_);
-DO_TYPEDEF(0x02A35B38, Func_1_System_Threading_Tasks_Task_ContingentProperties_);
+DO_TYPEDEF(0x02A35B38,
+           Func_1_System_Threading_Tasks_Task_ContingentProperties_);
 DO_TYPEDEF(0x02A35B00, Predicate_1_System_Threading_Tasks_Task_);
 DO_TYPEDEF(0x02A35AF8, Predicate_1_Object_);
 DO_TYPEDEF(0x02A3FC18, SystemException);
@@ -309,8 +320,11 @@ DO_TYPEDEF(0x02A35558, ExceptionArgument__Enum);
 DO_TYPEDEF(0x02A35080, ValueTuple);
 DO_TYPEDEF(0x02A3E840, Array_ArrayEnumerator);
 DO_TYPEDEF(0x02A35A58, IEnumerable_1_System_Exception_);
-DO_TYPEDEF(0x02A35A10, IEnumerable_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
-DO_TYPEDEF(0x02A3EC60, IList_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
+DO_TYPEDEF(
+    0x02A35A10,
+    IEnumerable_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
+DO_TYPEDEF(0x02A3EC60,
+           IList_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
 DO_TYPEDEF(0x02A35270, _Filters);
 DO_TYPEDEF(0x02A3B408, LocalDataStoreHolder);
 DO_TYPEDEF(0x02A3B418, LocalDataStore);
@@ -419,7 +433,8 @@ DO_TYPEDEF(0x02A35378, Dictionary_2_System_Int32_System_TimeType_);
 DO_TYPEDEF(0x02A35508, TimeZoneInfo_c);
 DO_TYPEDEF(0x02A354E0, Comparison_1_TimeZoneInfo_AdjustmentRule_);
 DO_TYPEDEF(0x02A35430, TimeZoneNotFoundException);
-DO_TYPEDEF(0x02A383D0, Func_2_System_Reflection_AssemblyName_System_Reflection_Assembly_);
+DO_TYPEDEF(0x02A383D0,
+           Func_2_System_Reflection_AssemblyName_System_Reflection_Assembly_);
 DO_TYPEDEF(0x02A38398, Func_4_System_Reflection_Assembly_String_Boolean_Type_);
 DO_TYPEDEF(0x02A3BEE8, TypeInitializationException);
 DO_TYPEDEF(0x02A402C8, UnauthorizedAccessException);
@@ -428,7 +443,8 @@ DO_TYPEDEF(0x02A3AA00, Missing);
 DO_TYPEDEF(0x02A3EAF0, AppDomain);
 DO_TYPEDEF(0x02A3EAB0, Dictionary_2_System_String_System_Object_);
 DO_TYPEDEF(0x02A3D070, KeyValuePair_2_System_String_System_Object_);
-DO_TYPEDEF(0x02A2FA90, IEnumerator_1_KeyValuePair_2_System_String_System_Object_);
+DO_TYPEDEF(0x02A2FA90,
+           IEnumerator_1_KeyValuePair_2_System_String_System_Object_);
 DO_TYPEDEF(0x02A3EAC8, AssemblyLoadEventArgs);
 DO_TYPEDEF(0x02A3EA70, ResolveEventHandler);
 DO_TYPEDEF(0x02A3EA58, ResolveEventArgs);
@@ -436,7 +452,8 @@ DO_TYPEDEF(0x02A3EB80, AppDomainSetup);
 DO_TYPEDEF(0x02A3D2E8, UIntPtr);
 DO_TYPEDEF(0x02A39D28, Context);
 DO_TYPEDEF(0x02A39F98, IMessageSink);
-DO_TYPEDEF(0x02A397F8, List_1_System_Runtime_Remoting_Contexts_IContextProperty_);
+DO_TYPEDEF(0x02A397F8,
+           List_1_System_Runtime_Remoting_Contexts_IContextProperty_);
 DO_TYPEDEF(0x02A39830, IContextProperty);
 DO_TYPEDEF(0x02A398B0, IContextProperty__Array);
 DO_TYPEDEF(0x02A39870, DynamicPropertyCollection);
@@ -528,7 +545,8 @@ DO_TYPEDEF(0x02A3A6B0, FastResourceComparer);
 DO_TYPEDEF(0x02A3A4A8, FileBasedResourceGroveler);
 DO_TYPEDEF(0x02A3A520, ResourceManager_ResourceManagerMediator);
 DO_TYPEDEF(0x02A3CA68, ResourceManager);
-DO_TYPEDEF(0x02A3A4D0, Dictionary_2_System_String_System_Resources_ResourceSet_);
+DO_TYPEDEF(0x02A3A4D0,
+           Dictionary_2_System_String_System_Resources_ResourceSet_);
 DO_TYPEDEF(0x02A3A630, ResourceSet);
 DO_TYPEDEF(0x02A3A5D8, IResourceReader);
 DO_TYPEDEF(0x02A3A548, ResourceManager_CultureNameResourceSetPair);
@@ -541,10 +559,13 @@ DO_TYPEDEF(0x02A3A580, ResourceFallbackManager_GetEnumerator_d_5);
 DO_TYPEDEF(0x02A3A398, ResourceTypeCode__Enum);
 DO_TYPEDEF(0x02A3A2E8, ResourceReader);
 DO_TYPEDEF(0x02A3A600, BinaryReader);
-DO_TYPEDEF(0x02A3A310, Dictionary_2_System_String_System_Resources_ResourceLocator_);
+DO_TYPEDEF(0x02A3A310,
+           Dictionary_2_System_String_System_Resources_ResourceLocator_);
 DO_TYPEDEF(0x02A3A340, BinaryFormatter);
 DO_TYPEDEF(0x02A38F18, ISurrogateSelector);
-DO_TYPEDEF(0x02A387E8, Dictionary_2_System_Type_System_Runtime_Serialization_Formatters_Binary_TypeInformation_);
+DO_TYPEDEF(
+    0x02A387E8,
+    Dictionary_2_System_Type_System_Runtime_Serialization_Formatters_Binary_TypeInformation_);
 DO_TYPEDEF(0x02A38818, TypeInformation);
 DO_TYPEDEF(0x02A1E720, IEnumerator_1_System_Type_);
 DO_TYPEDEF(0x02A3A3B8, ResourceReader_ResourceEnumerator);
@@ -583,11 +604,15 @@ DO_TYPEDEF(0x02A3B728, Stream_SynchronousAsyncResult_c);
 DO_TYPEDEF(0x02A3B6F8, Func_1_System_Threading_ManualResetEvent_);
 DO_TYPEDEF(0x02A3B9D8, Stream_c);
 DO_TYPEDEF(0x02A3B9B8, Func_1_System_Threading_SemaphoreSlim_);
-DO_TYPEDEF(0x02A3B900, Func_5_System_IO_Stream_System_IO_Stream_ReadWriteParameters_AsyncCallback_Object_IAsyncResult_);
+DO_TYPEDEF(
+    0x02A3B900,
+    Func_5_System_IO_Stream_System_IO_Stream_ReadWriteParameters_AsyncCallback_Object_IAsyncResult_);
 DO_TYPEDEF(0x02A59C58, Stream_ReadWriteParameters);
 DO_TYPEDEF(0x02A3B8D0, Func_3_System_IO_Stream_IAsyncResult_Int32_);
 DO_TYPEDEF(0x02A3B8B0, Action_2_System_Threading_Tasks_Task_Object_);
-DO_TYPEDEF(0x02A3B868, Func_3_System_IO_Stream_IAsyncResult_System_Threading_Tasks_VoidTaskResult_);
+DO_TYPEDEF(
+    0x02A3B868,
+    Func_3_System_IO_Stream_IAsyncResult_System_Threading_Tasks_VoidTaskResult_);
 DO_TYPEDEF(0x02A3B6B0, StreamReader_NullStreamReader);
 DO_TYPEDEF(0x02A3EE28, StringReader);
 DO_TYPEDEF(0x02A5BED0, StringWriter);
@@ -632,11 +657,16 @@ DO_TYPEDEF(0x02A31018, AutoResetEvent);
 DO_TYPEDEF(0x02A35FD0, LockRecursionException);
 DO_TYPEDEF(0x02A36058, SemaphoreFullException);
 DO_TYPEDEF(0x02A36210, OSSpecificSynchronizationContext);
-DO_TYPEDEF(0x02A36140, ConditionalWeakTable_2_System_Object_System_Threading_OSSpecificSynchronizationContext_);
-DO_TYPEDEF(0x02A361A0, OSSpecificSynchronizationContext_InvocationEntryDelegate);
+DO_TYPEDEF(
+    0x02A36140,
+    ConditionalWeakTable_2_System_Object_System_Threading_OSSpecificSynchronizationContext_);
+DO_TYPEDEF(0x02A361A0,
+           OSSpecificSynchronizationContext_InvocationEntryDelegate);
 DO_TYPEDEF(0x02A36188, OSSpecificSynchronizationContext_InvocationContext);
 DO_TYPEDEF(0x02A361F8, OSSpecificSynchronizationContext_c);
-DO_TYPEDEF(0x02A361D8, ConditionalWeakTable_2_TKey_TValue_CreateValueCallback_System_Object_System_Threading_OSSpecificSynchronizationContext_);
+DO_TYPEDEF(
+    0x02A361D8,
+    ConditionalWeakTable_2_TKey_TValue_CreateValueCallback_System_Object_System_Threading_OSSpecificSynchronizationContext_);
 DO_TYPEDEF(0x02A36240, SynchronizationLockException);
 DO_TYPEDEF(0x02A35828, ThreadHelper);
 DO_TYPEDEF(0x02A35850, ThreadStart);
@@ -646,7 +676,9 @@ DO_TYPEDEF(0x02A35718, ThreadPoolWorkQueue);
 DO_TYPEDEF(0x02A35700, ThreadPoolWorkQueue_QueueSegment);
 DO_TYPEDEF(0x02A356B8, IThreadPoolWorkItem);
 DO_TYPEDEF(0x02A35668, IThreadPoolWorkItem__Array);
-DO_TYPEDEF(0x02A35688, ThreadPoolWorkQueue_SparseArray_1_ThreadPoolWorkQueue_WorkStealingQueue_);
+DO_TYPEDEF(
+    0x02A35688,
+    ThreadPoolWorkQueue_SparseArray_1_ThreadPoolWorkQueue_WorkStealingQueue_);
 DO_TYPEDEF(0x02A35630, ThreadPoolWorkQueue_WorkStealingQueue);
 DO_TYPEDEF(0x02A356E0, ThreadPoolWorkQueueThreadLocals);
 DO_TYPEDEF(0x02A36100, QueueUserWorkItemCallback);
@@ -658,7 +690,9 @@ DO_TYPEDEF(0x02A355B0, Timer_TimerComparer);
 DO_TYPEDEF(0x02A35590, List_1_System_Threading_Timer_);
 DO_TYPEDEF(0x02A35C60, TaskContinuation);
 DO_TYPEDEF(0x02A35C30, StandardTaskContinuation);
-DO_TYPEDEF(0x02A35D30, ReadOnlyCollection_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
+DO_TYPEDEF(
+    0x02A35D30,
+    ReadOnlyCollection_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
 DO_TYPEDEF(0x02A35EE0, Action_1_System_Threading_Tasks_Task_);
 DO_TYPEDEF(0x02A35EF0, ITaskCompletionAction);
 DO_TYPEDEF(0x02A35C90, Task_SetOnInvokeMres);
@@ -707,7 +741,8 @@ DO_TYPEDEF(0x02A3F558, CryptographicException);
 DO_TYPEDEF(0x02A377C8, CryptographicUnexpectedOperationException);
 DO_TYPEDEF(0x02A37360, CryptoStream);
 DO_TYPEDEF(0x02A37338, AsyncTaskMethodBuilder_1_System_Int32_);
-DO_TYPEDEF(0x02A3A0F8, AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_);
+DO_TYPEDEF(0x02A3A0F8,
+           AsyncTaskMethodBuilder_1_System_Threading_Tasks_VoidTaskResult_);
 DO_TYPEDEF(0x02A3A100, AsyncTaskMethodBuilder);
 DO_TYPEDEF(0x02A3F048, DES);
 DO_TYPEDEF(0x02A37730, DESCryptoServiceProvider);
@@ -944,12 +979,16 @@ DO_TYPEDEF(0x02A3E270, Hashtable_KeyCollection);
 DO_TYPEDEF(0x02A3E228, Hashtable_ValueCollection);
 DO_TYPEDEF(0x02A3E208, Hashtable_SyncHashtable);
 DO_TYPEDEF(0x02A3E278, Hashtable_HashtableEnumerator);
-DO_TYPEDEF(0x02A3E378, ConditionalWeakTable_2_System_Object_System_Runtime_Serialization_SerializationInfo_);
+DO_TYPEDEF(
+    0x02A3E378,
+    ConditionalWeakTable_2_System_Object_System_Runtime_Serialization_SerializationInfo_);
 DO_TYPEDEF(0x02A3C448, ListDictionaryInternal);
 DO_TYPEDEF(0x02A3E1D8, ListDictionaryInternal_DictionaryNode);
 DO_TYPEDEF(0x02A3E190, ListDictionaryInternal_NodeEnumerator);
 DO_TYPEDEF(0x02A3E1C8, ListDictionaryInternal_NodeKeyValueCollection);
-DO_TYPEDEF(0x02A3E168, ListDictionaryInternal_NodeKeyValueCollection_NodeKeyValueEnumerator);
+DO_TYPEDEF(
+    0x02A3E168,
+    ListDictionaryInternal_NodeKeyValueCollection_NodeKeyValueEnumerator);
 DO_TYPEDEF(0x02A3E118, Queue_QueueEnumerator);
 DO_TYPEDEF(0x02A3E068, SortedList_SyncSortedList);
 DO_TYPEDEF(0x02A3E0D0, SortedList_SortedListEnumerator);
@@ -980,7 +1019,8 @@ DO_TYPEDEF(0x02A3D500, Action_1_Guid_);
 DO_TYPEDEF(0x02A3D150, List_1_System_WeakReference_);
 DO_TYPEDEF(0x02A3D010, EventProvider);
 DO_TYPEDEF(0x02A3CD30, EventSource_OverideEventProvider);
-DO_TYPEDEF(0x02A3CF48, List_1_System_Diagnostics_Tracing_EventProvider_SessionInfo_);
+DO_TYPEDEF(0x02A3CF48,
+           List_1_System_Diagnostics_Tracing_EventProvider_SessionInfo_);
 DO_TYPEDEF(0x02A5A648, EventProvider_SessionInfo);
 DO_TYPEDEF(0x02A3D2C8, EtwSession);
 DO_TYPEDEF(0x02A3D2A8, List_1_System_WeakReference_1_);
@@ -988,8 +1028,11 @@ DO_TYPEDEF(0x02A3D260, WeakReference_1_System_Diagnostics_Tracing_EtwSession_);
 DO_TYPEDEF(0x02A3CD58, EtwSession__Array);
 DO_TYPEDEF(0x02A3CBE8, List_1_System_Diagnostics_Tracing_EtwSession_);
 DO_TYPEDEF(0x02A3D3A8, ActivityTracker);
-DO_TYPEDEF(0x02A3D340, AsyncLocal_1_System_Diagnostics_Tracing_ActivityTracker_ActivityInfo_);
-DO_TYPEDEF(0x02A3D350, Action_1_System_Threading_AsyncLocalValueChangedArgs_1__1);
+DO_TYPEDEF(
+    0x02A3D340,
+    AsyncLocal_1_System_Diagnostics_Tracing_ActivityTracker_ActivityInfo_);
+DO_TYPEDEF(0x02A3D350,
+           Action_1_System_Threading_AsyncLocalValueChangedArgs_1__1);
 DO_TYPEDEF(0x02A3D380, ActivityTracker_ActivityInfo);
 DO_TYPEDEF(0x02A59F78, NonRandomizedStringEqualityComparer);
 DO_TYPEDEF(0x02A3E348, ObjectEqualityComparer);
@@ -1063,7 +1106,8 @@ DO_TYPEDEF(0x02A3D470, ActivityFilter_c_DisplayClass11_0);
 DO_TYPEDEF(0x02A3D438, ActivityFilter_c_DisplayClass13_0);
 DO_TYPEDEF(0x02A3D240, EtwSession_c_DisplayClass1_0);
 DO_TYPEDEF(0x02A3D1E8, EtwSession_c);
-DO_TYPEDEF(0x02A3D228, Predicate_1_WeakReference_1_System_Diagnostics_Tracing_EtwSession_);
+DO_TYPEDEF(0x02A3D228,
+           Predicate_1_WeakReference_1_System_Diagnostics_Tracing_EtwSession_);
 DO_TYPEDEF(0x02A3C860, List_1_System_Globalization_CultureInfo_);
 DO_TYPEDEF(0x02A3C7C8, ManifestBuilder_c_DisplayClass22_0);
 DO_TYPEDEF(0x02A3C7A8, ManifestBuilder_c_DisplayClass22_1);
@@ -1090,7 +1134,9 @@ DO_TYPEDEF(0x02A32FD0, ValidationEventHandler);
 DO_TYPEDEF(0x02A34818, XmlSchemaException);
 DO_TYPEDEF(0x02A33028, XmlSchemaObjectCollection);
 DO_TYPEDEF(0x02A348B8, SchemaInfo);
-DO_TYPEDEF(0x02A33400, Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaElementDecl_);
+DO_TYPEDEF(
+    0x02A33400,
+    Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaElementDecl_);
 DO_TYPEDEF(0x02A34858, XmlQualifiedName);
 DO_TYPEDEF(0x02A316D0, XmlQualifiedName_HashCodeOfStringDelegate);
 DO_TYPEDEF(0x02A34810, SchemaElementDecl);
@@ -1106,23 +1152,30 @@ DO_TYPEDEF(0x02A34520, XmlSchemaSimpleType__Array);
 DO_TYPEDEF(0x02A33A58, DatatypeImplementation__Array);
 DO_TYPEDEF(0x02A33A28, DatatypeImplementation_SchemaDatatypeMap);
 DO_TYPEDEF(0x02A33A38, DatatypeImplementation_SchemaDatatypeMap__Array);
-DO_TYPEDEF(0x02A33478, Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaAttDef_);
+DO_TYPEDEF(
+    0x02A33478,
+    Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaAttDef_);
 DO_TYPEDEF(0x02A347C8, SchemaAttDef);
 DO_TYPEDEF(0x02A320E8, XmlQualifiedName__Array);
 DO_TYPEDEF(0x02A33418, List_1_System_Xml_IDtdDefaultAttributeInfo_);
 DO_TYPEDEF(0x02A313D0, IDtdDefaultAttributeInfo);
 DO_TYPEDEF(0x02A31468, IEnumerator_1_System_Xml_IDtdDefaultAttributeInfo_);
-DO_TYPEDEF(0x02A33448, Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_XmlQualifiedName_);
+DO_TYPEDEF(
+    0x02A33448,
+    Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_XmlQualifiedName_);
 DO_TYPEDEF(0x02A34788, ContentValidator);
 DO_TYPEDEF(0x02A59900, XmlSchemaContentProcessing__Enum);
 DO_TYPEDEF(0x02A33080, XmlSchemaAnyAttribute);
 DO_TYPEDEF(0x02A33120, NamespaceList);
 DO_TYPEDEF(0x02A314D8, IDtdAttributeInfo);
 DO_TYPEDEF(0x02A31498, IEnumerable_1_System_Xml_IDtdDefaultAttributeInfo_);
-DO_TYPEDEF(0x02A333B8, Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaEntity_);
+DO_TYPEDEF(
+    0x02A333B8,
+    Dictionary_2_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaEntity_);
 DO_TYPEDEF(0x02A346E8, SchemaEntity);
 DO_TYPEDEF(0x02A333E0, Dictionary_2_System_String_System_Boolean_);
-DO_TYPEDEF(0x02A33380, Dictionary_2_System_String_System_Xml_Schema_SchemaNotation_);
+DO_TYPEDEF(0x02A33380,
+           Dictionary_2_System_String_System_Xml_Schema_SchemaNotation_);
 DO_TYPEDEF(0x02A346D0, SchemaNotation);
 DO_TYPEDEF(0x02A31500, IDtdAttributeListInfo);
 DO_TYPEDEF(0x02A34658, IDtdEntityInfo);
@@ -1140,7 +1193,8 @@ DO_TYPEDEF(0x02A31610, XmlTextReaderImpl_XmlContext);
 DO_TYPEDEF(0x02A31428, XmlTextReaderImpl_ParsingState__Array);
 DO_TYPEDEF(0x02A31538, IDtdInfo);
 DO_TYPEDEF(0x02A34620, IValidationEventHandling);
-DO_TYPEDEF(0x02A31450, Dictionary_2_System_Xml_IDtdEntityInfo_System_Xml_IDtdEntityInfo_);
+DO_TYPEDEF(0x02A31450,
+           Dictionary_2_System_Xml_IDtdEntityInfo_System_Xml_IDtdEntityInfo_);
 DO_TYPEDEF(0x02A31678, Tuple_4_Int32_Int32_Int32_Boolean_);
 DO_TYPEDEF(0x02A31F88, IXmlSchemaInfo);
 DO_TYPEDEF(0x02A34F30, ASN1_1);
@@ -1218,7 +1272,8 @@ DO_TYPEDEF(0x02A32E98, SecureStringHasher);
 DO_TYPEDEF(0x02A32E68, SecureStringHasher_HashCodeOfStringDelegate);
 DO_TYPEDEF(0x02A315E0, XmlTextReaderImpl_NoNamespaceManager);
 DO_TYPEDEF(0x02A31880, XmlTextReaderImpl_DtdParserProxy);
-DO_TYPEDEF(0x02A314B8, XmlTextReaderImpl_DtdDefaultAttributeInfoToNodeDataComparer);
+DO_TYPEDEF(0x02A314B8,
+           XmlTextReaderImpl_DtdDefaultAttributeInfoToNodeDataComparer);
 DO_TYPEDEF(0x02A31348, XmlTextWriter);
 DO_TYPEDEF(0x02A31370, XmlTextWriter_TagInfo__Array);
 DO_TYPEDEF(0x02A31300, XmlTextWriter_State__Enum__Array);
@@ -1260,7 +1315,8 @@ DO_TYPEDEF(0x02A31CE8, XmlUnspecifiedAttribute);
 DO_TYPEDEF(0x02A34968, DtdParser);
 DO_TYPEDEF(0x02A34918, IDtdParserAdapter);
 DO_TYPEDEF(0x02A34930, IDtdParserAdapterWithValidation);
-DO_TYPEDEF(0x02A34698, Dictionary_2_System_String_System_Xml_DtdParser_UndeclaredNotation_);
+DO_TYPEDEF(0x02A34698,
+           Dictionary_2_System_String_System_Xml_DtdParser_UndeclaredNotation_);
 DO_TYPEDEF(0x02A34670, DtdParser_UndeclaredNotation);
 DO_TYPEDEF(0x02A31850, IDtdParser);
 DO_TYPEDEF(0x02A34750, ParticleContentValidator);
@@ -1343,7 +1399,8 @@ DO_TYPEDEF(0x02A322F8, XmlTypeMapMember);
 DO_TYPEDEF(0x02A32788, XmlTypeMapElementInfoList);
 DO_TYPEDEF(0x02A32D68, XmlTypeMapMemberElement);
 DO_TYPEDEF(0x02A327F0, XmlReflectionImporter_c);
-DO_TYPEDEF(0x02A327D8, Comparison_1_System_Xml_Serialization_XmlReflectionMember_);
+DO_TYPEDEF(0x02A327D8,
+           Comparison_1_System_Xml_Serialization_XmlReflectionMember_);
 DO_TYPEDEF(0x02A32630, XmlSchemaProviderAttribute);
 DO_TYPEDEF(0x02A32218, XmlSerializationCollectionFixupCallback);
 DO_TYPEDEF(0x02A32230, XmlSerializationFixupCallback);
@@ -1471,7 +1528,8 @@ DO_TYPEDEF(0x02A2C0D0, RegexCode);
 DO_TYPEDEF(0x02A2C280, RegexPrefix);
 DO_TYPEDEF(0x02A2C0F8, RegexBoyerMoore);
 DO_TYPEDEF(0x02A2C440, SharedReference);
-DO_TYPEDEF(0x02A2C3E0, LinkedList_1_System_Text_RegularExpressions_CachedCodeEntry_);
+DO_TYPEDEF(0x02A2C3E0,
+           LinkedList_1_System_Text_RegularExpressions_CachedCodeEntry_);
 DO_TYPEDEF(0x02A2C3E8, CachedCodeEntry);
 DO_TYPEDEF(0x02A344F8, StringFacetsChecker);
 DO_TYPEDEF(0x02A343E8, QNameFacetsChecker);
@@ -1503,38 +1561,76 @@ DO_TYPEDEF(0x02A32F00, XmlTypeCode__Enum__Array);
 DO_TYPEDEF(0x02A32ED8, XsdDateTime_Parser);
 DO_TYPEDEF(0x02A32EA0, XsdDuration_DurationType__Enum);
 DO_TYPEDEF(0x02A303D8, UnityTls_unitytls_tlsctx_protocolrange);
-DO_TYPEDEF(0x02A30888, UnityTls_unitytls_interface_struct_unitytls_errorstate_create_t);
-DO_TYPEDEF(0x02A30858, UnityTls_unitytls_interface_struct_unitytls_errorstate_raise_error_t);
-DO_TYPEDEF(0x02A30840, UnityTls_unitytls_interface_struct_unitytls_key_get_ref_t);
-DO_TYPEDEF(0x02A30810, UnityTls_unitytls_interface_struct_unitytls_key_parse_der_t);
-DO_TYPEDEF(0x02A307E0, UnityTls_unitytls_interface_struct_unitytls_key_parse_pem_t);
+DO_TYPEDEF(0x02A30888,
+           UnityTls_unitytls_interface_struct_unitytls_errorstate_create_t);
+DO_TYPEDEF(
+    0x02A30858,
+    UnityTls_unitytls_interface_struct_unitytls_errorstate_raise_error_t);
+DO_TYPEDEF(0x02A30840,
+           UnityTls_unitytls_interface_struct_unitytls_key_get_ref_t);
+DO_TYPEDEF(0x02A30810,
+           UnityTls_unitytls_interface_struct_unitytls_key_parse_der_t);
+DO_TYPEDEF(0x02A307E0,
+           UnityTls_unitytls_interface_struct_unitytls_key_parse_pem_t);
 DO_TYPEDEF(0x02A307D8, UnityTls_unitytls_interface_struct_unitytls_key_free_t);
-DO_TYPEDEF(0x02A30798, UnityTls_unitytls_interface_struct_unitytls_x509_export_der_t);
+DO_TYPEDEF(0x02A30798,
+           UnityTls_unitytls_interface_struct_unitytls_x509_export_der_t);
 DO_TYPEDEF(0x02A30360, UnityTls_unitytls_x509_ref);
-DO_TYPEDEF(0x02A30788, UnityTls_unitytls_interface_struct_unitytls_x509list_get_ref_t);
-DO_TYPEDEF(0x02A30740, UnityTls_unitytls_interface_struct_unitytls_x509list_get_x509_t);
-DO_TYPEDEF(0x02A30738, UnityTls_unitytls_interface_struct_unitytls_x509list_create_t);
-DO_TYPEDEF(0x02A30708, UnityTls_unitytls_interface_struct_unitytls_x509list_append_t);
-DO_TYPEDEF(0x02A306C8, UnityTls_unitytls_interface_struct_unitytls_x509list_append_der_t);
-DO_TYPEDEF(0x02A306A8, UnityTls_unitytls_interface_struct_unitytls_x509list_free_t);
-DO_TYPEDEF(0x02A30688, UnityTls_unitytls_interface_struct_unitytls_x509verify_default_ca_t);
-DO_TYPEDEF(0x02A30670, UnityTls_unitytls_interface_struct_unitytls_x509verify_explicit_ca_t);
-DO_TYPEDEF(0x02A30630, UnityTls_unitytls_interface_struct_unitytls_tlsctx_create_server_t);
+DO_TYPEDEF(0x02A30788,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_get_ref_t);
+DO_TYPEDEF(0x02A30740,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_get_x509_t);
+DO_TYPEDEF(0x02A30738,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_create_t);
+DO_TYPEDEF(0x02A30708,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_append_t);
+DO_TYPEDEF(0x02A306C8,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_append_der_t);
+DO_TYPEDEF(0x02A306A8,
+           UnityTls_unitytls_interface_struct_unitytls_x509list_free_t);
+DO_TYPEDEF(0x02A30688,
+           UnityTls_unitytls_interface_struct_unitytls_x509verify_default_ca_t);
+DO_TYPEDEF(
+    0x02A30670,
+    UnityTls_unitytls_interface_struct_unitytls_x509verify_explicit_ca_t);
+DO_TYPEDEF(0x02A30630,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_create_server_t);
 DO_TYPEDEF(0x02A303A8, UnityTls_unitytls_tlsctx_callbacks);
-DO_TYPEDEF(0x02A30620, UnityTls_unitytls_interface_struct_unitytls_tlsctx_create_client_t);
-DO_TYPEDEF(0x02A305F8, UnityTls_unitytls_interface_struct_unitytls_tlsctx_server_require_client_authentication_t);
-DO_TYPEDEF(0x02A305D0, UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_certificate_callback_t);
-DO_TYPEDEF(0x02A30590, UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_trace_callback_t);
-DO_TYPEDEF(0x02A30568, UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_x509verify_callback_t);
-DO_TYPEDEF(0x02A30558, UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_supported_ciphersuites_t);
-DO_TYPEDEF(0x02A30518, UnityTls_unitytls_interface_struct_unitytls_tlsctx_get_ciphersuite_t);
-DO_TYPEDEF(0x02A304F0, UnityTls_unitytls_interface_struct_unitytls_tlsctx_get_protocol_t);
-DO_TYPEDEF(0x02A304D0, UnityTls_unitytls_interface_struct_unitytls_tlsctx_process_handshake_t);
-DO_TYPEDEF(0x02A30498, UnityTls_unitytls_interface_struct_unitytls_tlsctx_read_t);
-DO_TYPEDEF(0x02A30470, UnityTls_unitytls_interface_struct_unitytls_tlsctx_write_t);
-DO_TYPEDEF(0x02A30450, UnityTls_unitytls_interface_struct_unitytls_tlsctx_notify_close_t);
-DO_TYPEDEF(0x02A30430, UnityTls_unitytls_interface_struct_unitytls_tlsctx_free_t);
-DO_TYPEDEF(0x02A30418, UnityTls_unitytls_interface_struct_unitytls_random_generate_bytes_t);
+DO_TYPEDEF(0x02A30620,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_create_client_t);
+DO_TYPEDEF(
+    0x02A305F8,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_server_require_client_authentication_t);
+DO_TYPEDEF(
+    0x02A305D0,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_certificate_callback_t);
+DO_TYPEDEF(
+    0x02A30590,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_trace_callback_t);
+DO_TYPEDEF(
+    0x02A30568,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_x509verify_callback_t);
+DO_TYPEDEF(
+    0x02A30558,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_set_supported_ciphersuites_t);
+DO_TYPEDEF(
+    0x02A30518,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_get_ciphersuite_t);
+DO_TYPEDEF(0x02A304F0,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_get_protocol_t);
+DO_TYPEDEF(
+    0x02A304D0,
+    UnityTls_unitytls_interface_struct_unitytls_tlsctx_process_handshake_t);
+DO_TYPEDEF(0x02A30498,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_read_t);
+DO_TYPEDEF(0x02A30470,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_write_t);
+DO_TYPEDEF(0x02A30450,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_notify_close_t);
+DO_TYPEDEF(0x02A30430,
+           UnityTls_unitytls_interface_struct_unitytls_tlsctx_free_t);
+DO_TYPEDEF(0x02A30418,
+           UnityTls_unitytls_interface_struct_unitytls_random_generate_bytes_t);
 DO_TYPEDEF(0x02A310E0, CFArray);
 DO_TYPEDEF(0x02A30EA0, CFString);
 DO_TYPEDEF(0x02A310B8, CFDictionary);
@@ -1549,7 +1645,8 @@ DO_TYPEDEF(0x02A30F30, CFNetwork_CFWebProxy);
 DO_TYPEDEF(0x02A30F08, NetworkCredential);
 DO_TYPEDEF(0x02A30FA0, CFNetwork_c_DisplayClass13_0);
 DO_TYPEDEF(0x02A30E00, AsyncProtocolResult);
-DO_TYPEDEF(0x02A30E48, AsyncTaskMethodBuilder_1_Mono_Net_Security_AsyncProtocolResult_);
+DO_TYPEDEF(0x02A30E48,
+           AsyncTaskMethodBuilder_1_Mono_Net_Security_AsyncProtocolResult_);
 DO_TYPEDEF(0x02A30E38, AsyncTaskMethodBuilder_1_System_Nullable_1_);
 DO_TYPEDEF(0x02A30BE8, AsyncReadRequest);
 DO_TYPEDEF(0x02A30BB8, AsyncWriteRequest);
@@ -1565,7 +1662,8 @@ DO_TYPEDEF(0x02A2D528, AddressFamily__Enum);
 DO_TYPEDEF(0x02A2DBA8, Socket);
 DO_TYPEDEF(0x02A2D110, SafeSocketHandle);
 DO_TYPEDEF(0x02A2D0D8, List_1_System_Threading_Thread_);
-DO_TYPEDEF(0x02A2D0E8, Dictionary_2_System_Threading_Thread_System_Diagnostics_StackTrace_);
+DO_TYPEDEF(0x02A2D0E8,
+           Dictionary_2_System_Threading_Thread_System_Diagnostics_StackTrace_);
 DO_TYPEDEF(0x02A2D540, SocketAddress);
 DO_TYPEDEF(0x02A2CFB8, IOAsyncCallback);
 DO_TYPEDEF(0x02A2D0B0, SocketAsyncResult);
@@ -1578,9 +1676,11 @@ DO_TYPEDEF(0x02A2DD80, CookieContainer);
 DO_TYPEDEF(0x02A2DD30, HeaderVariantInfo__Array);
 DO_TYPEDEF(0x02A2D1B0, ServicePoint);
 DO_TYPEDEF(0x02A2DBF8, IPHostEntry);
-DO_TYPEDEF(0x02A2D220, Dictionary_2_System_String_System_Net_WebConnectionGroup_);
+DO_TYPEDEF(0x02A2D220,
+           Dictionary_2_System_String_System_Net_WebConnectionGroup_);
 DO_TYPEDEF(0x02A2D258, WebConnectionGroup);
-DO_TYPEDEF(0x02A2CC80, LinkedList_1_System_Net_WebConnectionGroup_ConnectionState_);
+DO_TYPEDEF(0x02A2CC80,
+           LinkedList_1_System_Net_WebConnectionGroup_ConnectionState_);
 DO_TYPEDEF(0x02A2CC68, WebConnectionGroup_ConnectionState);
 DO_TYPEDEF(0x02A2CC08, WebConnection);
 DO_TYPEDEF(0x02A2CD30, IWebConnectionState);
@@ -1601,9 +1701,13 @@ DO_TYPEDEF(0x02A309D8, CallbackHelpers_c_DisplayClass8_0);
 DO_TYPEDEF(0x02A311C8, NtlmSession);
 DO_TYPEDEF(0x02A310F0, Authorization);
 DO_TYPEDEF(0x02A31258, NtlmClient);
-DO_TYPEDEF(0x02A31200, ConditionalWeakTable_2_System_Net_HttpWebRequest_Mono_Http_NtlmSession_);
+DO_TYPEDEF(
+    0x02A31200,
+    ConditionalWeakTable_2_System_Net_HttpWebRequest_Mono_Http_NtlmSession_);
 DO_TYPEDEF(0x02A31250, NtlmClient_c);
-DO_TYPEDEF(0x02A31208, ConditionalWeakTable_2_TKey_TValue_CreateValueCallback_System_Net_HttpWebRequest_Mono_Http_NtlmSession_);
+DO_TYPEDEF(
+    0x02A31208,
+    ConditionalWeakTable_2_TKey_TValue_CreateValueCallback_System_Net_HttpWebRequest_Mono_Http_NtlmSession_);
 DO_TYPEDEF(0x02A31298, SafeProcessHandle);
 DO_TYPEDEF(0x02A2D8C0, UriBuilder);
 DO_TYPEDEF(0x02A2F568, InvariantComparer);
@@ -1630,7 +1734,8 @@ DO_TYPEDEF(0x02A2F470, EventHandlerList_ListEntry);
 DO_TYPEDEF(0x02A2E4D0, ISynchronizeInvoke);
 DO_TYPEDEF(0x02A2C508, MatchCollection);
 DO_TYPEDEF(0x02A2C3A8, RegexCharClass);
-DO_TYPEDEF(0x02A2C328, List_1_System_Text_RegularExpressions_RegexCharClass_SingleRange_);
+DO_TYPEDEF(0x02A2C328,
+           List_1_System_Text_RegularExpressions_RegexCharClass_SingleRange_);
 DO_TYPEDEF(0x02A2C308, RegexCharClass_SingleRange);
 DO_TYPEDEF(0x02A2C388, String__Array_1);
 DO_TYPEDEF(0x02A2C360, RegexCharClass_LowerCaseMapping__Array);
@@ -1736,7 +1841,8 @@ DO_TYPEDEF(0x02A2F1A0, LocalizableAttribute);
 DO_TYPEDEF(0x02A2F168, LookupBindingPropertiesAttribute);
 DO_TYPEDEF(0x02A2F140, MarshalByValueComponent);
 DO_TYPEDEF(0x02A2F120, MaskedTextProvider);
-DO_TYPEDEF(0x02A2F0E8, List_1_System_ComponentModel_MaskedTextProvider_CharDescriptor_);
+DO_TYPEDEF(0x02A2F0E8,
+           List_1_System_ComponentModel_MaskedTextProvider_CharDescriptor_);
 DO_TYPEDEF(0x02A2F0A8, MaskedTextProvider_CaseConversion__Enum);
 DO_TYPEDEF(0x02A2F070, MaskedTextProvider_CharType__Enum);
 DO_TYPEDEF(0x02A2F0C8, MaskedTextProvider_CharDescriptor);
@@ -1744,7 +1850,8 @@ DO_TYPEDEF(0x02A2F008, MergablePropertyAttribute);
 DO_TYPEDEF(0x02A2EFC0, NestedContainer_Site);
 DO_TYPEDEF(0x02A2EF48, PasswordPropertyTextAttribute);
 DO_TYPEDEF(0x02A2EC60, PropertyChangedEventHandler);
-DO_TYPEDEF(0x02A2EEA0, PropertyDescriptorCollection_PropertyDescriptorEnumerator);
+DO_TYPEDEF(0x02A2EEA0,
+           PropertyDescriptorCollection_PropertyDescriptorEnumerator);
 DO_TYPEDEF(0x02A2EDF8, ProvidePropertyAttribute);
 DO_TYPEDEF(0x02A2F448, ReadOnlyAttribute);
 DO_TYPEDEF(0x02A2EDE8, RecommendedAsConfigurableAttribute);
@@ -1765,16 +1872,20 @@ DO_TYPEDEF(0x02A2E678, IComNativeDescriptorHandler);
 DO_TYPEDEF(0x02A2E880, IDesigner);
 DO_TYPEDEF(0x02A2E938, TypeDescriptor_TypeDescriptionNode);
 DO_TYPEDEF(0x02A2E940, TypeDescriptor_AttributeProvider);
-DO_TYPEDEF(0x02A2E6E0, TypeDescriptor_AttributeProvider_AttributeTypeDescriptor);
+DO_TYPEDEF(0x02A2E6E0,
+           TypeDescriptor_AttributeProvider_AttributeTypeDescriptor);
 DO_TYPEDEF(0x02A2E9A0, TypeDescriptor_ComNativeDescriptionProvider);
-DO_TYPEDEF(0x02A2E6A0, TypeDescriptor_ComNativeDescriptionProvider_ComNativeTypeDescriptor);
+DO_TYPEDEF(0x02A2E6A0,
+           TypeDescriptor_ComNativeDescriptionProvider_ComNativeTypeDescriptor);
 DO_TYPEDEF(0x02A2E7D0, TypeDescriptor_AttributeFilterCacheItem);
 DO_TYPEDEF(0x02A2E760, TypeDescriptor_FilterCacheItem);
 DO_TYPEDEF(0x02A2E788, ITypeDescriptorFilterService);
 DO_TYPEDEF(0x02A2E720, TypeDescriptor_MemberDescriptorComparer);
 DO_TYPEDEF(0x02A2E808, TypeDescriptor_MergedTypeDescriptor);
-DO_TYPEDEF(0x02A2E650, TypeDescriptor_TypeDescriptionNode_DefaultExtendedTypeDescriptor);
-DO_TYPEDEF(0x02A2E630, TypeDescriptor_TypeDescriptionNode_DefaultTypeDescriptor);
+DO_TYPEDEF(0x02A2E650,
+           TypeDescriptor_TypeDescriptionNode_DefaultExtendedTypeDescriptor);
+DO_TYPEDEF(0x02A2E630,
+           TypeDescriptor_TypeDescriptionNode_DefaultTypeDescriptor);
 DO_TYPEDEF(0x02A2E5B8, Win32Exception);
 DO_TYPEDEF(0x02A2F398, InheritanceLevel__Enum);
 DO_TYPEDEF(0x02A2F990, InheritanceAttribute);
@@ -1801,7 +1912,9 @@ DO_TYPEDEF(0x02A30948, X509Certificate2Impl);
 DO_TYPEDEF(0x02A2C798, X509Certificate2ImplMono);
 DO_TYPEDEF(0x02A2C620, X509ExtensionCollection_2);
 DO_TYPEDEF(0x02A2C768, X509CertificateImplCollection);
-DO_TYPEDEF(0x02A2C718, List_1_System_Security_Cryptography_X509Certificates_X509CertificateImpl_);
+DO_TYPEDEF(
+    0x02A2C718,
+    List_1_System_Security_Cryptography_X509Certificates_X509CertificateImpl_);
 DO_TYPEDEF(0x02A2C738, X509CertificateCollection_X509CertificateEnumerator_2);
 DO_TYPEDEF(0x02A2C6E0, X509ChainElementEnumerator);
 DO_TYPEDEF(0x02A2C900, X509EnhancedKeyUsageExtension);
@@ -1909,7 +2022,8 @@ DO_TYPEDEF(0x02A30168, ListDictionary);
 DO_TYPEDEF(0x02A30138, ListDictionary_DictionaryNode);
 DO_TYPEDEF(0x02A300E8, ListDictionary_NodeEnumerator);
 DO_TYPEDEF(0x02A30110, ListDictionary_NodeKeyValueCollection);
-DO_TYPEDEF(0x02A300B8, ListDictionary_NodeKeyValueCollection_NodeKeyValueEnumerator);
+DO_TYPEDEF(0x02A300B8,
+           ListDictionary_NodeKeyValueCollection_NodeKeyValueEnumerator);
 DO_TYPEDEF(0x02A30058, NameObjectCollectionBase_NameObjectKeysEnumerator);
 DO_TYPEDEF(0x02A30198, CompatibleComparer_1);
 DO_TYPEDEF(0x02A2EB28, OrderedDictionary);
@@ -2012,7 +2126,8 @@ DO_TYPEDEF(0x02A1CBA0, MissingReferenceException);
 DO_TYPEDEF(0x02A2AB00, TrackedReference);
 DO_TYPEDEF(0x02A2AA60, UnhandledExceptionHandler_c);
 DO_TYPEDEF(0x02A2A9F0, UnitySynchronizationContext);
-DO_TYPEDEF(0x02A2AA18, List_1_UnityEngine_UnitySynchronizationContext_WorkRequest_);
+DO_TYPEDEF(0x02A2AA18,
+           List_1_UnityEngine_UnitySynchronizationContext_WorkRequest_);
 DO_TYPEDEF(0x02A5A118, UnitySynchronizationContext_WorkRequest);
 DO_TYPEDEF(0x02A247E8, WaitForEndOfFrame);
 DO_TYPEDEF(0x02A19F18, WaitForFixedUpdate);
@@ -2054,17 +2169,25 @@ DO_TYPEDEF(0x02A2B720, List_1_UnityEngine_Events_PersistentCall_);
 DO_TYPEDEF(0x02A1B750, UnityEvent);
 DO_TYPEDEF(0x02A2A750, MovedFromAttribute);
 DO_TYPEDEF(0x02A2ACC8, List_1_UnityEngine_GameObject_);
-DO_TYPEDEF(0x02A2AC60, UnityAction_2_UnityEngine_SceneManagement_Scene_UnityEngine_SceneManagement_LoadSceneMode_);
+DO_TYPEDEF(
+    0x02A2AC60,
+    UnityAction_2_UnityEngine_SceneManagement_Scene_UnityEngine_SceneManagement_LoadSceneMode_);
 DO_TYPEDEF(0x02A2B2B8, MessageEventArgs);
 DO_TYPEDEF(0x02A2B460, PlayerConnection);
 DO_TYPEDEF(0x02A2B438, IPlayerEditorConnectionNative);
 DO_TYPEDEF(0x02A2B308, PlayerEditorConnectionEvents);
-DO_TYPEDEF(0x02A2B1A8, List_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
+DO_TYPEDEF(
+    0x02A2B1A8,
+    List_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
 DO_TYPEDEF(0x02A2B218, PlayerEditorConnectionEvents_MessageTypeSubscribers);
 DO_TYPEDEF(0x02A2B210, PlayerEditorConnectionEvents_MessageEvent);
-DO_TYPEDEF(0x02A2B280, IEnumerator_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
+DO_TYPEDEF(
+    0x02A2B280,
+    IEnumerator_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
 DO_TYPEDEF(0x02A2B198, PlayerEditorConnectionEvents_ConnectionChangeEvent);
-DO_TYPEDEF(0x02A2B340, UnityAction_1_UnityEngine_Networking_PlayerConnection_MessageEventArgs_);
+DO_TYPEDEF(
+    0x02A2B340,
+    UnityAction_1_UnityEngine_Networking_PlayerConnection_MessageEventArgs_);
 DO_TYPEDEF(0x02A20DD8, UnityAction_1_System_Int32_);
 DO_TYPEDEF(0x02A2B3D0, PlayerConnection_c_DisplayClass12_0);
 DO_TYPEDEF(0x02A2B398, PlayerConnection_c_DisplayClass13_0);
@@ -2089,7 +2212,9 @@ DO_TYPEDEF(0x02A2B0B0, PlayableGraph);
 DO_TYPEDEF(0x02A2B098, PlayableOutputHandle);
 DO_TYPEDEF(0x02A2B078, PlayableOutput);
 DO_TYPEDEF(0x02A2B630, Lightmapping_RequestLightsDelegate);
-DO_TYPEDEF(0x02A2B618, NativeArray_1_UnityEngine_Experimental_GlobalIllumination_LightDataGI_);
+DO_TYPEDEF(
+    0x02A2B618,
+    NativeArray_1_UnityEngine_Experimental_GlobalIllumination_LightDataGI_);
 DO_TYPEDEF(0x02A2B658, Lightmapping_c);
 DO_TYPEDEF(0x02A2B5C8, BuiltinRuntimeReflectionSystem);
 DO_TYPEDEF(0x02A2B540, IScriptableRuntimeReflectionSystem);
@@ -2139,7 +2264,8 @@ DO_TYPEDEF(0x02A29F50, GUIStyle__Array);
 DO_TYPEDEF(0x02A29F68, GUISettings);
 DO_TYPEDEF(0x02A29EE0, Dictionary_2_System_String_UnityEngine_GUIStyle_);
 DO_TYPEDEF(0x02A2A250, TextEditor);
-DO_TYPEDEF(0x02A29D98, Dictionary_2_UnityEngine_Event_UnityEngine_TextEditor_TextEditOp_);
+DO_TYPEDEF(0x02A29D98,
+           Dictionary_2_UnityEngine_Event_UnityEngine_TextEditor_TextEditOp_);
 DO_TYPEDEF(0x02A29DA0, TextEditor_TextEditOp__Enum);
 DO_TYPEDEF(0x02A2A150, GUIContent__Array);
 DO_TYPEDEF(0x02A2A200, Rect__Array);
@@ -2167,7 +2293,9 @@ DO_TYPEDEF(0x02A29A88, TerrainData);
 DO_TYPEDEF(0x02A17830, Terrain__Array);
 DO_TYPEDEF(0x02A29B70, TerrainUtility_TerrainGroups);
 DO_TYPEDEF(0x02A29AD0, TerrainUtility_TerrainMap);
-DO_TYPEDEF(0x02A29AB8, Dictionary_2_UnityEngine_Experimental_TerrainAPI_TerrainUtility_TerrainMap_TileCoord_UnityEngine_Terrain_);
+DO_TYPEDEF(
+    0x02A29AB8,
+    Dictionary_2_UnityEngine_Experimental_TerrainAPI_TerrainUtility_TerrainMap_TileCoord_UnityEngine_Terrain_);
 DO_TYPEDEF(0x02A29B28, TerrainUtility_TerrainMap_TerrainFilter);
 DO_TYPEDEF(0x02A29AF8, TerrainUtility_TerrainMap_c_DisplayClass4_0);
 DO_TYPEDEF(0x02A29BA8, TerrainUtility_c_DisplayClass4_0);
@@ -2228,7 +2356,8 @@ DO_TYPEDEF(0x02A16EA8, Sprite__Array);
 DO_TYPEDEF(0x02A283A0, YogaMeasureMode__Enum);
 DO_TYPEDEF(0x02A28B10, EventDispatcherGate);
 DO_TYPEDEF(0x02A28BB8, EventDispatcher_1);
-DO_TYPEDEF(0x02A28D28, List_1_UnityEngine_UIElements_IEventDispatchingStrategy_);
+DO_TYPEDEF(0x02A28D28,
+           List_1_UnityEngine_UIElements_IEventDispatchingStrategy_);
 DO_TYPEDEF(0x02A28B78, IEventDispatchingStrategy);
 DO_TYPEDEF(0x02A28B48, ObjectPool_1_System_Collections_Generic_Queue_1_);
 DO_TYPEDEF(0x02A29160, EventBase);
@@ -2269,7 +2398,8 @@ DO_TYPEDEF(0x02A28858, IEventHandler__Array);
 DO_TYPEDEF(0x02A29298, IPanel);
 DO_TYPEDEF(0x02A288E8, EventBase_1_PointerCaptureOutEvent_);
 DO_TYPEDEF(0x02A28D78, PointerDispatchState);
-DO_TYPEDEF(0x02A28D40, Stack_1_UnityEngine_UIElements_EventDispatcher_DispatchContext_);
+DO_TYPEDEF(0x02A28D40,
+           Stack_1_UnityEngine_UIElements_EventDispatcher_DispatchContext_);
 DO_TYPEDEF(0x02A28550, List_1_UnityEngine_UIElements_Panel_);
 DO_TYPEDEF(0x02A28508, Dictionary_2_System_Int32_UnityEngine_UIElements_Panel_);
 DO_TYPEDEF(0x02A28470, ITransform);
@@ -2324,7 +2454,9 @@ DO_TYPEDEF(0x02A280E8, NetworkAccessToken);
 DO_TYPEDEF(0x02A281D8, ConnectionConfigInternal);
 DO_TYPEDEF(0x02A27FC0, MatchInfo);
 DO_TYPEDEF(0x02A27E18, MatchInfoSnapshot);
-DO_TYPEDEF(0x02A280D8, List_1_UnityEngine_Networking_Match_MatchInfoSnapshot_MatchInfoDirectConnectSnapshot_);
+DO_TYPEDEF(
+    0x02A280D8,
+    List_1_UnityEngine_Networking_Match_MatchInfoSnapshot_MatchInfoDirectConnectSnapshot_);
 DO_TYPEDEF(0x02A28120, HostPriority__Enum);
 DO_TYPEDEF(0x02A280A0, MatchInfoSnapshot_MatchInfoDirectConnectSnapshot);
 DO_TYPEDEF(0x02A1CE70, NetworkMatch_DataResponseDelegate_1_MatchInfo_);
@@ -2335,7 +2467,9 @@ DO_TYPEDEF(0x02A27F80, JoinMatchRequest);
 DO_TYPEDEF(0x02A1CEC0, NetworkMatch_BasicResponseDelegate);
 DO_TYPEDEF(0x02A27F28, DestroyMatchRequest);
 DO_TYPEDEF(0x02A27EF0, DropConnectionRequest);
-DO_TYPEDEF(0x02A1CE58, NetworkMatch_DataResponseDelegate_1_System_Collections_Generic_List_1_);
+DO_TYPEDEF(
+    0x02A1CE58,
+    NetworkMatch_DataResponseDelegate_1_System_Collections_Generic_List_1_);
 DO_TYPEDEF(0x02A27E50, List_1_UnityEngine_Networking_Match_MatchInfoSnapshot_);
 DO_TYPEDEF(0x02A27EA8, ListMatchRequest);
 DO_TYPEDEF(0x02A28148, List_1_UnityEngine_Networking_Match_MatchDesc_);
@@ -2352,7 +2486,8 @@ DO_TYPEDEF(0x02A271B0, Hashtable_1);
 DO_TYPEDEF(0x02A5A6A8, KeyValuePair_2_System_Object_System_Object_);
 DO_TYPEDEF(0x02A27778, DictionaryEntryEnumerator);
 DO_TYPEDEF(0x02A27990, EnetChannel);
-DO_TYPEDEF(0x02A27AA8, Dictionary_2_System_Int32_ExitGames_Client_Photon_NCommand_);
+DO_TYPEDEF(0x02A27AA8,
+           Dictionary_2_System_Int32_ExitGames_Client_Photon_NCommand_);
 DO_TYPEDEF(0x02A27600, NCommand);
 DO_TYPEDEF(0x02A27970, StreamBuffer);
 DO_TYPEDEF(0x02A27588, NCommandPool);
@@ -2365,7 +2500,9 @@ DO_TYPEDEF(0x02A279E0, PeerBase);
 DO_TYPEDEF(0x02A27878, EnetPeer);
 DO_TYPEDEF(0x02A27708, SerializationProtocol__Enum);
 DO_TYPEDEF(0x02A275B8, PhotonPeer);
-DO_TYPEDEF(0x02A272F8, Dictionary_2_ExitGames_Client_Photon_ConnectionProtocol_System_Type_);
+DO_TYPEDEF(
+    0x02A272F8,
+    Dictionary_2_ExitGames_Client_Photon_ConnectionProtocol_System_Type_);
 DO_TYPEDEF(0x02A27928, IPhotonPeerListener);
 DO_TYPEDEF(0x02A27808, ITrafficRecorder);
 DO_TYPEDEF(0x02A27348, TrafficStats);
@@ -2401,8 +2538,10 @@ DO_TYPEDEF(0x02A20650, SerializeStreamMethod);
 DO_TYPEDEF(0x02A20628, DeserializeStreamMethod);
 DO_TYPEDEF(0x02A272A8, CustomType);
 DO_TYPEDEF(0x02A27828, Protocol);
-DO_TYPEDEF(0x02A27258, Dictionary_2_System_Type_ExitGames_Client_Photon_CustomType_);
-DO_TYPEDEF(0x02A27230, Dictionary_2_System_Byte_ExitGames_Client_Photon_CustomType_);
+DO_TYPEDEF(0x02A27258,
+           Dictionary_2_System_Type_ExitGames_Client_Photon_CustomType_);
+DO_TYPEDEF(0x02A27230,
+           Dictionary_2_System_Byte_ExitGames_Client_Photon_CustomType_);
 DO_TYPEDEF(0x02A27118, InvalidDataException);
 DO_TYPEDEF(0x02A27100, Protocol18);
 DO_TYPEDEF(0x02A27158, Protocol18_GpType__Enum);
@@ -2448,8 +2587,11 @@ DO_TYPEDEF(0x02A26E18, CustomAuthenticationType__Enum);
 DO_TYPEDEF(0x02A26C18, AuthenticationValues);
 DO_TYPEDEF(0x02A26560, RaiseEventOptions);
 DO_TYPEDEF(0x02A265A0, WebFlags);
-DO_TYPEDEF(0x02A26770, Dictionary_2_ExitGames_Client_Photon_ConnectionProtocol_System_Int32_);
-DO_TYPEDEF(0x02A26CB0, Action_2_Photon_Realtime_ClientState_Photon_Realtime_ClientState_);
+DO_TYPEDEF(
+    0x02A26770,
+    Dictionary_2_ExitGames_Client_Photon_ConnectionProtocol_System_Int32_);
+DO_TYPEDEF(0x02A26CB0,
+           Action_2_Photon_Realtime_ClientState_Photon_Realtime_ClientState_);
 DO_TYPEDEF(0x02A26C88, Action_1_ExitGames_Client_Photon_EventData_);
 DO_TYPEDEF(0x02A26C48, Action_1_ExitGames_Client_Photon_OperationResponse_);
 DO_TYPEDEF(0x02A26DD8, List_1_Photon_Realtime_IConnectionCallbacks_);
@@ -2489,7 +2631,8 @@ DO_TYPEDEF(0x02A26D60, List_1_Photon_Realtime_IErrorInfoCallback_);
 DO_TYPEDEF(0x02A26AC0, ErrorInfoCallbacksContainer);
 DO_TYPEDEF(0x02A26D30, IErrorInfoCallback);
 DO_TYPEDEF(0x02A26800, ErrorInfo);
-DO_TYPEDEF(0x02A26BC8, Queue_1_Photon_Realtime_LoadBalancingClient_CallbackTargetChange_);
+DO_TYPEDEF(0x02A26BC8,
+           Queue_1_Photon_Realtime_LoadBalancingClient_CallbackTargetChange_);
 DO_TYPEDEF(0x02A267B8, LoadBalancingClient_CallbackTargetChange);
 DO_TYPEDEF(0x02A26BA8, HashSet_1_System_Object_);
 DO_TYPEDEF(0x02A37C90, IEnumerable_1_System_Object_);
@@ -2517,9 +2660,12 @@ DO_TYPEDEF(0x02A5A510, RaycastResult);
 DO_TYPEDEF(0x02A25170, GraphicRaycaster);
 DO_TYPEDEF(0x02A251D0, List_1_UnityEngine_UI_Graphic_);
 DO_TYPEDEF(0x02A25A00, PointerEventData);
-DO_TYPEDEF(0x02A259E8, Dictionary_2_System_Int32_UnityEngine_EventSystems_PointerEventData_);
+DO_TYPEDEF(
+    0x02A259E8,
+    Dictionary_2_System_Int32_UnityEngine_EventSystems_PointerEventData_);
 DO_TYPEDEF(0x02A259C8, PointerInputModule_MouseState);
-DO_TYPEDEF(0x02A25948, List_1_UnityEngine_EventSystems_PointerInputModule_ButtonState_);
+DO_TYPEDEF(0x02A25948,
+           List_1_UnityEngine_EventSystems_PointerInputModule_ButtonState_);
 DO_TYPEDEF(0x02A25988, PointerInputModule_ButtonState);
 DO_TYPEDEF(0x02A25978, PointerInputModule_MouseButtonEventData);
 DO_TYPEDEF(0x02A26128, List_1_UnityEngine_EventSystems_EventSystem_);
@@ -2529,7 +2675,8 @@ DO_TYPEDEF(0x02A25860, Button_OnFinishSubmit_d_9);
 DO_TYPEDEF(0x02A25810, CanvasUpdateRegistry);
 DO_TYPEDEF(0x02A25818, IndexedSet_1_UnityEngine_UI_ICanvasElement_);
 DO_TYPEDEF(0x02A257C8, ICanvasElement);
-DO_TYPEDEF(0x02A25078, Dictionary_2_UnityEngine_UI_ICanvasElement_System_Int32_);
+DO_TYPEDEF(0x02A25078,
+           Dictionary_2_UnityEngine_UI_ICanvasElement_System_Int32_);
 DO_TYPEDEF(0x02A257A0, Comparison_1_UnityEngine_UI_ICanvasElement_);
 DO_TYPEDEF(0x02A25758, ClipperRegistry);
 DO_TYPEDEF(0x02A25780, IndexedSet_1_UnityEngine_UI_IClipper_);
@@ -2562,7 +2709,9 @@ DO_TYPEDEF(0x02A25148, IList_1_UnityEngine_UI_Graphic_);
 DO_TYPEDEF(0x02A25110, GraphicRaycaster_c);
 DO_TYPEDEF(0x02A250F8, Comparison_1_UnityEngine_UI_Graphic_);
 DO_TYPEDEF(0x02A25310, GraphicRegistry);
-DO_TYPEDEF(0x02A250D8, Dictionary_2_UnityEngine_Canvas_UnityEngine_UI_Collections_IndexedSet_1_);
+DO_TYPEDEF(
+    0x02A250D8,
+    Dictionary_2_UnityEngine_Canvas_UnityEngine_UI_Collections_IndexedSet_1_);
 DO_TYPEDEF(0x02A25038, IndexedSet_1_UnityEngine_UI_Graphic_);
 DO_TYPEDEF(0x02A25098, Dictionary_2_UnityEngine_UI_Graphic_System_Int32_);
 DO_TYPEDEF(0x02A24EA8, InputField);
@@ -2601,7 +2750,8 @@ DO_TYPEDEF(0x02A24968, ReflectionMethodsCache_RaycastAllCallback);
 DO_TYPEDEF(0x02A24950, ReflectionMethodsCache_GetRaycastNonAllocCallback);
 DO_TYPEDEF(0x02A24918, ReflectionMethodsCache_Raycast2DCallback);
 DO_TYPEDEF(0x02A24910, ReflectionMethodsCache_GetRayIntersectionAllCallback);
-DO_TYPEDEF(0x02A248E8, ReflectionMethodsCache_GetRayIntersectionAllNonAllocCallback);
+DO_TYPEDEF(0x02A248E8,
+           ReflectionMethodsCache_GetRayIntersectionAllNonAllocCallback);
 DO_TYPEDEF(0x02A256F8, ColorTween_ColorTweenCallback);
 DO_TYPEDEF(0x02A251E0, UnityAction_1_UnityEngine_Color_);
 DO_TYPEDEF(0x02A256C8, FloatTween_FloatTweenCallback);
@@ -2630,7 +2780,8 @@ DO_TYPEDEF(0x02A25DA8, ExecuteEvents_EventFunction_1_IPointerExitHandler_);
 DO_TYPEDEF(0x02A25D80, ExecuteEvents_EventFunction_1_IPointerDownHandler_);
 DO_TYPEDEF(0x02A25D48, ExecuteEvents_EventFunction_1_IPointerUpHandler_);
 DO_TYPEDEF(0x02A25D30, ExecuteEvents_EventFunction_1_IPointerClickHandler_);
-DO_TYPEDEF(0x02A25D00, ExecuteEvents_EventFunction_1_IInitializePotentialDragHandler_);
+DO_TYPEDEF(0x02A25D00,
+           ExecuteEvents_EventFunction_1_IInitializePotentialDragHandler_);
 DO_TYPEDEF(0x02A25CD8, ExecuteEvents_EventFunction_1_IBeginDragHandler_);
 DO_TYPEDEF(0x02A25CB0, ExecuteEvents_EventFunction_1_IDragHandler_);
 DO_TYPEDEF(0x02A25C88, ExecuteEvents_EventFunction_1_IEndDragHandler_);
@@ -2646,10 +2797,13 @@ DO_TYPEDEF(0x02A25B30, ExecuteEvents_c);
 DO_TYPEDEF(0x02A5AA68, IEventSystemHandler);
 DO_TYPEDEF(0x02A25920, List_1_UnityEngine_EventSystems_BaseRaycaster_);
 DO_TYPEDEF(0x02A25A28, PhysicsRaycaster_RaycastHitComparer);
-DO_TYPEDEF(0x02A23458, u0921u091Eu091Cu091Fu0922u0929u091Fu091Bu091Bu0920u091B__Enum);
-DO_TYPEDEF(0x02A23408, u091Cu0928u091Du0921u0923u0927u0925u0922u0924u0929u0926__Enum);
+DO_TYPEDEF(0x02A23458,
+           u0921u091Eu091Cu091Fu0922u0929u091Fu091Bu091Bu0920u091B__Enum);
+DO_TYPEDEF(0x02A23408,
+           u091Cu0928u091Du0921u0923u0927u0925u0922u0924u0929u0926__Enum);
 DO_TYPEDEF(0x02A23488, u0923u091Au0929u0924u091Eu0929u091Eu091Cu0920u0927u0929);
-DO_TYPEDEF(0x02A23448, u0925u0922u091Du0924u0922u0921u0927u0925u0928u091Du091E__Enum);
+DO_TYPEDEF(0x02A23448,
+           u0925u0922u091Du0924u0922u0921u0927u0925u0928u091Du091E__Enum);
 DO_TYPEDEF(0x02A234A8, u0924u0923u0923u091Du0920u0924u091Bu0922u0923u0928u091E);
 DO_TYPEDEF(0x02A234C8, u091Cu091Fu091Du0923u0921u0923u091Bu0926u091Au0926u0920);
 DO_TYPEDEF(0x02A24018, AudioUtil_LevelMeterDummy);
@@ -2684,9 +2838,12 @@ DO_TYPEDEF(0x02A23CE0, IDecoder);
 DO_TYPEDEF(0x02A23AF0, Dictionary_2_System_Byte_Photon_Voice_LocalVoice_);
 DO_TYPEDEF(0x02A23B48, LocalVoice__Array);
 DO_TYPEDEF(0x02A23E90, IEnumerator_1_Photon_Voice_LocalVoice_);
-DO_TYPEDEF(0x02A23AC8, Dictionary_2_System_Int32_List_1_Photon_Voice_LocalVoice_);
+DO_TYPEDEF(0x02A23AC8,
+           Dictionary_2_System_Int32_List_1_Photon_Voice_LocalVoice_);
 DO_TYPEDEF(0x02A240F0, List_1_Photon_Voice_LocalVoice_);
-DO_TYPEDEF(0x02A23AA0, Dictionary_2_System_Int32_Dictionary_2_System_Byte_Photon_Voice_RemoteVoice_);
+DO_TYPEDEF(
+    0x02A23AA0,
+    Dictionary_2_System_Int32_Dictionary_2_System_Byte_Photon_Voice_RemoteVoice_);
 DO_TYPEDEF(0x02A23748, Dictionary_2_System_Byte_Photon_Voice_RemoteVoice_);
 DO_TYPEDEF(0x02A23720, RemoteVoice);
 DO_TYPEDEF(0x02A23E08, Queue_1_Photon_Voice_FrameFlags_);
@@ -2739,7 +2896,9 @@ DO_TYPEDEF(0x02A23538, Action_3_Int32_IntPtr_Int32_);
 DO_TYPEDEF(0x02A23560, WindowsAudioInPusher);
 DO_TYPEDEF(0x02A238F0, Action_1_Int16_);
 DO_TYPEDEF(0x02A23BA8, ObjectFactory_2_System_Int16_System_Int32_);
-DO_TYPEDEF(0x02A23508, Dictionary_2_System_Int32_Photon_Voice_Windows_WindowsAudioInPusher_);
+DO_TYPEDEF(
+    0x02A23508,
+    Dictionary_2_System_Int32_Photon_Voice_Windows_WindowsAudioInPusher_);
 DO_TYPEDEF(0x02A1FAC0, AudioClipWrapper);
 DO_TYPEDEF(0x02A23C38, Action_2_Single_Int32_);
 DO_TYPEDEF(0x02A1F950, PhotonVoiceCreatedParams);
@@ -2752,7 +2911,8 @@ DO_TYPEDEF(0x02A24310, AudioSessionCategory__Enum);
 DO_TYPEDEF(0x02A242E8, AudioSessionMode__Enum);
 DO_TYPEDEF(0x02A24330, AudioSessionCategoryOption__Enum);
 DO_TYPEDEF(0x02A24368, AudioSessionCategoryOption__Enum__Array);
-DO_TYPEDEF(0x02A233D8, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_1);
+DO_TYPEDEF(0x02A233D8,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_1);
 DO_TYPEDEF(0x02A232A0, FourCC);
 DO_TYPEDEF(0x02A232F0, InputStateBlock);
 DO_TYPEDEF(0x02A220A0, InternedString);
@@ -2763,7 +2923,9 @@ DO_TYPEDEF(0x02A22168, InputDevice_1);
 DO_TYPEDEF(0x02A22CD0, InternedString__Array);
 DO_TYPEDEF(0x02A228F0, InputControl__Array);
 DO_TYPEDEF(0x02A221D8, InputProcessor);
-DO_TYPEDEF(0x02A21870, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_Type_);
+DO_TYPEDEF(
+    0x02A21870,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_Type_);
 DO_TYPEDEF(0x02A5A970, InputControl_1_System_Single_);
 DO_TYPEDEF(0x02A232E0, ButtonControl);
 DO_TYPEDEF(0x02A22FB0, InputControl_1_UnityEngine_Vector2_);
@@ -2782,14 +2944,17 @@ DO_TYPEDEF(0x02A228C0, InputActionState);
 DO_TYPEDEF(0x02A223A0, IInputInteraction);
 DO_TYPEDEF(0x02A22230, InputBindingComposite);
 DO_TYPEDEF(0x02A3CEC0, GCHandle__Array);
-DO_TYPEDEF(0x02A20B68, Action_2_Object_UnityEngine_InputSystem_InputActionChange_);
+DO_TYPEDEF(0x02A20B68,
+           Action_2_Object_UnityEngine_InputSystem_InputActionChange_);
 DO_TYPEDEF(0x02A21478, InputEventPtr);
 DO_TYPEDEF(0x02A223D0, ReadOnlyArray_1_UnityEngine_InputSystem_InputDevice_);
 DO_TYPEDEF(0x02A231B0, IEnumerator_1_UnityEngine_InputSystem_InputDevice_);
-DO_TYPEDEF(0x02A5B148, IEnumerator_1_UnityEngine_InputSystem_InputControlScheme_);
+DO_TYPEDEF(0x02A5B148,
+           IEnumerator_1_UnityEngine_InputSystem_InputControlScheme_);
 DO_TYPEDEF(0x02A20F28, IEnumerator_1_UnityEngine_InputSystem_InputAction_);
 DO_TYPEDEF(0x02A22A28, InputAction__Array);
-DO_TYPEDEF(0x02A20F70, Action_1_UnityEngine_InputSystem_InputAction_CallbackContext_);
+DO_TYPEDEF(0x02A20F70,
+           Action_1_UnityEngine_InputSystem_InputAction_CallbackContext_);
 DO_TYPEDEF(0x02A5A450, InputAction_CallbackContext);
 DO_TYPEDEF(0x02A22620, IEnumerator_1_UnityEngine_InputSystem_InputBinding_);
 DO_TYPEDEF(0x02A22FE0, IEnumerator_1_UnityEngine_InputSystem_InputControl_);
@@ -2809,9 +2974,15 @@ DO_TYPEDEF(0x02A22910, InputActionMap_WriteMapJson__Array);
 DO_TYPEDEF(0x02A226F0, InputActionReference);
 DO_TYPEDEF(0x02A22658, IEnumerable_1_UnityEngine_InputSystem_InputBinding_);
 DO_TYPEDEF(0x02A22610, InputActionRebindingExtensions_RebindingOperation);
-DO_TYPEDEF(0x02A1DB98, Action_1_UnityEngine_InputSystem_InputActionRebindingExtensions_RebindingOperation_);
-DO_TYPEDEF(0x02A22488, Action_2_UnityEngine_InputSystem_LowLevel_InputEventPtr_UnityEngine_InputSystem_InputDevice_);
-DO_TYPEDEF(0x02A218B0, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Layouts_InputControlLayout_);
+DO_TYPEDEF(
+    0x02A1DB98,
+    Action_1_UnityEngine_InputSystem_InputActionRebindingExtensions_RebindingOperation_);
+DO_TYPEDEF(
+    0x02A22488,
+    Action_2_UnityEngine_InputSystem_LowLevel_InputEventPtr_UnityEngine_InputSystem_InputDevice_);
+DO_TYPEDEF(
+    0x02A218B0,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Layouts_InputControlLayout_);
 DO_TYPEDEF(0x02A21AA0, InlinedArray_1_InternedString_);
 DO_TYPEDEF(0x02A22470, InputControlLayout);
 DO_TYPEDEF(0x02A21C88, ReadOnlyArray_1_InternedString_);
@@ -2820,37 +2991,56 @@ DO_TYPEDEF(0x02A21688, ReadOnlyArray_1_NameAndParameters_);
 DO_TYPEDEF(0x02A5A3F8, InputControlLayout_ControlItem);
 DO_TYPEDEF(0x02A20928, NamedValue);
 DO_TYPEDEF(0x02A20900, NamedValue__Array);
-DO_TYPEDEF(0x02A5A9F8, IEnumerator_1_UnityEngine_InputSystem_Utilities_NamedValue_);
+DO_TYPEDEF(0x02A5A9F8,
+           IEnumerator_1_UnityEngine_InputSystem_Utilities_NamedValue_);
 DO_TYPEDEF(0x02A5A360, NameAndParameters);
-DO_TYPEDEF(0x02A22278, IEnumerator_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
+DO_TYPEDEF(0x02A22278,
+           IEnumerator_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
 DO_TYPEDEF(0x02A21908, InputControlLayout_ControlItem__Array);
-DO_TYPEDEF(0x02A21840, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_String_);
-DO_TYPEDEF(0x02A21820, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_Func_1_);
-DO_TYPEDEF(0x02A22D98, Func_1_UnityEngine_InputSystem_Layouts_InputControlLayout_);
-DO_TYPEDEF(0x02A217F8, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Utilities_InternedString_);
-DO_TYPEDEF(0x02A217C8, Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Utilities_InternedString__1);
-DO_TYPEDEF(0x02A217A0, HashSet_1_UnityEngine_InputSystem_Utilities_InternedString_);
-DO_TYPEDEF(0x02A21778, List_1_UnityEngine_InputSystem_Layouts_InputControlLayout_Collection_LayoutMatcher_);
+DO_TYPEDEF(
+    0x02A21840,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_String_);
+DO_TYPEDEF(
+    0x02A21820,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_System_Func_1_);
+DO_TYPEDEF(0x02A22D98,
+           Func_1_UnityEngine_InputSystem_Layouts_InputControlLayout_);
+DO_TYPEDEF(
+    0x02A217F8,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Utilities_InternedString_);
+DO_TYPEDEF(
+    0x02A217C8,
+    Dictionary_2_UnityEngine_InputSystem_Utilities_InternedString_UnityEngine_InputSystem_Utilities_InternedString__1);
+DO_TYPEDEF(0x02A217A0,
+           HashSet_1_UnityEngine_InputSystem_Utilities_InternedString_);
+DO_TYPEDEF(
+    0x02A21778,
+    List_1_UnityEngine_InputSystem_Layouts_InputControlLayout_Collection_LayoutMatcher_);
 DO_TYPEDEF(0x02A22DF8, InputDeviceMatcher);
 DO_TYPEDEF(0x02A5A418, InputControlLayout_Collection_LayoutMatcher);
-DO_TYPEDEF(0x02A22520, InputActionRebindingExtensions_DeferBindingResolutionWrapper);
+DO_TYPEDEF(0x02A22520,
+           InputActionRebindingExtensions_DeferBindingResolutionWrapper);
 DO_TYPEDEF(0x02A226C0, InputActionRebindingExtensions_c_DisplayClass7_0);
 DO_TYPEDEF(0x02A22690, InputActionRebindingExtensions_c_DisplayClass7_1);
 DO_TYPEDEF(0x02A225B8, InputActionRebindingExtensions_c_DisplayClass24_0);
 DO_TYPEDEF(0x02A22418, InputActionSetupExtensions_c_DisplayClass5_0);
-DO_TYPEDEF(0x02A20960, List_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
+DO_TYPEDEF(0x02A20960,
+           List_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
 DO_TYPEDEF(0x02A227A0, List_1_UnityEngine_InputSystem_InputAction_);
 DO_TYPEDEF(0x02A222D0, InputBinding_c);
 DO_TYPEDEF(0x02A222B0, Func_2_String_Boolean_);
 DO_TYPEDEF(0x02A22210, InputBindingComposite_GetPartNames_d_10);
-DO_TYPEDEF(0x02A22560, IEnumerator_1_UnityEngine_InputSystem_InputControlScheme_DeviceRequirement_);
+DO_TYPEDEF(
+    0x02A22560,
+    IEnumerator_1_UnityEngine_InputSystem_InputControlScheme_DeviceRequirement_);
 DO_TYPEDEF(0x02A59B68, InputControlScheme_MatchResult);
 DO_TYPEDEF(0x02A21FC0, InputControlScheme_MatchResult_Match);
 DO_TYPEDEF(0x02A21FF0, InputControlScheme_MatchResult_Enumerator);
 DO_TYPEDEF(0x02A20878, Substring);
 DO_TYPEDEF(0x02A220E0, Substring__Array);
 DO_TYPEDEF(0x02A22138, InputControlPath_c);
-DO_TYPEDEF(0x02A22110, Converter_2_UnityEngine_InputSystem_Utilities_Substring_String_);
+DO_TYPEDEF(0x02A22110,
+           Converter_2_UnityEngine_InputSystem_Utilities_Substring_String_);
 DO_TYPEDEF(0x02A22F20, Gamepad);
 DO_TYPEDEF(0x02A21B18, Joystick);
 DO_TYPEDEF(0x02A21AF8, Keyboard);
@@ -2862,21 +3052,27 @@ DO_TYPEDEF(0x02A21058, Pen);
 DO_TYPEDEF(0x02A21B98, InputUpdateType__Enum);
 DO_TYPEDEF(0x02A221A8, InputStateBuffers);
 DO_TYPEDEF(0x02A21B68, InputManager);
-DO_TYPEDEF(0x02A21E78, Dictionary_2_System_Int32_UnityEngine_InputSystem_InputDevice_);
-DO_TYPEDEF(0x02A231F8, Action_2_UnityEngine_InputSystem_InputDevice_UnityEngine_InputSystem_InputDeviceChange_);
+DO_TYPEDEF(0x02A21E78,
+           Dictionary_2_System_Int32_UnityEngine_InputSystem_InputDevice_);
+DO_TYPEDEF(
+    0x02A231F8,
+    Action_2_UnityEngine_InputSystem_InputDevice_UnityEngine_InputSystem_InputDeviceChange_);
 DO_TYPEDEF(0x02A22B18, InputDeviceFindControlLayoutDelegate);
 DO_TYPEDEF(0x02A21F18, InputDeviceExecuteCommandDelegate);
 DO_TYPEDEF(0x02A214B0, InputDeviceCommand);
-DO_TYPEDEF(0x02A21CF8, Action_2_String_UnityEngine_InputSystem_InputControlLayoutChange_);
+DO_TYPEDEF(0x02A21CF8,
+           Action_2_String_UnityEngine_InputSystem_InputControlLayoutChange_);
 DO_TYPEDEF(0x02A224B0, IInputRuntime);
 DO_TYPEDEF(0x02A21D68, InputSettings_UpdateMode__Enum);
 DO_TYPEDEF(0x02A21D18, IInputStateChangeMonitor);
 DO_TYPEDEF(0x02A21E98, InputManager_StateChangeMonitorsForDevice__Array);
 DO_TYPEDEF(0x02A21CB8, InputRemoting_Subscriber);
-DO_TYPEDEF(0x02A21C98, IObserver_1_UnityEngine_InputSystem_InputRemoting_Message_);
+DO_TYPEDEF(0x02A21C98,
+           IObserver_1_UnityEngine_InputSystem_InputRemoting_Message_);
 DO_TYPEDEF(0x02A59B48, InputRemoting_Message);
 DO_TYPEDEF(0x02A21C40, InputRemoting_ChangeUsageMsg_c);
-DO_TYPEDEF(0x02A21C30, Func_2_UnityEngine_InputSystem_Utilities_InternedString_String_);
+DO_TYPEDEF(0x02A21C30,
+           Func_2_UnityEngine_InputSystem_Utilities_InternedString_String_);
 DO_TYPEDEF(0x02A20D70, RemoteInputPlayerConnection);
 DO_TYPEDEF(0x02A20DA0, IEditorPlayerConnection);
 DO_TYPEDEF(0x02A20D40, RemoteInputPlayerConnection_Subscriber);
@@ -2897,9 +3093,11 @@ DO_TYPEDEF(0x02A230F8, TouchControl);
 DO_TYPEDEF(0x02A23078, TouchPhase__Enum_1);
 DO_TYPEDEF(0x02A20CF8, TouchControl__Array);
 DO_TYPEDEF(0x02A5A438, InputAnalytics_StartupEventData_DeviceInfo);
-DO_TYPEDEF(0x02A21BD0, List_1_UnityEngine_InputSystem_Layouts_InputDeviceDescription_);
+DO_TYPEDEF(0x02A21BD0,
+           List_1_UnityEngine_InputSystem_Layouts_InputDeviceDescription_);
 DO_TYPEDEF(0x02A21438, InputEventBuffer);
-DO_TYPEDEF(0x02A213D0, IEnumerator_1_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
+DO_TYPEDEF(0x02A213D0,
+           IEnumerator_1_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
 DO_TYPEDEF(0x02A21F00, InputManager_ListControlLayouts_d_68);
 DO_TYPEDEF(0x02A21DC8, InputManager_c);
 DO_TYPEDEF(0x02A21DA0, Func_2_UnityEngine_InputSystem_InputDevice_String_);
@@ -2913,8 +3111,12 @@ DO_TYPEDEF(0x02A20FF8, PlayerInput_DeviceRegainedEvent);
 DO_TYPEDEF(0x02A20FE0, PlayerInput_ControlsChangedEvent);
 DO_TYPEDEF(0x02A20B50, InputUserAccountHandle);
 DO_TYPEDEF(0x02A20BA0, IInputActionCollection);
-DO_TYPEDEF(0x02A20EF8, Action_3_UnityEngine_InputSystem_Users_InputUser_UnityEngine_InputSystem_Users_InputUserChange_UnityEngine_InputSystem_InputDevice_);
-DO_TYPEDEF(0x02A20EE0, Action_2_UnityEngine_InputSystem_InputControl_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
+DO_TYPEDEF(
+    0x02A20EF8,
+    Action_3_UnityEngine_InputSystem_Users_InputUser_UnityEngine_InputSystem_Users_InputUserChange_UnityEngine_InputSystem_InputDevice_);
+DO_TYPEDEF(
+    0x02A20EE0,
+    Action_2_UnityEngine_InputSystem_InputControl_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
 DO_TYPEDEF(0x02A20EC8, IEnumerator_1_UnityEngine_InputSystem_PlayerInput_);
 DO_TYPEDEF(0x02A20E50, PlayerInputManager);
 DO_TYPEDEF(0x02A20E98, PlayerInputManager_PlayerJoinedEvent);
@@ -2925,10 +3127,14 @@ DO_TYPEDEF(0x02A20800, XRLayoutBuilder);
 DO_TYPEDEF(0x02A20820, XRLayoutBuilder_c_DisplayClass5_0);
 DO_TYPEDEF(0x02A20C88, MultiplayerEventSystem);
 DO_TYPEDEF(0x02A20CC0, TrackedDeviceRaycaster);
-DO_TYPEDEF(0x02A20BB0, List_1_UnityEngine_InputSystem_UI_TrackedDeviceRaycaster_RaycastHitData_);
+DO_TYPEDEF(
+    0x02A20BB0,
+    List_1_UnityEngine_InputSystem_UI_TrackedDeviceRaycaster_RaycastHitData_);
 DO_TYPEDEF(0x02A5A388, TrackedDeviceRaycaster_RaycastHitData);
 DO_TYPEDEF(0x02A20C10, TrackedDeviceRaycaster_c);
-DO_TYPEDEF(0x02A20BF8, Comparison_1_UnityEngine_InputSystem_UI_TrackedDeviceRaycaster_RaycastHitData_);
+DO_TYPEDEF(
+    0x02A20BF8,
+    Comparison_1_UnityEngine_InputSystem_UI_TrackedDeviceRaycaster_RaycastHitData_);
 DO_TYPEDEF(0x02A21068, OnScreenControl);
 DO_TYPEDEF(0x02A22E40, HID_UsagePage__Enum);
 DO_TYPEDEF(0x02A22D20, HID_HIDDeviceDescriptor);
@@ -2937,24 +3143,37 @@ DO_TYPEDEF(0x02A5A4C0, HID_HIDElementDescriptor);
 DO_TYPEDEF(0x02A5A4C8, HID_HIDCollectionDescriptor);
 DO_TYPEDEF(0x02A22DD8, HID_HIDLayoutBuilder);
 DO_TYPEDEF(0x02A22C88, HID_HIDLayoutBuilder_c);
-DO_TYPEDEF(0x02A22C70, Predicate_1_UnityEngine_InputSystem_HID_HID_HIDElementDescriptor_);
-DO_TYPEDEF(0x02A22C20, Func_2_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_String_);
+DO_TYPEDEF(0x02A22C70,
+           Predicate_1_UnityEngine_InputSystem_HID_HID_HIDElementDescriptor_);
+DO_TYPEDEF(
+    0x02A22C20,
+    Func_2_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_String_);
 DO_TYPEDEF(0x02A22CA8, InputControlLayout_Builder);
-DO_TYPEDEF(0x02A22CF8, List_1_UnityEngine_InputSystem_HID_HID_HIDElementDescriptor_);
-DO_TYPEDEF(0x02A22BB8, List_1_UnityEngine_InputSystem_HID_HID_HIDCollectionDescriptor_);
+DO_TYPEDEF(0x02A22CF8,
+           List_1_UnityEngine_InputSystem_HID_HID_HIDElementDescriptor_);
+DO_TYPEDEF(0x02A22BB8,
+           List_1_UnityEngine_InputSystem_HID_HID_HIDCollectionDescriptor_);
 DO_TYPEDEF(0x02A22E28, HID_GenericDesktop__Enum);
 DO_TYPEDEF(0x02A22EA0, HID_c_DisplayClass12_0);
-DO_TYPEDEF(0x02A22BE0, List_1_UnityEngine_InputSystem_HID_HIDParser_HIDReportData_);
+DO_TYPEDEF(0x02A22BE0,
+           List_1_UnityEngine_InputSystem_HID_HIDParser_HIDReportData_);
 DO_TYPEDEF(0x02A5A478, HIDParser_HIDReportData);
-DO_TYPEDEF(0x02A22E70, ReadOnlyArray_1_UnityEngine_InputSystem_HID_HIDSupport_HIDPageUsage_);
+DO_TYPEDEF(
+    0x02A22E70,
+    ReadOnlyArray_1_UnityEngine_InputSystem_HID_HIDSupport_HIDPageUsage_);
 DO_TYPEDEF(0x02A59AF8, HIDSupport_HIDPageUsage);
 DO_TYPEDEF(0x02A22B60, HIDSupport_HIDPageUsage__Array);
 DO_TYPEDEF(0x02A23040, Finger);
 DO_TYPEDEF(0x02A23178, InputStateHistory_1_TouchState_);
-DO_TYPEDEF(0x02A23150, Action_1_UnityEngine_InputSystem_LowLevel_InputStateHistory_Record_);
+DO_TYPEDEF(0x02A23150,
+           Action_1_UnityEngine_InputSystem_LowLevel_InputStateHistory_Record_);
 DO_TYPEDEF(0x02A211E0, InputStateHistory_Record);
-DO_TYPEDEF(0x02A23110, Func_4_UnityEngine_InputSystem_InputControl_Double_UnityEngine_InputSystem_LowLevel_InputEventPtr_Boolean_);
-DO_TYPEDEF(0x02A230C0, IEnumerator_1_UnityEngine_InputSystem_LowLevel_InputStateHistory_1_Record_);
+DO_TYPEDEF(
+    0x02A23110,
+    Func_4_UnityEngine_InputSystem_InputControl_Double_UnityEngine_InputSystem_LowLevel_InputEventPtr_Boolean_);
+DO_TYPEDEF(
+    0x02A230C0,
+    IEnumerator_1_UnityEngine_InputSystem_LowLevel_InputStateHistory_1_Record_);
 DO_TYPEDEF(0x02A231F0, Touch_1);
 DO_TYPEDEF(0x02A230A0, InlinedArray_1_UnityEngine_InputSystem_Touchscreen_);
 DO_TYPEDEF(0x02A23028, TouchHistory_Enumerator);
@@ -2971,49 +3190,73 @@ DO_TYPEDEF(0x02A21398, InputEventTrace_ReplayController);
 DO_TYPEDEF(0x02A21368, InputEventTrace_Enumerator);
 DO_TYPEDEF(0x02A21310, List_1_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
 DO_TYPEDEF(0x02A212F8, InputEventTrace_ReplayController_c);
-DO_TYPEDEF(0x02A212D0, Comparison_1_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
+DO_TYPEDEF(0x02A212D0,
+           Comparison_1_UnityEngine_InputSystem_LowLevel_InputEventPtr_);
 DO_TYPEDEF(0x02A21298, InputEventTrace_ReplayController_c_DisplayClass43_0);
 DO_TYPEDEF(0x02A21E58, InputUpdateDelegate);
 DO_TYPEDEF(0x02A21B48, NativeInputRuntime);
-DO_TYPEDEF(0x02A21DE0, Action_1_UnityEngine_InputSystem_LowLevel_InputUpdateType_);
-DO_TYPEDEF(0x02A21E08, Func_2_UnityEngine_InputSystem_LowLevel_InputUpdateType_Boolean_);
+DO_TYPEDEF(0x02A21DE0,
+           Action_1_UnityEngine_InputSystem_LowLevel_InputUpdateType_);
+DO_TYPEDEF(0x02A21E08,
+           Func_2_UnityEngine_InputSystem_LowLevel_InputUpdateType_Boolean_);
 DO_TYPEDEF(0x02A211A8, NativeInputRuntime_c_DisplayClass7_0);
 DO_TYPEDEF(0x02A21168, NativeInputRuntime_c_DisplayClass10_0);
 DO_TYPEDEF(0x02A21110, NativeInputRuntime_c_DisplayClass13_0);
 DO_TYPEDEF(0x02A21240, InputState_StateChangeMonitorDelegate);
 DO_TYPEDEF(0x02A21208, InputStateHistory_Enumerator);
-DO_TYPEDEF(0x02A22C40, ReadOnlyArray_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
-DO_TYPEDEF(0x02A21940, IEnumerator_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
-DO_TYPEDEF(0x02A21A78, List_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
-DO_TYPEDEF(0x02A21988, Dictionary_2_System_String_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
-DO_TYPEDEF(0x02A21950, IEnumerable_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
+DO_TYPEDEF(
+    0x02A22C40,
+    ReadOnlyArray_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
+DO_TYPEDEF(
+    0x02A21940,
+    IEnumerator_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
+DO_TYPEDEF(
+    0x02A21A78,
+    List_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
+DO_TYPEDEF(
+    0x02A21988,
+    Dictionary_2_System_String_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
+DO_TYPEDEF(
+    0x02A21950,
+    IEnumerable_1_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_);
 DO_TYPEDEF(0x02A218D0, InputControlLayout_Builder_ControlBuilder_c);
-DO_TYPEDEF(0x02A21A08, Func_2_String_UnityEngine_InputSystem_Utilities_InternedString_);
+DO_TYPEDEF(0x02A21A08,
+           Func_2_String_UnityEngine_InputSystem_Utilities_InternedString_);
 DO_TYPEDEF(0x02A219C0, InputControlLayout_LayoutJson);
 DO_TYPEDEF(0x02A21700, InputControlLayout_ControlItemJson);
 DO_TYPEDEF(0x02A21738, InputControlLayout_ControlItemJson__Array);
 DO_TYPEDEF(0x02A21630, InputControlLayout_LayoutJson_c);
 DO_TYPEDEF(0x02A21740, InputControlLayout_ControlItemJson_c);
-DO_TYPEDEF(0x02A216A0, Func_2_UnityEngine_InputSystem_Utilities_NamedValue_String_);
-DO_TYPEDEF(0x02A21670, Func_2_UnityEngine_InputSystem_Utilities_NameAndParameters_String_);
+DO_TYPEDEF(0x02A216A0,
+           Func_2_UnityEngine_InputSystem_Utilities_NamedValue_String_);
+DO_TYPEDEF(0x02A21670,
+           Func_2_UnityEngine_InputSystem_Utilities_NameAndParameters_String_);
 DO_TYPEDEF(0x02A21890, InputControlLayout_LayoutNotFoundException);
 DO_TYPEDEF(0x02A21A30, InputControlLayout_c);
 DO_TYPEDEF(0x02A215F0, InputDeviceBuilder);
-DO_TYPEDEF(0x02A3D0C0, IEnumerable_1_KeyValuePair_2_System_String_System_Object_);
+DO_TYPEDEF(0x02A3D0C0,
+           IEnumerable_1_KeyValuePair_2_System_String_System_Object_);
 DO_TYPEDEF(0x02A21588, InputDeviceMatcher_get_patterns_d_4);
 DO_TYPEDEF(0x02A21580, InputDeviceMatcher_c);
 DO_TYPEDEF(0x02A21538, Func_2_Char_Boolean_);
-DO_TYPEDEF(0x02A20B20, IEnumerator_1_UnityEngine_InputSystem_Utilities_InputActionTrace_ActionEventPtr_);
+DO_TYPEDEF(
+    0x02A20B20,
+    IEnumerator_1_UnityEngine_InputSystem_Utilities_InputActionTrace_ActionEventPtr_);
 DO_TYPEDEF(0x02A20AC0, InputActionTrace_ActionEventPtr);
 DO_TYPEDEF(0x02A20B00, InputActionTrace_Enumerator);
 DO_TYPEDEF(0x02A20AA0, JsonParser);
 DO_TYPEDEF(0x02A20A48, JsonParser_JsonString);
 DO_TYPEDEF(0x02A209C0, JsonParser_JsonValue);
-DO_TYPEDEF(0x02A20A78, List_1_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_);
+DO_TYPEDEF(0x02A20A78,
+           List_1_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_);
 DO_TYPEDEF(0x02A20A40, JsonParser_JsonValue_c);
-DO_TYPEDEF(0x02A209F8, Func_2_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_String_);
-DO_TYPEDEF(0x02A209D8, Func_2_System_Collections_Generic_KeyValuePair_2_String_);
-DO_TYPEDEF(0x02A22290, IEnumerable_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
+DO_TYPEDEF(
+    0x02A209F8,
+    Func_2_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_String_);
+DO_TYPEDEF(0x02A209D8,
+           Func_2_System_Collections_Generic_KeyValuePair_2_String_);
+DO_TYPEDEF(0x02A22290,
+           IEnumerable_1_UnityEngine_InputSystem_Utilities_NameAndParameters_);
 DO_TYPEDEF(0x02A209A0, NameAndParameters_c);
 DO_TYPEDEF(0x02A22678, Func_2_String_String_);
 DO_TYPEDEF(0x02A208B8, StringHelpers_Tokenize_d_8);
@@ -3042,7 +3285,8 @@ DO_TYPEDEF(0x02A19E90, MonoBehaviour__Array);
 DO_TYPEDEF(0x02A1FEB0, RpcTarget__Enum);
 DO_TYPEDEF(0x02A1FFE0, HashSet_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A1FF98, PhotonView__Array);
-DO_TYPEDEF(0x02A20158, NonAllocDictionary_2_System_Int32_Photon_Pun_PhotonView_);
+DO_TYPEDEF(0x02A20158,
+           NonAllocDictionary_2_System_Int32_Photon_Pun_PhotonView_);
 DO_TYPEDEF(0x02A1FF60, Action_2_Photon_Pun_PhotonView_Photon_Realtime_Player_);
 DO_TYPEDEF(0x02A20050, IPunPrefabPool);
 DO_TYPEDEF(0x02A1FE80, PhotonNetwork_SerializeViewBatch);
@@ -3055,7 +3299,8 @@ DO_TYPEDEF(0x02A200C8, PhotonStream);
 DO_TYPEDEF(0x02A1FEC8, PhotonMessageInfo);
 DO_TYPEDEF(0x02A20088, DefaultPool);
 DO_TYPEDEF(0x02A205A0, Dictionary_2_System_String_UnityEngine_GameObject_);
-DO_TYPEDEF(0x02A20318, List_1_Photon_Pun_PhotonAnimatorView_SynchronizedParameter_);
+DO_TYPEDEF(0x02A20318,
+           List_1_Photon_Pun_PhotonAnimatorView_SynchronizedParameter_);
 DO_TYPEDEF(0x02A20368, PhotonAnimatorView_SynchronizedParameter);
 DO_TYPEDEF(0x02A202F8, List_1_Photon_Pun_PhotonAnimatorView_SynchronizedLayer_);
 DO_TYPEDEF(0x02A203C0, PhotonAnimatorView_SynchronizedLayer);
@@ -3072,10 +3317,13 @@ DO_TYPEDEF(0x02A1FDE8, PhotonTransformViewPositionControl);
 DO_TYPEDEF(0x02A1FCD8, Queue_1_UnityEngine_Vector3_);
 DO_TYPEDEF(0x02A1FDA0, PhotonTransformViewRotationControl);
 DO_TYPEDEF(0x02A1FD78, PhotonTransformViewScaleControl);
-DO_TYPEDEF(0x02A1FBB0, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_2);
-DO_TYPEDEF(0x02A1F360, u0927u0928u091Bu0928u091Bu091Fu091Eu0924u091Bu0929u091E__Enum);
+DO_TYPEDEF(0x02A1FBB0,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_2);
+DO_TYPEDEF(0x02A1F360,
+           u0927u0928u091Bu0928u091Bu091Fu091Eu0924u091Bu0929u091E__Enum);
 DO_TYPEDEF(0x02A1F6E0, u0923u0928u0920u0921u0923u0920u0927u0927u0920u0923u0926);
-DO_TYPEDEF(0x02A1F378, u0923u0924u0920u0921u091Cu091Cu0922u0929u091Fu091Eu0926__Enum);
+DO_TYPEDEF(0x02A1F378,
+           u0923u0924u0920u0921u091Cu091Cu0922u0929u091Fu091Eu0926__Enum);
 DO_TYPEDEF(0x02A1F3D0, u0920u0925u091Au0923u0922u091Cu0926u0926u0927u0922u0921);
 DO_TYPEDEF(0x02A1F6A0, u091Cu0924u0929u0925u0928u091Cu0926u0924u0924u091Eu0926);
 DO_TYPEDEF(0x02A1F968, Recorder_InputSourceType__Enum);
@@ -3105,20 +3353,27 @@ DO_TYPEDEF(0x02A1F678, SaveOutgoingStreamToFile_OutgoingStreamSaverFloat);
 DO_TYPEDEF(0x02A1F650, SaveOutgoingStreamToFile_OutgoingStreamSaverShort);
 DO_TYPEDEF(0x02A1F638, TestTone_c);
 DO_TYPEDEF(0x02A1F5D0, ToneAudioReader);
-DO_TYPEDEF(0x02A1F330, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_3);
+DO_TYPEDEF(0x02A1F330,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_3);
 DO_TYPEDEF(0x02A1EC38, ParameterOverride);
 DO_TYPEDEF(0x02A1F2C0, AmbientOcclusionModeParameter);
 DO_TYPEDEF(0x02A1F230, AmbientOcclusionQualityParameter);
 DO_TYPEDEF(0x02A1EB30, PostProcessEffectSettings);
 DO_TYPEDEF(0x02A1F240, BoolParameter);
-DO_TYPEDEF(0x02A1EC50, IEnumerator_1_UnityEngine_Rendering_PostProcessing_ParameterOverride_);
+DO_TYPEDEF(
+    0x02A1EC50,
+    IEnumerator_1_UnityEngine_Rendering_PostProcessing_ParameterOverride_);
 DO_TYPEDEF(0x02A1EB80, PostProcessRenderContext);
 DO_TYPEDEF(0x02A1E680, PostProcessResources_Shaders);
 DO_TYPEDEF(0x02A1E6A8, PostProcessResources_ComputeShaders);
 DO_TYPEDEF(0x02A1EBD8, PropertySheetFactory);
-DO_TYPEDEF(0x02A1E5E8, Dictionary_2_UnityEngine_Shader_UnityEngine_Rendering_PostProcessing_PropertySheet_);
+DO_TYPEDEF(
+    0x02A1E5E8,
+    Dictionary_2_UnityEngine_Shader_UnityEngine_Rendering_PostProcessing_PropertySheet_);
 DO_TYPEDEF(0x02A1E5D8, PropertySheet);
-DO_TYPEDEF(0x02A1ED30, Dictionary_2_UnityEngine_Rendering_PostProcessing_MonitorType_UnityEngine_Rendering_PostProcessing_Monitor_);
+DO_TYPEDEF(
+    0x02A1ED30,
+    Dictionary_2_UnityEngine_Rendering_PostProcessing_MonitorType_UnityEngine_Rendering_PostProcessing_Monitor_);
 DO_TYPEDEF(0x02A1F0D8, RenderTexture__Array);
 DO_TYPEDEF(0x02A1F108, RenderTexture__Array__Array);
 DO_TYPEDEF(0x02A1EC00, LogHistogram);
@@ -3151,35 +3406,54 @@ DO_TYPEDEF(0x02A1E490, ScreenSpaceReflectionsRenderer_QualityPreset__Array);
 DO_TYPEDEF(0x02A1E3A8, VignetteModeParameter);
 DO_TYPEDEF(0x02A1EB10, PostProcessBundle);
 DO_TYPEDEF(0x02A1E9A8, PostProcessLayer_SerializedBundleRef);
-DO_TYPEDEF(0x02A1EAC0, Dictionary_2_UnityEngine_Rendering_PostProcessing_PostProcessEvent_List_1_UnityEngine_Rendering_PostProcessing_PostProcessLayer_SerializedBundleRef_);
-DO_TYPEDEF(0x02A1EB68, Dictionary_2_System_Type_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
+DO_TYPEDEF(
+    0x02A1EAC0,
+    Dictionary_2_UnityEngine_Rendering_PostProcessing_PostProcessEvent_List_1_UnityEngine_Rendering_PostProcessing_PostProcessLayer_SerializedBundleRef_);
+DO_TYPEDEF(
+    0x02A1EB68,
+    Dictionary_2_System_Type_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
 DO_TYPEDEF(0x02A1EBB8, TargetPool);
-DO_TYPEDEF(0x02A1E948, List_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectRenderer_);
+DO_TYPEDEF(
+    0x02A1E948,
+    List_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectRenderer_);
 DO_TYPEDEF(0x02A1E908, List_1_UnityEngine_Rendering_RenderTargetIdentifier_);
 DO_TYPEDEF(0x02A1ED08, PostProcessEffectSettings_c);
 DO_TYPEDEF(0x02A1ECC8, Func_2_System_Reflection_FieldInfo_Boolean_);
 DO_TYPEDEF(0x02A1ECB0, Func_2_System_Reflection_FieldInfo_Int32_);
 DO_TYPEDEF(0x02A1EB00, PostProcessEventComparer);
-DO_TYPEDEF(0x02A1E828, List_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
+DO_TYPEDEF(
+    0x02A1E828,
+    List_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
 DO_TYPEDEF(0x02A1EA98, PostProcessLayer_c_DisplayClass54_0);
 DO_TYPEDEF(0x02A1E8F0, PostProcessLayer_c_DisplayClass54_1);
 DO_TYPEDEF(0x02A1E9E8, PostProcessLayer_c_DisplayClass54_2);
 DO_TYPEDEF(0x02A1E988, PostProcessLayer_c_DisplayClass54_3);
 DO_TYPEDEF(0x02A1EA58, PostProcessLayer_c);
-DO_TYPEDEF(0x02A1EA20, Func_2_System_Collections_Generic_KeyValuePair_2_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
+DO_TYPEDEF(
+    0x02A1EA20,
+    Func_2_System_Collections_Generic_KeyValuePair_2_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
 DO_TYPEDEF(0x02A1E8B8, PostProcessManager);
-DO_TYPEDEF(0x02A1E898, Dictionary_2_System_Int32_List_1_UnityEngine_Rendering_PostProcessing_PostProcessVolume_);
-DO_TYPEDEF(0x02A1E868, List_1_UnityEngine_Rendering_PostProcessing_PostProcessVolume_);
+DO_TYPEDEF(
+    0x02A1E898,
+    Dictionary_2_System_Int32_List_1_UnityEngine_Rendering_PostProcessing_PostProcessVolume_);
+DO_TYPEDEF(0x02A1E868,
+           List_1_UnityEngine_Rendering_PostProcessing_PostProcessVolume_);
 DO_TYPEDEF(0x02A1E800, List_1_UnityEngine_Collider_);
 DO_TYPEDEF(0x02A1E858, Dictionary_2_System_Int32_System_Boolean_);
-DO_TYPEDEF(0x02A1E7D8, Dictionary_2_System_Type_UnityEngine_Rendering_PostProcessing_PostProcessAttribute_);
+DO_TYPEDEF(
+    0x02A1E7D8,
+    Dictionary_2_System_Type_UnityEngine_Rendering_PostProcessing_PostProcessAttribute_);
 DO_TYPEDEF(0x02A1E7A8, PostProcessManager_c);
 DO_TYPEDEF(0x02A1E778, Func_2_Type_Boolean_);
 DO_TYPEDEF(0x02A1E6F8, PostProcessProfile_c);
-DO_TYPEDEF(0x02A1E6D8, Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
+DO_TYPEDEF(
+    0x02A1E6D8,
+    Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
 DO_TYPEDEF(0x02A1E760, IEnumerable_1_System_Type_);
 DO_TYPEDEF(0x02A1E550, RuntimeUtilities_c);
-DO_TYPEDEF(0x02A1E528, Func_2_System_Reflection_Assembly_System_Collections_Generic_IEnumerable_1_);
+DO_TYPEDEF(
+    0x02A1E528,
+    Func_2_System_Reflection_Assembly_System_Collections_Generic_IEnumerable_1_);
 DO_TYPEDEF(0x02A1E3E0, TextureLerper);
 DO_TYPEDEF(0x02A1E3C8, List_1_UnityEngine_RenderTexture_);
 DO_TYPEDEF(0x02A1E348, ChannelCreationOptions);
@@ -3191,25 +3465,33 @@ DO_TYPEDEF(0x02A1E328, AuthenticationValues_1);
 DO_TYPEDEF(0x02A1E298, Dictionary_2_System_String_Photon_Chat_ChatChannel_);
 DO_TYPEDEF(0x02A1E2F8, IChatClientListener);
 DO_TYPEDEF(0x02A1E2C8, ChatPeer);
-DO_TYPEDEF(0x02A1E220, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_4);
+DO_TYPEDEF(0x02A1E220,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_4);
 DO_TYPEDEF(0x02A1E170, CellTree);
 DO_TYPEDEF(0x02A1E198, CellTreeNode);
 DO_TYPEDEF(0x02A1E1F8, List_1_Photon_Pun_UtilityScripts_CellTreeNode_);
 DO_TYPEDEF(0x02A1E0D8, PointedAtGameObjectInfo);
 DO_TYPEDEF(0x02A1DDE8, StatesGui);
 DO_TYPEDEF(0x02A1DF98, PhotonTeam);
-DO_TYPEDEF(0x02A1E080, Action_2_Photon_Realtime_Player_Photon_Pun_UtilityScripts_PhotonTeam_);
+DO_TYPEDEF(
+    0x02A1E080,
+    Action_2_Photon_Realtime_Player_Photon_Pun_UtilityScripts_PhotonTeam_);
 DO_TYPEDEF(0x02A1E0A0, PhotonTeamsManager);
 DO_TYPEDEF(0x02A1DFB8, List_1_Photon_Pun_UtilityScripts_PhotonTeam_);
-DO_TYPEDEF(0x02A1E060, Dictionary_2_System_Byte_Photon_Pun_UtilityScripts_PhotonTeam_);
-DO_TYPEDEF(0x02A1E020, Dictionary_2_System_String_Photon_Pun_UtilityScripts_PhotonTeam_);
-DO_TYPEDEF(0x02A1DFF0, Dictionary_2_System_Byte_HashSet_1_Photon_Realtime_Player_);
+DO_TYPEDEF(0x02A1E060,
+           Dictionary_2_System_Byte_Photon_Pun_UtilityScripts_PhotonTeam_);
+DO_TYPEDEF(0x02A1E020,
+           Dictionary_2_System_String_Photon_Pun_UtilityScripts_PhotonTeam_);
+DO_TYPEDEF(0x02A1DFF0,
+           Dictionary_2_System_Byte_HashSet_1_Photon_Realtime_Player_);
 DO_TYPEDEF(0x02A1DFE0, HashSet_1_Photon_Realtime_Player_);
 DO_TYPEDEF(0x02A1DF38, PlayerNumbering_PlayerNumberingChanged);
 DO_TYPEDEF(0x02A1DF58, PlayerNumbering);
 DO_TYPEDEF(0x02A1DF08, PlayerNumbering_c);
 DO_TYPEDEF(0x02A1DED0, PunTeams);
-DO_TYPEDEF(0x02A1DEE0, Dictionary_2_Photon_Pun_UtilityScripts_PunTeams_Team_List_1_Photon_Realtime_Player_);
+DO_TYPEDEF(
+    0x02A1DEE0,
+    Dictionary_2_Photon_Pun_UtilityScripts_PunTeams_Team_List_1_Photon_Realtime_Player_);
 DO_TYPEDEF(0x02A1DE90, PunTeams_Team__Enum);
 DO_TYPEDEF(0x02A1DE80, List_1_Photon_Realtime_Player_);
 DO_TYPEDEF(0x02A1E130, OnClickDestroy_DestroyRpc_d_4);
@@ -3219,22 +3501,33 @@ DO_TYPEDEF(0x02A1E0E8, Stack_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A1E1B8, CountdownTimer_CountdownTimerHasExpired);
 DO_TYPEDEF(0x02A1E1E0, CountdownTimer);
 DO_TYPEDEF(0x02A1DE18, IPunTurnManagerCallbacks);
-DO_TYPEDEF(0x02A1DDD0, Dictionary_2_UnityEngine_UI_Toggle_Photon_Pun_UtilityScripts_TabViewManager_Tab_);
+DO_TYPEDEF(
+    0x02A1DDD0,
+    Dictionary_2_UnityEngine_UI_Toggle_Photon_Pun_UtilityScripts_TabViewManager_Tab_);
 DO_TYPEDEF(0x02A1DDB8, TabViewManager_c_DisplayClass7_0);
-DO_TYPEDEF(0x02A1DD70, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_5);
+DO_TYPEDEF(0x02A1DD70,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_5);
 DO_TYPEDEF(0x02A1DD50, PhotonVoiceNetwork);
-DO_TYPEDEF(0x02A1DD00, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_6);
-DO_TYPEDEF(0x02A1DCD8, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_7);
+DO_TYPEDEF(0x02A1DD00,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_6);
+DO_TYPEDEF(0x02A1DCD8,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_7);
 DO_TYPEDEF(0x02A1DC80, DataPrivacy_UserPostData);
 DO_TYPEDEF(0x02A1DC58, Action_1_String_);
 DO_TYPEDEF(0x02A1DCB0, DataPrivacy_c_DisplayClass9_0);
 DO_TYPEDEF(0x02A1DC28, RebindActionUI);
 DO_TYPEDEF(0x02A1DB78, RebindActionUI_UpdateBindingUIEvent);
 DO_TYPEDEF(0x02A1DB50, RebindActionUI_InteractiveRebindEvent);
-DO_TYPEDEF(0x02A1DBF0, List_1_UnityEngine_InputSystem_Samples_RebindUI_RebindActionUI_);
-DO_TYPEDEF(0x02A1DB38, RebindActionUI_u0920u0921u091Bu0927u091Eu0922u0923u0925u091Fu091Bu091D);
-DO_TYPEDEF(0x02A1DBB8, RebindActionUI_u091Eu0927u0921u0928u0922u0928u091Bu091Au0928u0926u091F);
-DO_TYPEDEF(0x02A1DAE0, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_8);
+DO_TYPEDEF(0x02A1DBF0,
+           List_1_UnityEngine_InputSystem_Samples_RebindUI_RebindActionUI_);
+DO_TYPEDEF(
+    0x02A1DB38,
+    RebindActionUI_u0920u0921u091Bu0927u091Eu0922u0923u0925u091Fu091Bu091D);
+DO_TYPEDEF(
+    0x02A1DBB8,
+    RebindActionUI_u091Eu0927u0921u0928u0922u0928u091Bu091Au0928u0926u091F);
+DO_TYPEDEF(0x02A1DAE0,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_8);
 DO_TYPEDEF(0x02A5A2E8, ChannelPacket);
 DO_TYPEDEF(0x02A1DA70, ChannelBuffer);
 DO_TYPEDEF(0x02A1D9C8, NetworkError__Enum);
@@ -3247,7 +3540,9 @@ DO_TYPEDEF(0x02A1D6D0, NetworkHash128);
 DO_TYPEDEF(0x02A1D700, NetworkInstanceId);
 DO_TYPEDEF(0x02A1D328, NetworkIdentity);
 DO_TYPEDEF(0x02A1D6A0, NetworkBehaviour);
-DO_TYPEDEF(0x02A1D390, Dictionary_2_System_Int32_UnityEngine_Networking_NetworkBehaviour_Invoker_);
+DO_TYPEDEF(
+    0x02A1D390,
+    Dictionary_2_System_Int32_UnityEngine_Networking_NetworkBehaviour_Invoker_);
 DO_TYPEDEF(0x02A1D398, NetworkBehaviour_UNetInvokeType__Enum);
 DO_TYPEDEF(0x02A1D3D0, NetworkBehaviour_Invoker);
 DO_TYPEDEF(0x02A1D718, NetworkReader);
@@ -3258,11 +3553,15 @@ DO_TYPEDEF(0x02A1D580, List_1_UnityEngine_Networking_NetworkConnection_);
 DO_TYPEDEF(0x02A1CDA8, NetworkIdentity_ClientAuthorityCallback);
 DO_TYPEDEF(0x02A1D4C8, NetworkMessage);
 DO_TYPEDEF(0x02A1D118, HashSet_1_UnityEngine_Networking_NetworkIdentity_);
-DO_TYPEDEF(0x02A1CE38, Dictionary_2_System_Int16_UnityEngine_Networking_NetworkMessageDelegate_);
+DO_TYPEDEF(
+    0x02A1CE38,
+    Dictionary_2_System_Int16_UnityEngine_Networking_NetworkMessageDelegate_);
 DO_TYPEDEF(0x02A1D750, NetworkMessageDelegate);
 DO_TYPEDEF(0x02A1D300, NetworkMessageHandlers);
 DO_TYPEDEF(0x02A1D108, HashSet_1_UnityEngine_Networking_NetworkInstanceId_);
-DO_TYPEDEF(0x02A1D1E8, Dictionary_2_System_Int16_UnityEngine_Networking_NetworkConnection_PacketStat_);
+DO_TYPEDEF(
+    0x02A1D1E8,
+    Dictionary_2_System_Int16_UnityEngine_Networking_NetworkConnection_PacketStat_);
 DO_TYPEDEF(0x02A1D1D8, NetworkConnection_PacketStat);
 DO_TYPEDEF(0x02A1DA88, Queue_1_UnityEngine_Networking_ChannelPacket_);
 DO_TYPEDEF(0x02A1DA30, List_1_UnityEngine_Networking_ChannelPacket_);
@@ -3270,9 +3569,15 @@ DO_TYPEDEF(0x02A1CD38, PeerInfoMessage);
 DO_TYPEDEF(0x02A5A210, PeerInfoPlayer);
 DO_TYPEDEF(0x02A1CCF0, PeerInfoPlayer__Array);
 DO_TYPEDEF(0x02A1CB10, PeerInfoMessage__Array);
-DO_TYPEDEF(0x02A1CCB0, Dictionary_2_UnityEngine_Networking_NetworkInstanceId_UnityEngine_Networking_NetworkIdentity_);
-DO_TYPEDEF(0x02A1CC68, Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_GameObject_);
-DO_TYPEDEF(0x02A1D790, Dictionary_2_UnityEngine_Networking_NetworkSceneId_UnityEngine_Networking_NetworkIdentity_);
+DO_TYPEDEF(
+    0x02A1CCB0,
+    Dictionary_2_UnityEngine_Networking_NetworkInstanceId_UnityEngine_Networking_NetworkIdentity_);
+DO_TYPEDEF(
+    0x02A1CC68,
+    Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_GameObject_);
+DO_TYPEDEF(
+    0x02A1D790,
+    Dictionary_2_UnityEngine_Networking_NetworkSceneId_UnityEngine_Networking_NetworkIdentity_);
 DO_TYPEDEF(0x02A1D510, NetworkClient);
 DO_TYPEDEF(0x02A1D190, List_1_UnityEngine_Networking_NetworkClient_);
 DO_TYPEDEF(0x02A1D188, CRCMessage);
@@ -3280,8 +3585,12 @@ DO_TYPEDEF(0x02A5A220, CRCMessageEntry);
 DO_TYPEDEF(0x02A1CB30, CRCMessageEntry__Array);
 DO_TYPEDEF(0x02A1D998, ClientScene);
 DO_TYPEDEF(0x02A1D980, NetworkScene);
-DO_TYPEDEF(0x02A1CC40, Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_Networking_SpawnDelegate_);
-DO_TYPEDEF(0x02A1CC30, Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_Networking_UnSpawnDelegate_);
+DO_TYPEDEF(
+    0x02A1CC40,
+    Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_Networking_SpawnDelegate_);
+DO_TYPEDEF(
+    0x02A1CC30,
+    Dictionary_2_UnityEngine_Networking_NetworkHash128_UnityEngine_Networking_UnSpawnDelegate_);
 DO_TYPEDEF(0x02A1D688, ObjectSpawnSceneMessage);
 DO_TYPEDEF(0x02A1D660, ObjectSpawnFinishedMessage);
 DO_TYPEDEF(0x02A1D630, ObjectDestroyMessage);
@@ -3298,7 +3607,8 @@ DO_TYPEDEF(0x02A1D568, Stack_1_UnityEngine_Networking_LocalClient_InternalMsg_);
 DO_TYPEDEF(0x02A1D7C8, NetworkServer);
 DO_TYPEDEF(0x02A1CBE8, ULocalConnectionToClient);
 DO_TYPEDEF(0x02A1CC10, NetworkServer_ServerSimpleWrapper);
-DO_TYPEDEF(0x02A1D0B8, ReadOnlyCollection_1_UnityEngine_Networking_NetworkConnection_);
+DO_TYPEDEF(0x02A1D0B8,
+           ReadOnlyCollection_1_UnityEngine_Networking_NetworkConnection_);
 DO_TYPEDEF(0x02A1D828, RemovePlayerMessage);
 DO_TYPEDEF(0x02A1D530, ULocalConnectionToServer);
 DO_TYPEDEF(0x02A1DA08, LogFilter);
@@ -3307,18 +3617,25 @@ DO_TYPEDEF(0x02A1D478, AnimationMessage);
 DO_TYPEDEF(0x02A1D450, AnimationParametersMessage);
 DO_TYPEDEF(0x02A1D428, AnimationTriggerMessage);
 DO_TYPEDEF(0x02A1D350, NetworkCRC);
-DO_TYPEDEF(0x02A1D0D8, Dictionary_2_System_String_UnityEngine_Networking_NetworkBroadcastResult_);
+DO_TYPEDEF(
+    0x02A1D0D8,
+    Dictionary_2_System_String_UnityEngine_Networking_NetworkBroadcastResult_);
 DO_TYPEDEF(0x02A1D8E8, NetworkManager);
 DO_TYPEDEF(0x02A1D030, NetworkLobbyManager);
 DO_TYPEDEF(0x02A1CE98, List_1_UnityEngine_Networking_QosType_);
 DO_TYPEDEF(0x02A1CD98, PeerListMessage);
-DO_TYPEDEF(0x02A1CCB8, Dictionary_2_System_Int32_UnityEngine_Networking_NetworkMigrationManager_ConnectionPendingPlayers_);
-DO_TYPEDEF(0x02A1CE08, List_1_UnityEngine_Networking_NetworkMigrationManager_PendingPlayerInfo_);
+DO_TYPEDEF(
+    0x02A1CCB8,
+    Dictionary_2_System_Int32_UnityEngine_Networking_NetworkMigrationManager_ConnectionPendingPlayers_);
+DO_TYPEDEF(
+    0x02A1CE08,
+    List_1_UnityEngine_Networking_NetworkMigrationManager_PendingPlayerInfo_);
 DO_TYPEDEF(0x02A5A260, NetworkMigrationManager_PendingPlayerInfo);
 DO_TYPEDEF(0x02A1D8D8, INetworkTransport);
 DO_TYPEDEF(0x02A1D890, AddPlayerMessage);
 DO_TYPEDEF(0x02A1D208, ErrorMessage_1);
-DO_TYPEDEF(0x02A1CF88, List_1_UnityEngine_Networking_NetworkLobbyManager_PendingPlayer_);
+DO_TYPEDEF(0x02A1CF88,
+           List_1_UnityEngine_Networking_NetworkLobbyManager_PendingPlayer_);
 DO_TYPEDEF(0x02A5A270, NetworkLobbyManager_PendingPlayer);
 DO_TYPEDEF(0x02A1CFC8, NetworkLobbyPlayer__Array);
 DO_TYPEDEF(0x02A1CFF0, LobbyReadyToBeginMessage);
@@ -3414,8 +3731,12 @@ DO_TYPEDEF(0x02A1A348, ScreenSpaceReflection_SSRSettings);
 DO_TYPEDEF(0x02A1A350, ScreenSpaceReflection);
 DO_TYPEDEF(0x02A1A318, CrossPlatformInputManager_VirtualAxis);
 DO_TYPEDEF(0x02A1A268, CrossPlatformInputManager_VirtualButton);
-DO_TYPEDEF(0x02A1A238, Dictionary_2_System_String_UnityStandardAssets_CrossPlatformInput_CrossPlatformInputManager_VirtualAxis_);
-DO_TYPEDEF(0x02A1A220, Dictionary_2_System_String_UnityStandardAssets_CrossPlatformInput_CrossPlatformInputManager_VirtualButton_);
+DO_TYPEDEF(
+    0x02A1A238,
+    Dictionary_2_System_String_UnityStandardAssets_CrossPlatformInput_CrossPlatformInputManager_VirtualAxis_);
+DO_TYPEDEF(
+    0x02A1A220,
+    Dictionary_2_System_String_UnityStandardAssets_CrossPlatformInput_CrossPlatformInputManager_VirtualButton_);
 DO_TYPEDEF(0x02A1A2C0, MobileInput);
 DO_TYPEDEF(0x02A1A2A0, StandaloneInput);
 DO_TYPEDEF(0x02A1A568, MouseLook);
@@ -3429,25 +3750,34 @@ DO_TYPEDEF(0x02A1B290, CCallbackBaseVTable_RunCBDel);
 DO_TYPEDEF(0x02A1B260, CCallbackBaseVTable_GetCallbackSizeBytesDel);
 DO_TYPEDEF(0x02A1B170, CallbackIdentityAttribute);
 DO_TYPEDEF(0x02A1AC68, ISteamMatchmakingServerListResponse_VTable);
-DO_TYPEDEF(0x02A1AC38, ISteamMatchmakingServerListResponse_InternalServerResponded);
+DO_TYPEDEF(0x02A1AC38,
+           ISteamMatchmakingServerListResponse_InternalServerResponded);
 DO_TYPEDEF(0x02A1AF98, HServerListRequest);
-DO_TYPEDEF(0x02A1AC28, ISteamMatchmakingServerListResponse_InternalServerFailedToRespond);
-DO_TYPEDEF(0x02A1ABF8, ISteamMatchmakingServerListResponse_InternalRefreshComplete);
+DO_TYPEDEF(0x02A1AC28,
+           ISteamMatchmakingServerListResponse_InternalServerFailedToRespond);
+DO_TYPEDEF(0x02A1ABF8,
+           ISteamMatchmakingServerListResponse_InternalRefreshComplete);
 DO_TYPEDEF(0x02A1ABD8, EMatchMakingServerResponse__Enum);
 DO_TYPEDEF(0x02A1AE30, ISteamMatchmakingPingResponse_VTable);
 DO_TYPEDEF(0x02A1ADF8, ISteamMatchmakingPingResponse_InternalServerResponded);
 DO_TYPEDEF(0x02A1A678, servernetadr_t);
 DO_TYPEDEF(0x02A1B198, CSteamID);
 DO_TYPEDEF(0x02A1A748, gameserveritem_t);
-DO_TYPEDEF(0x02A1ADC8, ISteamMatchmakingPingResponse_InternalServerFailedToRespond);
+DO_TYPEDEF(0x02A1ADC8,
+           ISteamMatchmakingPingResponse_InternalServerFailedToRespond);
 DO_TYPEDEF(0x02A1ADB8, ISteamMatchmakingPlayersResponse_VTable);
-DO_TYPEDEF(0x02A1AD90, ISteamMatchmakingPlayersResponse_InternalAddPlayerToList);
-DO_TYPEDEF(0x02A1AD50, ISteamMatchmakingPlayersResponse_InternalPlayersFailedToRespond);
-DO_TYPEDEF(0x02A1AD48, ISteamMatchmakingPlayersResponse_InternalPlayersRefreshComplete);
+DO_TYPEDEF(0x02A1AD90,
+           ISteamMatchmakingPlayersResponse_InternalAddPlayerToList);
+DO_TYPEDEF(0x02A1AD50,
+           ISteamMatchmakingPlayersResponse_InternalPlayersFailedToRespond);
+DO_TYPEDEF(0x02A1AD48,
+           ISteamMatchmakingPlayersResponse_InternalPlayersRefreshComplete);
 DO_TYPEDEF(0x02A1AD20, ISteamMatchmakingRulesResponse_VTable);
 DO_TYPEDEF(0x02A1ACF8, ISteamMatchmakingRulesResponse_InternalRulesResponded);
-DO_TYPEDEF(0x02A1ACC8, ISteamMatchmakingRulesResponse_InternalRulesFailedToRespond);
-DO_TYPEDEF(0x02A1ACA0, ISteamMatchmakingRulesResponse_InternalRulesRefreshComplete);
+DO_TYPEDEF(0x02A1ACC8,
+           ISteamMatchmakingRulesResponse_InternalRulesFailedToRespond);
+DO_TYPEDEF(0x02A1ACA0,
+           ISteamMatchmakingRulesResponse_InternalRulesRefreshComplete);
 DO_TYPEDEF(0x02A1B1E8, InteropHelp_UTF8StringHandle);
 DO_TYPEDEF(0x02A1A888, InteropHelp_SteamParamStringArray);
 DO_TYPEDEF(0x02A1A768, MMKVPMarshaller);
@@ -3605,23 +3935,36 @@ DO_TYPEDEF(0x02A1B3C0, RotationLimitPolygonal_ReachCone__Array);
 DO_TYPEDEF(0x02A1B540, OffsetPose_EffectorLink__Array);
 DO_TYPEDEF(0x02A1B578, OffsetModifier_Initiate_d_8);
 DO_TYPEDEF(0x02A1B558, OffsetModifierVRIK_Initiate_d_7);
-DO_TYPEDEF(0x02A5B350, u0928u0923u0924u0929u0920u0926u0929u091Du0924u0929u0925_u0920u091Cu091Cu091Au091Fu0921u091Au0925u091Du0920u0922);
+DO_TYPEDEF(
+    0x02A5B350,
+    u0928u0923u0924u0929u0920u0926u0929u091Du0924u0929u0925_u0920u091Cu091Cu091Au091Fu0921u091Au0925u091Du0920u0922);
 DO_TYPEDEF(0x02A5C570, Voxelize);
-DO_TYPEDEF(0x02A5C540, Dictionary_2_UnityEngine_Mesh_Voxelize_u091Fu0927u0929u0922u0921u091Fu0928u0926u091Du0922u0928_);
-DO_TYPEDEF(0x02A5C598, Voxelize_u091Fu0927u0929u0922u0921u091Fu0928u0926u091Du0922u0928);
+DO_TYPEDEF(
+    0x02A5C540,
+    Dictionary_2_UnityEngine_Mesh_Voxelize_u091Fu0927u0929u0922u0921u091Fu0928u0926u091Du0922u0928_);
+DO_TYPEDEF(0x02A5C598,
+           Voxelize_u091Fu0927u0929u0922u0921u091Fu0928u0926u091Du0922u0928);
 DO_TYPEDEF(0x02A5C558, Byte__Array_1);
-DO_TYPEDEF(0x02A17F48, HashSet_1_u0926u0923u0922u0927u0929u0921u091Bu091Du091Bu0923u091D_);
+DO_TYPEDEF(0x02A17F48,
+           HashSet_1_u0926u0923u0922u0927u0929u0921u091Bu091Du091Bu0923u091D_);
 DO_TYPEDEF(0x02A17F78, MCS_RemoveTrisBelowSurface);
 DO_TYPEDEF(0x02A19778, Elevator);
 DO_TYPEDEF(0x02A19710, List_1_UnityEngine_MeshRenderer_);
 DO_TYPEDEF(0x02A17808, MeshRenderer__Array);
-DO_TYPEDEF(0x02A19720, Elevator_u0923u0927u091Cu091Du0923u0924u0920u0920u091Au091Eu0927);
-DO_TYPEDEF(0x02A19750, Elevator_u0920u0929u0928u0929u0926u0921u0927u0920u091Eu0925u091B);
-DO_TYPEDEF(0x02A19C50, BugTarget_u0927u0929u0925u091Du0921u0924u091Au091Fu0928u0922u091B);
-DO_TYPEDEF(0x02A19C20, BugsAI_u0929u0923u091Bu0926u0923u0927u0924u0921u091Bu0920u091E);
-DO_TYPEDEF(0x02A18548, Lightning_u0923u0922u0922u0924u0922u091Du0921u0923u0925u091Du0922);
-DO_TYPEDEF(0x02A18500, Lightning_u091Fu0920u0926u0924u091Bu0920u0926u091Bu0922u0923u091E);
-DO_TYPEDEF(0x02A16FF8, ProtonPack_u0925u0927u091Au091Fu0921u0924u0923u0929u091Bu0926u0925);
+DO_TYPEDEF(0x02A19720,
+           Elevator_u0923u0927u091Cu091Du0923u0924u0920u0920u091Au091Eu0927);
+DO_TYPEDEF(0x02A19750,
+           Elevator_u0920u0929u0928u0929u0926u0921u0927u0920u091Eu0925u091B);
+DO_TYPEDEF(0x02A19C50,
+           BugTarget_u0927u0929u0925u091Du0921u0924u091Au091Fu0928u0922u091B);
+DO_TYPEDEF(0x02A19C20,
+           BugsAI_u0929u0923u091Bu0926u0923u0927u0924u0921u091Bu0920u091E);
+DO_TYPEDEF(0x02A18548,
+           Lightning_u0923u0922u0922u0924u0922u091Du0921u0923u0925u091Du0922);
+DO_TYPEDEF(0x02A18500,
+           Lightning_u091Fu0920u0926u0924u091Bu0920u0926u091Bu0922u0923u091E);
+DO_TYPEDEF(0x02A16FF8,
+           ProtonPack_u0925u0927u091Au091Fu0921u0924u0923u0929u091Bu0926u0925);
 DO_TYPEDEF(0x02A174E0, Nightvision_VignetteSettings);
 DO_TYPEDEF(0x02A17468, Nightvision_VignetteSettings_TextureSettings);
 DO_TYPEDEF(0x02A17420, Nightvision_VignetteSettings_ProceduralSettings);
@@ -3629,26 +3972,37 @@ DO_TYPEDEF(0x02A174A8, Nightvision_NoiseSettings);
 DO_TYPEDEF(0x02A17478, Nightvision_NoiseSettings_TextureSettings);
 DO_TYPEDEF(0x02A5B0F8, u0921u0927u0924u0922u091Fu0929u0921u091Bu091Cu0927u0921);
 DO_TYPEDEF(0x02A198A0, List_1_EMF_);
-DO_TYPEDEF(0x02A195F8, GhostAI_u0920u091Au0920u0921u091Fu0927u091Au0920u0926u0925u091D__Enum);
+DO_TYPEDEF(
+    0x02A195F8,
+    GhostAI_u0920u091Au0920u0921u091Fu0927u091Au0920u0926u0925u091D__Enum);
 DO_TYPEDEF(0x02A18EA8, u091Eu0928u0920u0920u0926u091Eu0925u0920u091Au0928u0923);
 DO_TYPEDEF(0x02A5BE98, u091Bu0921u0929u0926u091Du0924u0923u0920u091Fu0920u091D);
-DO_TYPEDEF(0x02A18E10, u091Eu0923u0924u0921u091Fu0928u0920u0921u0923u0923u0925_u0922u0929u0927u0927u091Eu0928u0925u0920u091Cu091Fu0927__Enum);
+DO_TYPEDEF(
+    0x02A18E10,
+    u091Eu0923u0924u0921u091Fu0928u0920u0921u0923u0923u0925_u0922u0929u0927u0927u091Eu0928u0925u0920u091Cu091Fu0927__Enum);
 DO_TYPEDEF(0x02A195A8, List_1_LightSwitch_);
 DO_TYPEDEF(0x02A19D20, List_1_UnityEngine_Light_);
 DO_TYPEDEF(0x02A185D0, List_1_UnityEngine_Renderer_);
 DO_TYPEDEF(0x02A19580, List_1_UnityEngine_ReflectionProbe_);
-DO_TYPEDEF(0x02A61B60, VRTK_InteractableObject_u0927u091Eu0926u0924u0925u0926u0922u091Bu0927u091Bu0921__Enum);
-DO_TYPEDEF(0x02A61BB0, VRTK_ControllerEvents_u0923u091Fu0924u0920u0923u0925u091Au091Fu0920u091Du091F__Enum);
+DO_TYPEDEF(
+    0x02A61B60,
+    VRTK_InteractableObject_u0927u091Eu0926u0924u0925u0926u0922u091Bu0927u091Bu0921__Enum);
+DO_TYPEDEF(
+    0x02A61BB0,
+    VRTK_ControllerEvents_u0923u091Fu0924u0920u0923u0925u091Au091Fu0920u091Du091F__Enum);
 DO_TYPEDEF(0x02A61928, VRTK_InteractGrab);
 DO_TYPEDEF(0x02A610D8, VRTK_ControllerEvents);
 DO_TYPEDEF(0x02A15CE8, u0925u0928u0922u091Eu0922u0921u091Fu091Cu091Du091Cu0926);
 DO_TYPEDEF(0x02A5B618, u0923u0920u091Cu091Du0927u0923u0928u0928u0927u091Eu0926);
 DO_TYPEDEF(0x02A15DA8, u091Du0921u0926u091Bu091Bu0920u0929u0924u091Au091Bu0927);
-DO_TYPEDEF(0x02A5C2E0, Dictionary_2_System_UInt32_u091Du0921u0926u091Bu091Bu0920u0929u0924u091Au091Bu0927_);
+DO_TYPEDEF(
+    0x02A5C2E0,
+    Dictionary_2_System_UInt32_u091Du0921u0926u091Bu091Bu0920u0929u0924u091Au091Bu0927_);
 DO_TYPEDEF(0x02A5B380, u091Bu091Du0921u0920u091Eu0921u0929u0922u091Eu091Bu091A);
 DO_TYPEDEF(0x02A15B40, u091Cu0921u0923u091Bu091Cu0927u091Du0921u0924u0924u0922);
 DO_TYPEDEF(0x02A5C310, u091Eu091Au0922u0925u091Au0920u091Du0929u091Au091Bu0923);
-DO_TYPEDEF(0x02A17070, List_1_Key_u0921u091Eu091Fu0929u091Cu0921u0920u0920u0924u0921u0925_);
+DO_TYPEDEF(0x02A17070,
+           List_1_Key_u0921u091Eu091Fu0929u091Cu0921u0920u0920u0924u0921u0925_);
 DO_TYPEDEF(0x02A61138, VRTK_SnapDropZone);
 DO_TYPEDEF(0x02A15C28, u091Du0929u091Du0928u0926u0927u091Eu091Cu0921u0929u0927);
 DO_TYPEDEF(0x02A5C240, u0925u0924u0927u0923u0921u0922u0928u0922u0927u0929u0924);
@@ -3680,7 +4034,9 @@ DO_TYPEDEF(0x02A62580, u0928u091Au091Cu0928u091Fu0928u0923u0926u091Bu091Du0928);
 DO_TYPEDEF(0x02A5B3A0, u0920u091Cu0924u0922u0929u0925u0923u0926u0929u0922u0929);
 DO_TYPEDEF(0x02A624C0, u0920u0925u091Du091Du091Bu091Du0922u0920u091Au091Cu0929);
 DO_TYPEDEF(0x02A62160, VRTK_BasePointerRenderer_PointerOriginSmoothingSettings);
-DO_TYPEDEF(0x02A61DA8, VRTK_CurveGenerator_u091Du0925u0921u0925u091Bu091Du0923u091Au0927u0921u0925__Enum__Array);
+DO_TYPEDEF(
+    0x02A61DA8,
+    VRTK_CurveGenerator_u091Du0925u0921u0925u091Bu091Du0923u091Au0927u0921u0925__Enum__Array);
 DO_TYPEDEF(0x02A15AE0, u0920u0929u0928u0921u0927u0920u091Cu0928u091Fu0920u0928);
 DO_TYPEDEF(0x02A5BD30, u0924u091Eu0925u091Au091Cu091Fu0926u0920u091Eu0929u091C);
 DO_TYPEDEF(0x02A60FE8, List_1_VRTK_VRTK_UIPointer_);
@@ -3709,13 +4065,20 @@ DO_TYPEDEF(0x02A18FF8, u0927u091Bu0923u091Bu0928u091Bu0925u0921u091Du0928u0923);
 DO_TYPEDEF(0x02A19078, u091Eu0920u091Cu0927u091Du091Du091Bu091Eu0929u0921u0928);
 DO_TYPEDEF(0x02A19050, u091Eu0925u0923u0929u091Eu0926u0928u0926u0923u0923u0921);
 DO_TYPEDEF(0x02A190A8, u0928u091Au0923u091Bu0928u0926u0926u091Bu0925u0926u0922);
-DO_TYPEDEF(0x02A19438, GhostAI_u0924u0929u0924u091Eu0921u0926u091Du091Bu091Eu091Cu0923);
-DO_TYPEDEF(0x02A18FA8, GhostAI_u0922u091Au091Fu091Bu091Bu091Eu0928u0920u0929u0921u0929);
-DO_TYPEDEF(0x02A18FD8, GhostAI_u091Au091Fu091Eu0928u091Eu091Du0924u091Fu0927u091Bu091B);
-DO_TYPEDEF(0x02A18EB0, GhostAI_u091Fu0927u0925u091Cu0925u091Eu0926u091Au0924u0926u0922);
-DO_TYPEDEF(0x02A19470, GhostAI_u091Au091Bu091Fu091Cu091Fu0929u091Du091Bu0929u091Au0928);
-DO_TYPEDEF(0x02A19498, GhostAI_u0922u0927u0928u091Cu0922u0920u0920u0926u0927u091Du091D);
-DO_TYPEDEF(0x02A18F78, GhostAI_u091Eu091Eu091Eu091Au0927u0929u0923u0922u0925u0927u0926);
+DO_TYPEDEF(0x02A19438,
+           GhostAI_u0924u0929u0924u091Eu0921u0926u091Du091Bu091Eu091Cu0923);
+DO_TYPEDEF(0x02A18FA8,
+           GhostAI_u0922u091Au091Fu091Bu091Bu091Eu0928u0920u0929u0921u0929);
+DO_TYPEDEF(0x02A18FD8,
+           GhostAI_u091Au091Fu091Eu0928u091Eu091Du0924u091Fu0927u091Bu091B);
+DO_TYPEDEF(0x02A18EB0,
+           GhostAI_u091Fu0927u0925u091Cu0925u091Eu0926u091Au0924u0926u0922);
+DO_TYPEDEF(0x02A19470,
+           GhostAI_u091Au091Bu091Fu091Cu091Fu0929u091Du091Bu0929u091Au0928);
+DO_TYPEDEF(0x02A19498,
+           GhostAI_u0922u0927u0928u091Cu0922u0920u0920u0926u0927u091Du091D);
+DO_TYPEDEF(0x02A18F78,
+           GhostAI_u091Eu091Eu091Eu091Au0927u0929u0923u0922u0925u0927u0926);
 DO_TYPEDEF(0x02A190D0, u091Au0924u091Fu0928u091Fu091Au0925u0925u0920u0924u091B);
 DO_TYPEDEF(0x02A192C8, u0923u0920u0928u091Cu091Bu091Bu091Cu091Eu0920u0926u0925);
 DO_TYPEDEF(0x02A191D0, u0921u0927u0925u0926u091Au091Cu091Cu091Cu0923u0929u0926);
@@ -3743,66 +4106,108 @@ DO_TYPEDEF(0x02A19328, u091Cu0925u091Fu091Fu0920u0925u091Fu0923u091Eu091Du0928);
 DO_TYPEDEF(0x02A193E0, u0926u0924u0928u0926u091Cu0920u091Bu0928u0921u0928u0920);
 DO_TYPEDEF(0x02A19288, u0922u0922u0923u0926u0924u091Cu0927u0929u0924u091Eu0924);
 DO_TYPEDEF(0x02A18470, MenuAudio);
-DO_TYPEDEF(0x02A18300, MenuAudio_u0929u091Au0920u0923u0920u091Du0922u0920u091Bu0920u0925);
+DO_TYPEDEF(0x02A18300,
+           MenuAudio_u0929u091Au0920u0923u0920u091Du0922u0920u091Bu0920u0925);
 DO_TYPEDEF(0x02A19BE0, CCTVController);
 DO_TYPEDEF(0x02A19B88, List_1_CCTV_);
 DO_TYPEDEF(0x02A199D8, DeadZoneController);
-DO_TYPEDEF(0x02A19A28, DeadZoneController_u091Au091Au0921u091Du0921u0929u0928u0925u091Cu0922u091D);
-DO_TYPEDEF(0x02A19A48, DeadZoneController_u091Bu091Du0923u0921u091Eu091Bu0924u0921u0924u091Au0927);
-DO_TYPEDEF(0x02A19A08, DeadZoneController_u0924u091Eu091Au091Cu091Du0925u0924u091Eu091Fu091Cu0922);
+DO_TYPEDEF(
+    0x02A19A28,
+    DeadZoneController_u091Au091Au0921u091Du0921u0929u0928u0925u091Cu0922u091D);
+DO_TYPEDEF(
+    0x02A19A48,
+    DeadZoneController_u091Bu091Du0923u0921u091Eu091Bu0924u0921u0924u091Au0927);
+DO_TYPEDEF(
+    0x02A19A08,
+    DeadZoneController_u0924u091Eu091Au091Cu091Du0925u0924u091Eu091Fu091Cu0922);
 DO_TYPEDEF(0x02A19AD0, EvidenceController);
 DO_TYPEDEF(0x02A196E0, List_1_Evidence_);
 DO_TYPEDEF(0x02A18730, LevelRoom__Array);
-DO_TYPEDEF(0x02A197B0, List_1_u0924u0925u091Au0922u0924u091Au0929u0927u0927u0924u0929_);
+DO_TYPEDEF(0x02A197B0,
+           List_1_u0924u0925u091Au0922u0924u091Au0929u0927u0927u0924u0929_);
 DO_TYPEDEF(0x02A5A020, u0924u0925u091Au0922u0924u091Au0929u0927u0927u0924u0929);
-DO_TYPEDEF(0x02A17340, List_1_u0920u0923u091Fu0921u0920u0923u091Fu091Fu091Fu0923u0926_);
+DO_TYPEDEF(0x02A17340,
+           List_1_u0920u0923u091Fu0921u0920u0923u091Fu091Fu091Fu0923u0926_);
 DO_TYPEDEF(0x02A5A080, u0920u0923u091Fu0921u0920u0923u091Fu091Fu091Fu0923u0926);
 DO_TYPEDEF(0x02A19C00, GameController);
 DO_TYPEDEF(0x02A17038, u0920u091Du0929u0926u0928u0925u0929u0928u091Bu0924u091E);
-DO_TYPEDEF(0x02A194E8, List_1_u0920u091Du0929u0926u0928u0925u0929u0928u091Bu0924u091E_);
+DO_TYPEDEF(0x02A194E8,
+           List_1_u0920u091Du0929u0926u0928u0925u0929u0928u091Bu0924u091E_);
 DO_TYPEDEF(0x02A184A0, SteamVR_LoadLevel);
-DO_TYPEDEF(0x02A19558, GameController_u091Cu0924u091Eu0926u091Bu0925u0920u0920u091Eu0924u0923);
-DO_TYPEDEF(0x02A19510, GameController_u0923u091Cu091Du0920u091Du091Au091Au091Fu0929u0927u091D);
-DO_TYPEDEF(0x02A19530, GameController_u0924u0923u091Au0924u0925u091Bu091Cu0927u0928u0925u0925);
+DO_TYPEDEF(
+    0x02A19558,
+    GameController_u091Cu0924u091Eu0926u091Bu0925u0920u0920u091Eu0924u0923);
+DO_TYPEDEF(
+    0x02A19510,
+    GameController_u0923u091Cu091Du0920u091Du091Au091Au091Fu0929u0927u091D);
+DO_TYPEDEF(
+    0x02A19530,
+    GameController_u0924u0923u091Au0924u0925u091Bu091Cu0927u0928u0925u0925);
 DO_TYPEDEF(0x02A18DD0, GhostController);
-DO_TYPEDEF(0x02A18BA8, List_1_JournalController_u0929u0927u091Au0920u0924u091Bu0922u0924u0926u091Eu0923_);
-DO_TYPEDEF(0x02A5A780, JournalController_u0929u0927u091Au0920u0924u091Bu0922u0924u0926u091Eu0923);
+DO_TYPEDEF(
+    0x02A18BA8,
+    List_1_JournalController_u0929u0927u091Au0920u0924u091Bu0922u0924u0926u091Eu0923_);
+DO_TYPEDEF(
+    0x02A5A780,
+    JournalController_u0929u0927u091Au0920u0924u091Bu0922u0924u0926u091Eu0923);
 DO_TYPEDEF(0x02A19CA8, LevelController);
-DO_TYPEDEF(0x02A187A0, List_1_LevelController_u0926u0924u091Eu091Bu0927u091Au091Du0926u0928u0921u091C_);
-DO_TYPEDEF(0x02A5A748, LevelController_u0926u0924u091Eu091Bu0927u091Au091Du0926u0928u0921u091C);
+DO_TYPEDEF(
+    0x02A187A0,
+    List_1_LevelController_u0926u0924u091Eu091Bu0927u091Au091Du0926u0928u0921u091C_);
+DO_TYPEDEF(
+    0x02A5A748,
+    LevelController_u0926u0924u091Eu091Bu0927u091Au091Du0926u0928u0921u091C);
 DO_TYPEDEF(0x02A18708, List_1_JournalController_);
 DO_TYPEDEF(0x02A186E0, List_1_Crucifix_);
 DO_TYPEDEF(0x02A186C8, List_1_Torch_);
 DO_TYPEDEF(0x02A18620, LevelValues);
 DO_TYPEDEF(0x02A184D8, LightningController);
-DO_TYPEDEF(0x02A184C0, LightningController_u0928u0928u091Eu0921u0922u091Bu0928u0924u091Bu091Cu0922);
+DO_TYPEDEF(
+    0x02A184C0,
+    LightningController_u0928u0928u091Eu0921u0922u091Bu0928u0924u091Bu091Cu0922);
 DO_TYPEDEF(0x02A5BDC0, u0928u0928u0923u091Eu0926u091Eu091Bu0922u0922u0921u091E);
-DO_TYPEDEF(0x02A5B330, Dictionary_2_u0928u0928u0923u091Eu0926u091Eu091Bu0922u0922u0921u091E_u0925u091Du0924u0928u0921u091Cu0926u0926u0922u0926u0923_System_String_);
+DO_TYPEDEF(
+    0x02A5B330,
+    Dictionary_2_u0928u0928u0923u091Eu0926u091Eu091Bu0922u0922u0921u091E_u0925u091Du0924u0928u0921u091Cu0926u0926u0922u0926u0923_System_String_);
 DO_TYPEDEF(0x02A5B300, List_1_List_1_System_String_);
 DO_TYPEDEF(0x02A19BC8, MapController);
 DO_TYPEDEF(0x02A19640, List_1_Player_);
 DO_TYPEDEF(0x02A19610, MultiplayerController);
 DO_TYPEDEF(0x02A17518, List_1_PhotonDelete_);
-DO_TYPEDEF(0x02A174F0, MultiplayerController_u091Cu091Eu0927u0928u0923u0928u0920u0921u0929u0921u091E);
+DO_TYPEDEF(
+    0x02A174F0,
+    MultiplayerController_u091Cu091Eu0927u0928u0923u0928u0920u0921u0929u0921u091E);
 DO_TYPEDEF(0x02A18D80, ObjectPooler);
 DO_TYPEDEF(0x02A173E8, List_1_ObjectPooler_Pool_);
-DO_TYPEDEF(0x02A173B8, Dictionary_2_System_String_Queue_1_UnityEngine_GameObject_);
+DO_TYPEDEF(0x02A173B8,
+           Dictionary_2_System_String_Queue_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A17388, Queue_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A17328, PauseMenuController);
-DO_TYPEDEF(0x02A16F50, SanityEffectsController_u0924u091Eu091Cu0922u0920u0925u0921u0926u0924u091Au091B);
+DO_TYPEDEF(
+    0x02A16F50,
+    SanityEffectsController_u0924u091Eu091Cu0922u0920u0925u0921u0926u0924u091Au091B);
 DO_TYPEDEF(0x02A18BE0, List_1_InventoryItem_);
-DO_TYPEDEF(0x02A18C30, List_1_InventoryItem_u091Bu091Au091Au091Au0929u0926u0923u091Fu0927u0920u091D_);
-DO_TYPEDEF(0x02A18C10, InventoryItem_u091Bu091Au091Au091Au0929u0926u0923u091Fu0927u0920u091D);
+DO_TYPEDEF(
+    0x02A18C30,
+    List_1_InventoryItem_u091Bu091Au091Au091Au0929u0926u0923u091Fu0927u0920u091D_);
+DO_TYPEDEF(
+    0x02A18C10,
+    InventoryItem_u091Bu091Au091Au091Au0929u0926u0923u091Fu0927u0920u091D);
 DO_TYPEDEF(0x02A19B50, GamepadUISelector);
-DO_TYPEDEF(0x02A16D00, StoreSDKManager_u0926u0925u0928u0927u0924u091Bu0923u091Au0927u0928u091F__Enum);
+DO_TYPEDEF(
+    0x02A16D00,
+    StoreSDKManager_u0926u0925u0928u0927u0924u091Bu0923u091Au0927u0928u091F__Enum);
 DO_TYPEDEF(0x02A16148, StoreSDKManager);
 DO_TYPEDEF(0x02A183A0, ViveportInitialiser);
 DO_TYPEDEF(0x02A183C8, SteamManager);
 DO_TYPEDEF(0x02A19C88, MainManager);
 DO_TYPEDEF(0x02A61068, VRTK_UICanvas);
 DO_TYPEDEF(0x02A18668, List_1_Contract_);
-DO_TYPEDEF(0x02A18660, Contract_u091Au0924u0923u0929u091Fu091Bu0928u091Fu0928u091Eu091D__Enum);
-DO_TYPEDEF(0x02A16E80, List_1_u0923u091Fu091Bu0920u0921u0926u0922u0926u0920u0927u091E_);
+DO_TYPEDEF(
+    0x02A18660,
+    Contract_u091Au0924u0923u0929u091Fu091Bu0928u091Fu0928u091Eu091D__Enum);
+DO_TYPEDEF(0x02A16E80,
+           List_1_u0923u091Fu091Bu0920u0921u0926u0922u0926u0920u0927u091E_);
 DO_TYPEDEF(0x02A16F20, u0923u091Fu091Bu0920u0921u0926u0922u0926u0920u0927u091E);
 DO_TYPEDEF(0x02A16E78, List_1_ServerItem_);
 DO_TYPEDEF(0x02A19908, SetupPhaseController);
@@ -3810,56 +4215,106 @@ DO_TYPEDEF(0x02A19CD8, SoundController);
 DO_TYPEDEF(0x02A19838, SpeechRecognitionController);
 DO_TYPEDEF(0x02A16D60, List_1_EVPRecorder_);
 DO_TYPEDEF(0x02A16058, TrainingController);
-DO_TYPEDEF(0x02A5A040, u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_u0925u0925u0922u0925u0928u0920u0929u091Du091Du091Au0926);
+DO_TYPEDEF(
+    0x02A5A040,
+    u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_u0925u0925u0922u0925u0928u0920u0929u091Du091Du091Au0926);
 DO_TYPEDEF(0x02A5B730, u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927);
 DO_TYPEDEF(0x02A5B6D8, u0920u0926u0921u091Du091Fu091Cu091Cu091Fu0920u0928u0924);
-DO_TYPEDEF(0x02A5BD70, List_1_u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_u0925u0925u0922u0925u0928u0920u0929u091Du091Du091Au0926_);
+DO_TYPEDEF(
+    0x02A5BD70,
+    List_1_u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_u0925u0925u0922u0925u0928u0920u0929u091Du091Du091Au0926_);
 DO_TYPEDEF(0x02A5B700, u0924u0924u0929u091Fu0929u091Du091Eu0924u0922u0920u0920);
-DO_TYPEDEF(0x02A5B6A8, List_1_u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_);
-DO_TYPEDEF(0x02A19A98, DNAEvidence_u0921u0929u0923u0925u0921u091Du0928u0926u0924u0922u0925);
+DO_TYPEDEF(0x02A5B6A8,
+           List_1_u0924u091Bu0920u091Bu091Au091Du091Au0922u0927u0923u0927_);
+DO_TYPEDEF(0x02A19A98,
+           DNAEvidence_u0921u0929u0923u0925u0921u091Du0928u0926u0924u0922u0925);
 DO_TYPEDEF(0x02A18DB0, u091Du0928u0928u091Du0926u0921u0925u091Du091Cu0928u091D);
-DO_TYPEDEF(0x02A19D08, AnimationObject_u0927u0924u0922u091Bu091Du091Eu0927u0921u0927u091Cu091E);
-DO_TYPEDEF(0x02A198F0, Door_u091Du091Bu0922u091Fu091Du0929u091Eu0925u091Bu0921u0929);
-DO_TYPEDEF(0x02A19948, Door_u091Bu091Fu0923u0922u091Fu0923u0922u091Du0925u0923u091F);
-DO_TYPEDEF(0x02A18B70, KeySpawner_u091Cu0920u091Bu091Eu091Eu091Au0921u0926u0922u091Cu0929);
-DO_TYPEDEF(0x02A18568, LightSwitch_u091Eu0924u0923u0928u0926u0922u0920u0928u0921u091Cu0928);
-DO_TYPEDEF(0x02A18578, LightSwitch_u0925u091Du0927u091Bu0929u091Au0926u0927u0929u0920u0920);
-DO_TYPEDEF(0x02A17160, Painting_u0927u0920u0922u0924u091Cu0928u0926u091Eu0923u0926u0927);
-DO_TYPEDEF(0x02A19B60, Candle_u0925u0926u091Fu0928u0925u0925u0926u0925u091Du091Bu0928);
-DO_TYPEDEF(0x02A19810, EVPRecorder_u0928u0922u0922u091Du091Du091Au0923u0928u0923u091Au0926);
-DO_TYPEDEF(0x02A197F8, EVPRecorder_u0925u0929u091Eu0928u0922u0925u0926u091Bu0921u091Au0921);
+DO_TYPEDEF(
+    0x02A19D08,
+    AnimationObject_u0927u0924u0922u091Bu091Du091Eu0927u0921u0927u091Cu091E);
+DO_TYPEDEF(0x02A198F0,
+           Door_u091Du091Bu0922u091Fu091Du0929u091Eu0925u091Bu0921u0929);
+DO_TYPEDEF(0x02A19948,
+           Door_u091Bu091Fu0923u0922u091Fu0923u0922u091Du0925u0923u091F);
+DO_TYPEDEF(0x02A18B70,
+           KeySpawner_u091Cu0920u091Bu091Eu091Eu091Au0921u0926u0922u091Cu0929);
+DO_TYPEDEF(0x02A18568,
+           LightSwitch_u091Eu0924u0923u0928u0926u0922u0920u0928u0921u091Cu0928);
+DO_TYPEDEF(0x02A18578,
+           LightSwitch_u0925u091Du0927u091Bu0929u091Au0926u0927u0929u0920u0920);
+DO_TYPEDEF(0x02A17160,
+           Painting_u0927u0920u0922u0924u091Cu0928u0926u091Eu0923u0926u0927);
+DO_TYPEDEF(0x02A19B60,
+           Candle_u0925u0926u091Fu0928u0925u0925u0926u0925u091Du091Bu0928);
+DO_TYPEDEF(0x02A19810,
+           EVPRecorder_u0928u0922u0922u091Du091Du091Au0923u0928u0923u091Au0926);
+DO_TYPEDEF(0x02A197F8,
+           EVPRecorder_u0925u0929u091Eu0928u0922u0925u0926u091Bu0921u091Au0921);
 DO_TYPEDEF(0x02A16370, Texture__Array);
-DO_TYPEDEF(0x02A18D28, Glowstick_u0923u0928u091Bu0924u0924u0928u0926u091Eu0928u0924u091B);
-DO_TYPEDEF(0x02A18D18, HandCamera_u091Eu0924u0924u0928u091Eu0929u091Fu091Fu0927u0927u0928);
-DO_TYPEDEF(0x02A18C68, IRLightSensor_u091Eu0921u0928u0922u091Eu091Bu0922u0927u0928u0929u091D);
-DO_TYPEDEF(0x02A18C80, IRLightSensor_u0927u0925u0920u0923u0929u0929u091Cu0924u091Bu0929u0928);
-DO_TYPEDEF(0x02A17648, MotionSensor_u0928u0922u0926u091Bu0929u091Fu091Du091Bu0920u0927u0925);
-DO_TYPEDEF(0x02A17620, MotionSensor_u091Fu091Fu091Bu091Fu0924u091Cu091Eu0923u091Au091Cu0921);
-DO_TYPEDEF(0x02A17358, OuijaBoard_u0929u091Au0925u0925u091Bu0921u0923u0920u0921u091Bu0929);
-DO_TYPEDEF(0x02A17180, PainKillers_u0926u0920u0923u0922u0928u091Eu0925u0922u0920u0920u091F);
+DO_TYPEDEF(0x02A18D28,
+           Glowstick_u0923u0928u091Bu0924u0924u0928u0926u091Eu0928u0924u091B);
+DO_TYPEDEF(0x02A18D18,
+           HandCamera_u091Eu0924u0924u0928u091Eu0929u091Fu091Fu0927u0927u0928);
+DO_TYPEDEF(
+    0x02A18C68,
+    IRLightSensor_u091Eu0921u0928u0922u091Eu091Bu0922u0927u0928u0929u091D);
+DO_TYPEDEF(
+    0x02A18C80,
+    IRLightSensor_u0927u0925u0920u0923u0929u0929u091Cu0924u091Bu0929u0928);
+DO_TYPEDEF(
+    0x02A17648,
+    MotionSensor_u0928u0922u0926u091Bu0929u091Fu091Du091Bu0920u0927u0925);
+DO_TYPEDEF(
+    0x02A17620,
+    MotionSensor_u091Fu091Fu091Bu091Fu0924u091Cu091Eu0923u091Au091Cu0921);
+DO_TYPEDEF(0x02A17358,
+           OuijaBoard_u0929u091Au0925u0925u091Bu0921u0923u0920u0921u091Bu0929);
+DO_TYPEDEF(0x02A17180,
+           PainKillers_u0926u0920u0923u0922u0928u091Eu0925u0922u0920u0920u091F);
 DO_TYPEDEF(0x02A17120, List_1_Noise_);
-DO_TYPEDEF(0x02A17148, ParabolicMicrophone_u0922u091Au091Eu0923u091Cu0928u091Eu0922u0921u0928u091A);
-DO_TYPEDEF(0x02A16F80, SaltShaker_u0923u091Du091Fu0924u091Au091Du091Fu091Bu0923u091Fu0929);
-DO_TYPEDEF(0x02A16DE8, SoundSensor_u0926u091Fu091Fu0929u091Fu0922u091Du0922u0925u0920u091B);
-DO_TYPEDEF(0x02A16E10, SoundSensor_u0923u091Eu091Du0920u091Au0922u091Cu0929u0922u0920u0923);
-DO_TYPEDEF(0x02A16DD8, SoundSensor_u0923u0923u0925u091Eu091Au091Du0926u0921u091Fu0928u091C);
-DO_TYPEDEF(0x02A16098, Thermometer_u091Fu0923u0925u0926u091Bu0927u0921u091Au0927u0924u091E);
-DO_TYPEDEF(0x02A16080, Torch_u0922u0922u0929u091Bu0928u091Au0921u0923u091Au0921u0925);
-DO_TYPEDEF(0x02A5C510, WhiteSage_u091Du0927u0924u0922u0921u091Cu0928u0921u0928u0923u091E);
+DO_TYPEDEF(
+    0x02A17148,
+    ParabolicMicrophone_u0922u091Au091Eu0923u091Cu0928u091Eu0922u0921u0928u091A);
+DO_TYPEDEF(0x02A16F80,
+           SaltShaker_u0923u091Du091Fu0924u091Au091Du091Fu091Bu0923u091Fu0929);
+DO_TYPEDEF(0x02A16DE8,
+           SoundSensor_u0926u091Fu091Fu0929u091Fu0922u091Du0922u0925u0920u091B);
+DO_TYPEDEF(0x02A16E10,
+           SoundSensor_u0923u091Eu091Du0920u091Au0922u091Cu0929u0922u0920u0923);
+DO_TYPEDEF(0x02A16DD8,
+           SoundSensor_u0923u0923u0925u091Eu091Au091Du0926u0921u091Fu0928u091C);
+DO_TYPEDEF(0x02A16098,
+           Thermometer_u091Fu0923u0925u0926u091Bu0927u0921u091Au0927u0924u091E);
+DO_TYPEDEF(0x02A16080,
+           Torch_u0922u0922u0929u091Bu0928u091Au0921u0923u091Au0921u0925);
+DO_TYPEDEF(0x02A5C510,
+           WhiteSage_u091Du0927u0924u0922u0921u091Cu0928u0921u0928u0923u091E);
 DO_TYPEDEF(0x02A19D88, LocalisationSystem);
 DO_TYPEDEF(0x02A18418, Dictionary_2_System_String_Photon_Realtime_RoomInfo_);
-DO_TYPEDEF(0x02A18458, LobbyManager_u091Du091Fu0927u0921u0929u0920u0926u091Au0924u091Cu0927);
-DO_TYPEDEF(0x02A18368, MainManager_u0920u0929u0923u0929u091Au0923u0929u0927u091Eu091Fu091D);
-DO_TYPEDEF(0x02A18378, MainManager_u0922u091Bu0929u091Fu0921u091Fu0921u0923u0926u091Bu0929);
-DO_TYPEDEF(0x02A16F00, ServerManager_u0920u0928u0929u0924u0924u0924u0920u0927u0923u0923u091D);
-DO_TYPEDEF(0x02A16EE8, ServerManager_u091Au0920u091Fu091Cu0925u0927u091Du0920u0923u091Bu0926);
-DO_TYPEDEF(0x02A16D38, SplashScreen_u0921u091Du0925u0924u0923u0927u091Eu091Bu0926u091Eu0928);
+DO_TYPEDEF(
+    0x02A18458,
+    LobbyManager_u091Du091Fu0927u0921u0929u0920u0926u091Au0924u091Cu0927);
+DO_TYPEDEF(0x02A18368,
+           MainManager_u0920u0929u0923u0929u091Au0923u0929u0927u091Eu091Fu091D);
+DO_TYPEDEF(0x02A18378,
+           MainManager_u0922u091Bu0929u091Fu0921u091Fu0921u0923u0926u091Bu0929);
+DO_TYPEDEF(
+    0x02A16F00,
+    ServerManager_u0920u0928u0929u0924u0924u0924u0920u0927u0923u0923u091D);
+DO_TYPEDEF(
+    0x02A16EE8,
+    ServerManager_u091Au0920u091Fu091Cu0925u0927u091Du0920u0923u091Bu0926);
+DO_TYPEDEF(
+    0x02A16D38,
+    SplashScreen_u0921u091Du0925u0924u0923u0927u091Eu091Bu0926u091Eu0928);
 DO_TYPEDEF(0x02A5C5D0, VoiceRecognitionManager);
 DO_TYPEDEF(0x02A17748, Mission);
 DO_TYPEDEF(0x02A19688, MissionGhostType);
 DO_TYPEDEF(0x02A19668, MissionManager);
 DO_TYPEDEF(0x02A17710, List_1_Mission_);
-DO_TYPEDEF(0x02A17730, MissionManager_u091Du0924u091Bu0921u0920u091Eu091Eu0922u091Au091Bu091B);
+DO_TYPEDEF(
+    0x02A17730,
+    MissionManager_u091Du0924u091Bu0921u0920u091Eu091Eu0922u091Au091Bu091B);
 DO_TYPEDEF(0x02A177F8, MissionBurnSage);
 DO_TYPEDEF(0x02A18CD0, MissionCapturePhoto);
 DO_TYPEDEF(0x02A177D8, MissionCrucifix);
@@ -3874,56 +4329,96 @@ DO_TYPEDEF(0x02A17658, MissionVictimName);
 DO_TYPEDEF(0x02A19990, List_1_UnityEngine_MonoBehaviour_);
 DO_TYPEDEF(0x02A19970, List_1_UnityEngine_Camera_);
 DO_TYPEDEF(0x02A159A0, VRTK_SDKManager);
-DO_TYPEDEF(0x02A61510, VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926);
+DO_TYPEDEF(
+    0x02A61510,
+    VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926);
 DO_TYPEDEF(0x02A15890, SDK_ScriptingDefineSymbolPredicateAttribute);
 DO_TYPEDEF(0x02A61670, Dictionary_2_System_Type_System_Type_);
 DO_TYPEDEF(0x02A618A0, VRTK_SDKInfo);
 DO_TYPEDEF(0x02A618C0, u0927u091Eu0920u0923u091Eu0929u0922u0925u0928u091Fu091B);
 DO_TYPEDEF(0x02A61848, VRTK_SDKInfo__Array);
-DO_TYPEDEF(0x02A615A8, List_1_VRTK_SDK_ScriptingDefineSymbolPredicateAttribute_);
+DO_TYPEDEF(0x02A615A8,
+           List_1_VRTK_SDK_ScriptingDefineSymbolPredicateAttribute_);
 DO_TYPEDEF(0x02A61720, SDK_ScriptingDefineSymbolPredicateAttribute__Array);
-DO_TYPEDEF(0x02A623D8, VRTK_SDKSetup_u0926u0923u091Bu0926u0920u0925u0922u0925u0922u091Bu091B);
+DO_TYPEDEF(
+    0x02A623D8,
+    VRTK_SDKSetup_u0926u0923u091Bu0926u0920u0925u0922u0925u0922u091Bu091B);
 DO_TYPEDEF(0x02A61448, SDK_BaseSystem);
 DO_TYPEDEF(0x02A61418, SDK_BaseBoundaries);
 DO_TYPEDEF(0x02A61350, SDK_BaseHeadset);
 DO_TYPEDEF(0x02A61370, SDK_BaseController);
-DO_TYPEDEF(0x02A15BE0, SDK_BaseController_u091Fu091Du0920u091Du091Du0920u0929u0928u0929u0928u091C__Enum);
+DO_TYPEDEF(
+    0x02A15BE0,
+    SDK_BaseController_u091Fu091Du0920u091Du091Du0920u0929u0928u0929u0928u091C__Enum);
 DO_TYPEDEF(0x02A15970, u0924u0923u091Fu091Cu0929u0920u0923u091Cu0921u0923u0928);
 DO_TYPEDEF(0x02A61588, VRTK_SDKSetup__Array);
 DO_TYPEDEF(0x02A61658, HashSet_1_VRTK_VRTK_SDKInfo_);
 DO_TYPEDEF(0x02A61568, List_1_UnityEngine_Behaviour_);
 DO_TYPEDEF(0x02A61520, Dictionary_2_UnityEngine_Behaviour_System_Boolean_);
-DO_TYPEDEF(0x02A62410, VRTK_SDKManager_u0929u091Cu0924u0926u0927u0928u091Cu0928u091Cu0927u091F);
-DO_TYPEDEF(0x02A614B0, VRTK_SDKManager_u0925u0929u0926u0921u0921u0925u091Du0928u0921u0929u0926);
-DO_TYPEDEF(0x02A199A0, DisablePlayerComponents_u0929u091Fu0923u091Bu0925u0927u091Au091Du091Cu091Fu0921);
-DO_TYPEDEF(0x02A170C0, PhotonObjectInteract_u0926u091Bu0929u0928u091Du091Bu091Du0920u091Bu0921u091C);
+DO_TYPEDEF(
+    0x02A62410,
+    VRTK_SDKManager_u0929u091Cu0924u0926u0927u0928u091Cu0928u091Cu0927u091F);
+DO_TYPEDEF(
+    0x02A614B0,
+    VRTK_SDKManager_u0925u0929u0926u0921u0921u0925u091Du0928u0921u0929u0926);
+DO_TYPEDEF(
+    0x02A199A0,
+    DisablePlayerComponents_u0929u091Fu0923u091Bu0925u0927u091Au091Du091Cu091Fu0921);
+DO_TYPEDEF(
+    0x02A170C0,
+    PhotonObjectInteract_u0926u091Bu0929u0928u091Du091Bu091Du0920u091Bu0921u091C);
 DO_TYPEDEF(0x02A172E8, PCControls_BindingWrapperClass);
 DO_TYPEDEF(0x02A172B0, List_1_PCControls_BindingSerializable_);
 DO_TYPEDEF(0x02A5A720, PCControls_BindingSerializable);
-DO_TYPEDEF(0x02A17288, PCCrouch_u091Eu091Cu0924u091Au0924u0920u0920u0928u091Au0928u091E);
+DO_TYPEDEF(0x02A17288,
+           PCCrouch_u091Eu091Cu0924u091Au0924u0920u0920u0928u091Au0928u091E);
 DO_TYPEDEF(0x02A171F0, PCMenu_c);
-DO_TYPEDEF(0x02A17238, PCMenu_u0921u0923u0926u0929u091Du091Au0927u0924u0925u0922u0927);
-DO_TYPEDEF(0x02A17260, PCMenu_u0925u0927u091Au0926u091Eu0925u0923u0923u091Au091Au091A);
-DO_TYPEDEF(0x02A171D8, PCPropGrab_u0922u0923u091Bu0920u0924u091Au0923u0922u091Cu0929u091F);
-DO_TYPEDEF(0x02A171B0, PCPushToTalk_u091Eu091Au0926u0925u0923u091Au091Fu0925u0926u091Fu0927);
-DO_TYPEDEF(0x02A19A70, DeadPlayer_u0920u0928u0922u0927u091Bu091Du0928u0927u0927u091Bu0923);
-DO_TYPEDEF(0x02A195C0, FootstepController_u091Eu0929u091Eu091Du0923u0929u0920u0923u0922u0928u0929);
-DO_TYPEDEF(0x02A17088, Player_u0922u0922u0929u0920u0927u0924u0921u0928u091Au0922u0923);
-DO_TYPEDEF(0x02A16120, StoreSDKManager_u0925u0920u0928u0922u0927u091Du0927u0926u091Cu0924u091C);
+DO_TYPEDEF(0x02A17238,
+           PCMenu_u0921u0923u0926u0929u091Du091Au0927u0924u0925u0922u0927);
+DO_TYPEDEF(0x02A17260,
+           PCMenu_u0925u0927u091Au0926u091Eu0925u0923u0923u091Au091Au091A);
+DO_TYPEDEF(0x02A171D8,
+           PCPropGrab_u0922u0923u091Bu0920u0924u091Au0923u0922u091Cu0929u091F);
+DO_TYPEDEF(
+    0x02A171B0,
+    PCPushToTalk_u091Eu091Au0926u0925u0923u091Au091Fu0925u0926u091Fu0927);
+DO_TYPEDEF(0x02A19A70,
+           DeadPlayer_u0920u0928u0922u0927u091Bu091Du0928u0927u0927u091Bu0923);
+DO_TYPEDEF(
+    0x02A195C0,
+    FootstepController_u091Eu0929u091Eu091Du0923u0929u0920u0923u0922u0928u0929);
+DO_TYPEDEF(0x02A17088,
+           Player_u0922u0922u0929u0920u0927u0924u0921u0928u091Au0922u0923);
+DO_TYPEDEF(
+    0x02A16120,
+    StoreSDKManager_u0925u0920u0928u0922u0927u091Du0927u0926u091Cu0924u091C);
 DO_TYPEDEF(0x02A198D0, EMFData);
-DO_TYPEDEF(0x02A196B8, ExitLevel_u0928u0927u0920u091Fu0927u0926u0927u091Du091Eu091Fu0929);
-DO_TYPEDEF(0x02A18BD0, ItemSpawner_u0920u0920u0929u0925u0924u091Cu0924u091Cu0923u0922u0926);
-DO_TYPEDEF(0x02A185F8, LiftButton_u0926u091Fu091Eu0924u0927u0926u091Bu0920u0921u0926u0925);
+DO_TYPEDEF(0x02A196B8,
+           ExitLevel_u0928u0927u0920u091Fu0927u0926u0927u091Du091Eu091Fu0929);
+DO_TYPEDEF(0x02A18BD0,
+           ItemSpawner_u0920u0920u0929u0925u0924u091Cu0924u091Cu0923u0922u0926);
+DO_TYPEDEF(0x02A185F8,
+           LiftButton_u0926u091Fu091Eu0924u0927u0926u091Bu0920u0921u0926u0925);
 DO_TYPEDEF(0x02A18340, MotionSensorData);
 DO_TYPEDEF(0x02A17558, List_1_MotionSensor_);
-DO_TYPEDEF(0x02A17578, MotionSensorData_u091Fu0921u0924u0928u0929u091Du0924u0925u0922u091Fu0927);
-DO_TYPEDEF(0x02A175C8, MotionSensorData_u0929u0927u0925u0924u0924u0921u091Cu091Du0926u0922u091E);
-DO_TYPEDEF(0x02A17588, MotionSensorData_u0929u0927u091Bu0928u0927u0929u0925u0921u0925u0921u0928);
-DO_TYPEDEF(0x02A175F8, MotionSensorData_u0929u0925u091Du091Au091Fu091Fu0922u0922u0929u0924u0928);
+DO_TYPEDEF(
+    0x02A17578,
+    MotionSensorData_u091Fu0921u0924u0928u0929u091Du0924u0925u0922u091Fu0927);
+DO_TYPEDEF(
+    0x02A175C8,
+    MotionSensorData_u0929u0927u0925u0924u0924u0921u091Cu091Du0926u0922u091E);
+DO_TYPEDEF(
+    0x02A17588,
+    MotionSensorData_u0929u0927u091Bu0928u0927u0929u0925u0921u0925u0921u0928);
+DO_TYPEDEF(
+    0x02A175F8,
+    MotionSensorData_u0929u0925u091Du091Au091Fu091Fu0922u0922u0929u0924u0928);
 DO_TYPEDEF(0x02A16E38, SoundSensorData);
 DO_TYPEDEF(0x02A16DA8, List_1_SoundSensor_);
 DO_TYPEDEF(0x02A18B60, TruckRadioController);
-DO_TYPEDEF(0x02A16038, TruckRadioController_u091Au091Du091Eu0926u0921u091Cu0924u0925u0922u091Au0920);
+DO_TYPEDEF(
+    0x02A16038,
+    TruckRadioController_u091Au091Du091Eu0926u0921u091Cu0924u0925u0922u091Au0920);
 DO_TYPEDEF(0x02A16760, u091Au0924u091Au0925u091Du0926u0925u091Du0921u0925u0923);
 DO_TYPEDEF(0x02A5C4C8, GazeEventArgs);
 DO_TYPEDEF(0x02A16738, u0925u0926u0924u0922u0920u091Cu0924u0929u091Bu091Cu0926);
@@ -3952,7 +4447,8 @@ DO_TYPEDEF(0x02A5E100, IVRSystem_GetDeviceToAbsoluteTrackingPose);
 DO_TYPEDEF(0x02A60B50, ETrackingUniverseOrigin__Enum);
 DO_TYPEDEF(0x02A16598, TrackedDevicePose_t__Array);
 DO_TYPEDEF(0x02A5E0D8, IVRSystem_ResetSeatedZeroPose);
-DO_TYPEDEF(0x02A5E0A8, IVRSystem_GetSeatedZeroPoseToStandingAbsoluteTrackingPose);
+DO_TYPEDEF(0x02A5E0A8,
+           IVRSystem_GetSeatedZeroPoseToStandingAbsoluteTrackingPose);
 DO_TYPEDEF(0x02A5E088, IVRSystem_GetRawZeroPoseToStandingAbsoluteTrackingPose);
 DO_TYPEDEF(0x02A5E050, IVRSystem_GetSortedTrackedDeviceIndicesOfClass);
 DO_TYPEDEF(0x02A5DB50, ETrackedDeviceClass__Enum);
@@ -4145,7 +4641,8 @@ DO_TYPEDEF(0x02A16B38, SteamVR_Controller_Device__Array);
 DO_TYPEDEF(0x02A16AC0, SteamVR_ControllerManager);
 DO_TYPEDEF(0x02A254B0, UnityAction_1_System_Boolean_);
 DO_TYPEDEF(0x02A16BE0, UnityAction_2_System_Int32_System_Boolean_);
-DO_TYPEDEF(0x02A167A8, UnityAction_3_UnityEngine_Color_System_Single_System_Boolean_);
+DO_TYPEDEF(0x02A167A8,
+           UnityAction_3_UnityEngine_Color_System_Single_System_Boolean_);
 DO_TYPEDEF(0x02A16BB0, UnityAction_1_Valve_VR_TrackedDevicePose_t_);
 DO_TYPEDEF(0x02A5D788, UnityAction_2_SteamVR_RenderModel_System_Boolean_);
 DO_TYPEDEF(0x02A60D38, RenderModel_ControllerMode_State_t);
@@ -4211,26 +4708,46 @@ DO_TYPEDEF(0x02A16268, SteamVR_TrackedCamera);
 DO_TYPEDEF(0x02A16228, SteamVR_TrackedCamera_VideoStreamTexture__Array);
 DO_TYPEDEF(0x02A161E8, SteamVR_TrackedCamera_VideoStream__Array);
 DO_TYPEDEF(0x02A5C8A0, ViveportDemo);
-DO_TYPEDEF(0x02A5C880, ViveportDemo_u0921u0920u091Du091Eu0925u091Fu0921u0920u0920u091Eu0928);
+DO_TYPEDEF(
+    0x02A5C880,
+    ViveportDemo_u0921u0920u091Du091Eu0925u091Fu0921u0920u0920u091Eu0928);
 DO_TYPEDEF(0x02A5C830, ViveportDemo_ArcadeSession);
-DO_TYPEDEF(0x02A5C850, ViveportDemo_ArcadeSession_u0926u0927u0921u0929u091Eu0922u0926u091Fu091Eu0921u0921);
+DO_TYPEDEF(
+    0x02A5C850,
+    ViveportDemo_ArcadeSession_u0926u0927u0921u0929u091Eu0922u0926u091Fu091Eu0921u0921);
 DO_TYPEDEF(0x02A5C7F0, ViveportDemo_DLC);
 DO_TYPEDEF(0x02A5C758, ViveportDemo_Deeplink);
-DO_TYPEDEF(0x02A5C748, ViveportDemo_Deeplink_u091Eu091Bu091Du0928u0923u091Bu091Fu091Au0921u0922u0921);
+DO_TYPEDEF(
+    0x02A5C748,
+    ViveportDemo_Deeplink_u091Eu091Bu091Du0928u0923u091Bu091Fu091Au0921u0922u0921);
 DO_TYPEDEF(0x02A5C7A0, ViveportDemo_Deeplink_c);
-DO_TYPEDEF(0x02A5C790, ViveportDemo_Deeplink_u0925u0926u0920u0920u0923u0921u091Du0925u0929u091Eu0928);
-DO_TYPEDEF(0x02A5C7C8, ViveportDemo_Deeplink_u0920u091Au091Bu0921u0925u0929u0927u091Bu091Fu0926u0924);
+DO_TYPEDEF(
+    0x02A5C790,
+    ViveportDemo_Deeplink_u0925u0926u0920u0920u0923u0921u091Du0925u0929u091Eu0928);
+DO_TYPEDEF(
+    0x02A5C7C8,
+    ViveportDemo_Deeplink_u0920u091Au091Bu0921u0925u0929u0927u091Bu091Fu0926u0924);
 DO_TYPEDEF(0x02A5C718, ViveportDemo_IAP);
-DO_TYPEDEF(0x02A5C6F8, ViveportDemo_IAP_u0921u0925u0922u0920u0923u091Fu0928u091Fu091Bu0925u091E);
+DO_TYPEDEF(
+    0x02A5C6F8,
+    ViveportDemo_IAP_u0921u0925u0922u0920u0923u091Fu0928u091Fu091Bu0925u091E);
 DO_TYPEDEF(0x02A5CBF0, IAPurchase_QueryResponse);
 DO_TYPEDEF(0x02A5CB58, IAPurchase_QueryListResponse);
 DO_TYPEDEF(0x02A5CBD0, List_1_Viveport_IAPurchase_QueryResponse2_);
 DO_TYPEDEF(0x02A5CB80, IAPurchase_QueryResponse2);
-DO_TYPEDEF(0x02A5C6C8, ViveportDemo_IAP_u091Bu0922u0926u0920u0920u0925u0926u0920u091Bu0928u0924);
+DO_TYPEDEF(
+    0x02A5C6C8,
+    ViveportDemo_IAP_u091Bu0922u0926u0920u0920u0925u0926u0920u091Bu0928u0924);
 DO_TYPEDEF(0x02A5C6A8, ViveportDemo_MainThreadDispatcher);
-DO_TYPEDEF(0x02A5C668, ViveportDemo_MainThreadDispatcher_u0929u0922u091Bu0928u0921u0926u0926u0921u0925u0921u091B);
-DO_TYPEDEF(0x02A5C618, ViveportDemo_MainThreadDispatcher_u0929u0922u091Bu0928u0921u0926u0926u0921u0925u0921u091B_u0920u0921u0924u091Cu0921u0921u091Fu0925u0923u0920u0927);
-DO_TYPEDEF(0x02A5C650, ViveportDemo_MainThreadDispatcher_u091Fu0926u091Eu0924u0920u091Cu0926u091Eu0929u091Au0923_u0929u0929u0921u0929u0924u0920u0921u0923u0924u0927u0924);
+DO_TYPEDEF(
+    0x02A5C668,
+    ViveportDemo_MainThreadDispatcher_u0929u0922u091Bu0928u0921u0926u0926u0921u0925u0921u091B);
+DO_TYPEDEF(
+    0x02A5C618,
+    ViveportDemo_MainThreadDispatcher_u0929u0922u091Bu0928u0921u0926u0926u0921u0925u0921u091B_u0920u0921u0924u091Cu0921u0921u091Fu0925u0923u0920u0927);
+DO_TYPEDEF(
+    0x02A5C650,
+    ViveportDemo_MainThreadDispatcher_u091Fu0926u091Eu0924u0920u091Cu0926u091Eu0929u091Au0923_u0929u0929u0921u0929u0924u0920u0921u0923u0924u0927u0924);
 DO_TYPEDEF(0x02A5C600, ViveportDemo_Subscription);
 DO_TYPEDEF(0x02A5CF00, u0928u091Fu091Bu091Eu0921u091Cu091Fu0927u0922u0921u091D);
 DO_TYPEDEF(0x02A5CB18, MainThreadDispatcher);
@@ -4276,70 +4793,123 @@ DO_TYPEDEF(0x02A5CE28, Session_1);
 DO_TYPEDEF(0x02A5CDE0, Session_SessionHandler);
 DO_TYPEDEF(0x02A5CF88, Logger_2);
 DO_TYPEDEF(0x02A5CB90, u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921);
-DO_TYPEDEF(0x02A5B430, IList_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
-DO_TYPEDEF(0x02A5B408, IDictionary_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
-DO_TYPEDEF(0x02A5B588, IList_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(0x02A5B430,
+           IList_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B408,
+    IDictionary_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B588,
+    IList_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
 DO_TYPEDEF(0x02A5BF18, u091Eu0926u0924u091Au0923u0927u0923u091Bu091Fu0922u0921);
 DO_TYPEDEF(0x02A5BF38, u091Du0920u0928u0926u0924u091Du0922u0922u091Du0923u091B);
-DO_TYPEDEF(0x02A5BEF8, Stack_1_u091Du0920u0928u0926u0924u091Du0922u0922u091Du0923u091B_);
+DO_TYPEDEF(0x02A5BEF8,
+           Stack_1_u091Du0920u0928u0926u0924u091Du0922u0922u091Du0923u091B_);
 DO_TYPEDEF(0x02A5BA60, u0924u0928u0928u0926u0928u0925u091Fu091Bu0929u091Eu0921);
 DO_TYPEDEF(0x02A5B4C0, u091Eu091Au0926u091Eu0926u0928u0925u0928u0925u0926u091E);
-DO_TYPEDEF(0x02A5C200, IEnumerator_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5C200,
+    IEnumerator_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
 DO_TYPEDEF(0x02A5C3F8, u0921u091Eu0926u0927u0927u091Fu0921u0927u0922u091Eu0920);
-DO_TYPEDEF(0x02A5BD08, u091Cu091Bu091Eu0922u0927u091Cu0925u091Fu0920u0925u0929__Enum);
-DO_TYPEDEF(0x02A5BBB8, IDictionary_2_System_String_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(0x02A5BD08,
+           u091Cu091Bu091Eu0922u0927u091Cu0925u091Fu0920u0925u0929__Enum);
+DO_TYPEDEF(
+    0x02A5BBB8,
+    IDictionary_2_System_String_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
 DO_TYPEDEF(0x02A5B8F8, u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929);
 DO_TYPEDEF(0x02A5B8B0, u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927);
 DO_TYPEDEF(0x02A5B990, u091Bu091Au0920u0920u0929u091Cu0921u0926u0928u0923u0924);
-DO_TYPEDEF(0x02A5BB78, IDictionary_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
+DO_TYPEDEF(
+    0x02A5BB78,
+    IDictionary_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
 DO_TYPEDEF(0x02A5C1E8, u091Eu091Cu0926u0924u091Du091Cu091Du0927u0921u0921u0929);
-DO_TYPEDEF(0x02A5C1C8, IDictionary_2_System_Int32_IDictionary_2_System_Int32_System_Int32_);
+DO_TYPEDEF(0x02A5C1C8,
+           IDictionary_2_System_Int32_IDictionary_2_System_Int32_System_Int32_);
 DO_TYPEDEF(0x02A5C118, Stack_1_System_Int32_);
 DO_TYPEDEF(0x02A5C4A0, u091Bu0924u0925u0920u0924u0925u0920u091Fu091Bu091Au0924);
-DO_TYPEDEF(0x02A5C430, u091Bu0924u0925u0920u0924u0925u0920u091Fu091Bu091Au0924_u0921u0923u091Eu0927u0926u091Du091Du0920u0929u091Cu0921);
+DO_TYPEDEF(
+    0x02A5C430,
+    u091Bu0924u0925u0920u0924u0925u0920u091Fu091Bu091Au0924_u0921u0923u091Eu0927u0926u091Du091Du0920u0929u091Cu0921);
 DO_TYPEDEF(0x02A5C408, u091Fu0926u0928u0924u0921u0922u0926u0924u0927u0926u091A);
-DO_TYPEDEF(0x02A5C478, u091Bu0924u0925u0920u0924u0925u0920u091Fu091Bu091Au0924_u0921u0923u091Eu0927u0926u091Du091Du0920u0929u091Cu0921__Array);
+DO_TYPEDEF(
+    0x02A5C478,
+    u091Bu0924u0925u0920u0924u0925u0920u091Fu091Bu091Au0924_u0921u0923u091Eu0927u0926u091Du091Du0920u0929u091Cu0921__Array);
 DO_TYPEDEF(0x02A5CF38, u0923u091Eu091Du091Cu0922u0925u0923u0927u091Fu0928u0924);
-DO_TYPEDEF(0x02A5BA30, IDictionary_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
-DO_TYPEDEF(0x02A5B8D8, IDictionary_2_System_Type_u0928u0927u091Eu091Du091Cu091Du0921u091Cu091Bu0924u0929_);
-DO_TYPEDEF(0x02A5B980, IDictionary_2_System_Type_IDictionary_2_System_Type_System_Reflection_MethodInfo_);
-DO_TYPEDEF(0x02A5BC08, IDictionary_2_System_Type_u091Bu0927u091Eu091Bu0921u0920u0927u0922u091Au0926u091A_);
-DO_TYPEDEF(0x02A5BAE8, IDictionary_2_System_Type_IList_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
-DO_TYPEDEF(0x02A5B9B8, u0923u091Eu091Du091Cu0922u0925u0923u0927u091Fu0928u0924_c);
+DO_TYPEDEF(
+    0x02A5BA30,
+    IDictionary_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
+DO_TYPEDEF(
+    0x02A5B8D8,
+    IDictionary_2_System_Type_u0928u0927u091Eu091Du091Cu091Du0921u091Cu091Bu0924u0929_);
+DO_TYPEDEF(
+    0x02A5B980,
+    IDictionary_2_System_Type_IDictionary_2_System_Type_System_Reflection_MethodInfo_);
+DO_TYPEDEF(
+    0x02A5BC08,
+    IDictionary_2_System_Type_u091Bu0927u091Eu091Bu0921u0920u0927u0922u091Au0926u091A_);
+DO_TYPEDEF(
+    0x02A5BAE8,
+    IDictionary_2_System_Type_IList_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(0x02A5B9B8,
+           u0923u091Eu091Du091Cu0922u0925u0923u0927u091Fu0928u0924_c);
 DO_TYPEDEF(0x02A62000, VRTK_ConsoleViewer);
 DO_TYPEDEF(0x02A62030, Dictionary_2_UnityEngine_LogType_UnityEngine_Color_);
 DO_TYPEDEF(0x02A15638, u091Fu091Eu0921u0927u091Au0922u0929u091Eu091Du091Eu0922);
 DO_TYPEDEF(0x02A5BE70, u091Cu091Au0927u0927u0922u0927u0923u0924u0925u091Fu0927);
 DO_TYPEDEF(0x02A155F0, u091Du0921u0928u091Eu091Fu0928u091Cu091Du091Cu0929u091B);
-DO_TYPEDEF(0x02A61DD8, VRTK_ControllerTooltips_u0925u0927u091Au091Eu0922u0924u091Fu0920u091Fu091Fu0922__Enum);
+DO_TYPEDEF(
+    0x02A61DD8,
+    VRTK_ControllerTooltips_u0925u0927u091Au091Eu0922u0924u091Fu0920u091Fu091Fu0922__Enum);
 DO_TYPEDEF(0x02A5C2A8, u091Du0927u0922u0922u0922u091Fu0926u091Bu0922u0929u0926);
 DO_TYPEDEF(0x02A154B0, u091Fu0926u0925u091Du091Bu091Fu0929u0926u0920u0927u0926);
 DO_TYPEDEF(0x02A5BD88, u0928u091Cu0921u0922u0922u0923u0923u0920u0923u091Cu0924);
-DO_TYPEDEF(0x02A61E08, VRTK_ControllerTooltips_u0925u0927u091Au091Eu0922u0924u091Fu0920u091Fu091Fu0922__Enum__Array);
+DO_TYPEDEF(
+    0x02A61E08,
+    VRTK_ControllerTooltips_u0925u0927u091Au091Eu0922u0924u091Fu0920u091Fu091Fu0922__Enum__Array);
 DO_TYPEDEF(0x02A625D0, u091Bu0929u091Du0924u0921u091Au091Au0924u091Eu091Fu0923);
 DO_TYPEDEF(0x02A5C370, u091Du091Cu091Fu0920u0922u0925u091Fu0925u0926u091Fu091E);
 DO_TYPEDEF(0x02A61DE8, VRTK_ObjectTooltip__Array);
 DO_TYPEDEF(0x02A15550, u091Fu0929u0925u0929u0922u091Du091Cu091Cu091Cu0927u091A);
 DO_TYPEDEF(0x02A61D48, VRTK_DestinationPoint);
-DO_TYPEDEF(0x02A61D20, VRTK_DestinationPoint_u0924u091Au091Bu0926u091Eu0921u0929u0927u0923u0922u0928);
-DO_TYPEDEF(0x02A61CF8, VRTK_DestinationPoint_u0925u0921u0921u091Cu0925u0927u091Du0929u0924u0922u0921);
+DO_TYPEDEF(
+    0x02A61D20,
+    VRTK_DestinationPoint_u0924u091Au091Bu0926u091Eu0921u0929u0927u0923u0922u0928);
+DO_TYPEDEF(
+    0x02A61CF8,
+    VRTK_DestinationPoint_u0925u0921u0921u091Cu0925u0927u091Du0929u0924u0922u0921);
 DO_TYPEDEF(0x02A61C68, u0922u0925u091Du0928u091Eu091Cu0922u0929u091Bu091Au0921);
-DO_TYPEDEF(0x02A61C28, VRTK_IndependentRadialMenuController_u091Au0925u091Eu0927u0927u091Au0921u0929u0922u091Cu091F);
+DO_TYPEDEF(
+    0x02A61C28,
+    VRTK_IndependentRadialMenuController_u091Au0925u091Eu0927u0927u091Au0921u0929u0922u091Cu091F);
 DO_TYPEDEF(0x02A15CC0, u0929u091Bu0922u0921u091Bu091Du091Eu0929u0922u091Au0924);
 DO_TYPEDEF(0x02A5B2F0, u091Fu091Fu0922u0929u0924u0925u091Bu091Fu091Cu0922u0924);
-DO_TYPEDEF(0x02A61950, VRTK_PanelMenuController_u0921u0927u091Bu091Fu0925u0928u091Au091Eu091Fu0924u0920);
-DO_TYPEDEF(0x02A618E0, VRTK_RadialMenu_u0922u0922u0924u091Fu0923u091Bu091Fu091Au091Au091Cu091D);
-DO_TYPEDEF(0x02A611B0, VRTK_SnapDropZone_u091Du0926u0923u0923u091Bu0926u0928u0920u0928u0921u091C);
-DO_TYPEDEF(0x02A61160, VRTK_SnapDropZone_u091Eu0929u0924u0924u091Au0920u091Cu0920u0926u0920u0920);
-DO_TYPEDEF(0x02A61190, VRTK_SnapDropZone_u091Fu0924u091Cu0921u0926u0929u091Fu0926u0921u0925u091B);
-DO_TYPEDEF(0x02A5B5D8, u0927u091Eu0920u0923u091Eu0929u0922u0925u0928u091Fu091B_c);
-DO_TYPEDEF(0x02A5B5C0, Func_2_u0927u091Eu0920u0923u091Eu0929u0922u0925u0928u091Fu091B_Int32_);
+DO_TYPEDEF(
+    0x02A61950,
+    VRTK_PanelMenuController_u0921u0927u091Bu091Fu0925u0928u091Au091Eu091Fu0924u0920);
+DO_TYPEDEF(
+    0x02A618E0,
+    VRTK_RadialMenu_u0922u0922u0924u091Fu0923u091Bu091Fu091Au091Au091Cu091D);
+DO_TYPEDEF(
+    0x02A611B0,
+    VRTK_SnapDropZone_u091Du0926u0923u0923u091Bu0926u0928u0920u0928u0921u091C);
+DO_TYPEDEF(
+    0x02A61160,
+    VRTK_SnapDropZone_u091Eu0929u0924u0924u091Au0920u091Cu0920u0926u0920u0920);
+DO_TYPEDEF(
+    0x02A61190,
+    VRTK_SnapDropZone_u091Fu0924u091Cu0921u0926u0929u091Fu0926u0921u0925u091B);
+DO_TYPEDEF(0x02A5B5D8,
+           u0927u091Eu0920u0923u091Eu0929u0922u0925u0928u091Fu091B_c);
+DO_TYPEDEF(
+    0x02A5B5C0,
+    Func_2_u0927u091Eu0920u0923u091Eu0929u0922u0925u0928u091Fu091B_Int32_);
 DO_TYPEDEF(0x02A15910, SDK_InputSimulator);
 DO_TYPEDEF(0x02A15958, SDK_InputSimulator_c);
 DO_TYPEDEF(0x02A15918, Func_2_UnityEngine_KeyCode_String_);
 DO_TYPEDEF(0x02A158E8, SDK_SimController);
 DO_TYPEDEF(0x02A158A0, Dictionary_2_System_String_UnityEngine_KeyCode_);
-DO_TYPEDEF(0x02A15870, Dictionary_2_UnityEngine_GameObject_SteamVR_TrackedObject_);
+DO_TYPEDEF(0x02A15870,
+           Dictionary_2_UnityEngine_GameObject_SteamVR_TrackedObject_);
 DO_TYPEDEF(0x02A15838, Dictionary_2_System_UInt32_SteamVR_TrackedObject_);
 DO_TYPEDEF(0x02A62040, VRTK_Control);
 DO_TYPEDEF(0x02A156E8, u0923u0928u0926u0925u0926u0926u0928u0928u0922u0929u091C);
@@ -4350,124 +4920,225 @@ DO_TYPEDEF(0x02A5BCF8, u0923u091Eu091Du0929u0928u091Cu0926u0922u091Du0928u0925);
 DO_TYPEDEF(0x02A61E88, VRTK_ControllerModelElementPaths);
 DO_TYPEDEF(0x02A61E58, VRTK_ControllerElementHighlighters);
 DO_TYPEDEF(0x02A61EB0, Dictionary_2_System_String_UnityEngine_Transform_);
-DO_TYPEDEF(0x02A61E50, SDK_BaseController_u0924u0920u0927u0922u0923u0924u091Eu0926u0925u0925u0924__Enum__Array);
+DO_TYPEDEF(
+    0x02A61E50,
+    SDK_BaseController_u0924u0920u0927u0922u0923u0924u091Eu0926u0925u0925u0924__Enum__Array);
 DO_TYPEDEF(0x02A61F50, VRTK_ControllerHaptics);
-DO_TYPEDEF(0x02A61F38, Dictionary_2_u091Du0921u0926u091Bu091Bu0920u0929u0924u091Au091Bu0927_UnityEngine_Coroutine_);
-DO_TYPEDEF(0x02A61F90, VRTK_ControllerHaptics_u091Du091Au0928u0929u091Eu0922u091Du0924u091Fu0927u0924);
-DO_TYPEDEF(0x02A61FA8, VRTK_ControllerHaptics_u091Eu0926u091Fu0926u0928u0925u0923u091Fu0929u0927u0926);
-DO_TYPEDEF(0x02A61ED0, VRTK_ControllerHighlighter_u0924u091Eu0928u091Fu091Cu091Du0924u0927u0925u0920u0921);
+DO_TYPEDEF(
+    0x02A61F38,
+    Dictionary_2_u091Du0921u0926u091Bu091Bu0920u0929u0924u091Au091Bu0927_UnityEngine_Coroutine_);
+DO_TYPEDEF(
+    0x02A61F90,
+    VRTK_ControllerHaptics_u091Du091Au0928u0929u091Eu0922u091Du0924u091Fu0927u0924);
+DO_TYPEDEF(
+    0x02A61FA8,
+    VRTK_ControllerHaptics_u091Eu0926u091Fu0926u0928u0925u0923u091Fu0929u0927u0926);
+DO_TYPEDEF(
+    0x02A61ED0,
+    VRTK_ControllerHighlighter_u0924u091Eu0928u091Fu091Cu091Du0924u0927u0925u0920u0921);
 DO_TYPEDEF(0x02A15408, u0922u091Fu0928u0926u0927u0920u0920u0921u0922u0920u091D);
 DO_TYPEDEF(0x02A5BC68, u091Cu0925u0926u0926u0924u091Eu0922u0929u0923u091Du0929);
-DO_TYPEDEF(0x02A61C10, VRTK_InteractControllerAppearance_u091Bu0924u091Au091Du0926u0925u091Bu0929u0921u0921u0927);
-DO_TYPEDEF(0x02A61BF0, VRTK_InteractGrab_u0927u091Au0926u0924u091Du0920u091Eu0929u091Eu091Du0925);
+DO_TYPEDEF(
+    0x02A61C10,
+    VRTK_InteractControllerAppearance_u091Bu0924u091Au091Du0926u0925u091Bu0929u0921u0921u0927);
+DO_TYPEDEF(
+    0x02A61BF0,
+    VRTK_InteractGrab_u0927u091Au0926u0924u091Du0920u091Eu0929u091Eu091Du0925);
 DO_TYPEDEF(0x02A15380, u091Fu091Fu0929u0924u0929u0924u0921u0923u091Du091Du0924);
 DO_TYPEDEF(0x02A5BE50, u0922u091Du0927u0924u091Au0922u0928u091Fu091Fu0922u091C);
-DO_TYPEDEF(0x02A61B98, VRTK_InteractableObject_u0923u091Fu091Au0922u0924u091Eu0922u0921u0923u0920u091E);
-DO_TYPEDEF(0x02A61B50, VRTK_InteractableObject_u0921u0923u0920u091Du0928u0929u0925u091Fu0924u0926u0929);
+DO_TYPEDEF(
+    0x02A61B98,
+    VRTK_InteractableObject_u0923u091Fu091Au0922u0924u091Eu0922u0921u0923u0920u091E);
+DO_TYPEDEF(
+    0x02A61B50,
+    VRTK_InteractableObject_u0921u0923u0920u091Du0928u0929u0925u091Fu0924u0926u0929);
 DO_TYPEDEF(0x02A619E8, VRTK_ObjectAppearance);
-DO_TYPEDEF(0x02A61980, Dictionary_2_UnityEngine_GameObject_UnityEngine_Coroutine_);
-DO_TYPEDEF(0x02A619B0, VRTK_ObjectAppearance_u091Au091Du091Eu091Eu0929u0927u0922u091Du091Eu0927u0929);
+DO_TYPEDEF(0x02A61980,
+           Dictionary_2_UnityEngine_GameObject_UnityEngine_Coroutine_);
+DO_TYPEDEF(
+    0x02A619B0,
+    VRTK_ObjectAppearance_u091Au091Du091Eu091Eu0929u0927u0922u091Du091Eu0927u0929);
 DO_TYPEDEF(0x02A152A8, u0926u0922u091Du0920u0924u0929u091Fu0922u091Bu0920u0924);
-DO_TYPEDEF(0x02A61978, VRTK_ObjectAutoGrab_u0923u091Eu091Eu0925u091Bu0923u091Cu0923u0929u0929u091A);
+DO_TYPEDEF(
+    0x02A61978,
+    VRTK_ObjectAutoGrab_u0923u091Eu091Eu0925u091Bu0923u091Cu0923u0929u0929u091A);
 DO_TYPEDEF(0x02A61CC0, VRTK_EventSystem);
-DO_TYPEDEF(0x02A61C90, VRTK_EventSystem_u091Bu0925u091Du0923u0927u0921u0925u0927u091Bu091Au0927);
+DO_TYPEDEF(
+    0x02A61C90,
+    VRTK_EventSystem_u091Bu0925u091Du0923u0927u0921u0925u0927u091Bu091Au0927);
 DO_TYPEDEF(0x02A15D48, VRTK_Logger);
-DO_TYPEDEF(0x02A61B30, Dictionary_2_VRTK_VRTK_Logger_u0927u0925u091Bu0924u0920u0925u0923u0923u0921u091Cu0925_System_String_);
-DO_TYPEDEF(0x02A61B08, Dictionary_2_VRTK_VRTK_Logger_u0927u0925u091Bu0924u0920u0925u0923u0923u0921u091Cu0925_System_Int32_);
+DO_TYPEDEF(
+    0x02A61B30,
+    Dictionary_2_VRTK_VRTK_Logger_u0927u0925u091Bu0924u0920u0925u0923u0923u0921u091Cu0925_System_String_);
+DO_TYPEDEF(
+    0x02A61B08,
+    Dictionary_2_VRTK_VRTK_Logger_u0927u0925u091Bu0924u0920u0925u0923u0923u0921u091Cu0925_System_Int32_);
 DO_TYPEDEF(0x02A61AD0, VRTK_Logger_c);
 DO_TYPEDEF(0x02A61AB0, Func_2_System_Text_RegularExpressions_Match_Int32_);
 DO_TYPEDEF(0x02A611E0, VRTK_ScreenFade);
 DO_TYPEDEF(0x02A61FC8, u0928u091Cu0920u091Au0921u0920u0928u0925u091Bu0926u0929);
 DO_TYPEDEF(0x02A61018, VRTK_UIGraphicRaycaster);
 DO_TYPEDEF(0x02A61020, VRTK_UIGraphicRaycaster_c);
-DO_TYPEDEF(0x02A62100, VRTK_BasicTeleport_u0925u091Eu0921u091Cu0924u091Du0926u091Cu091Bu0922u0922);
-DO_TYPEDEF(0x02A62128, VRTK_BasicTeleport_u0921u091Au0928u0926u0925u0924u0927u0921u0920u0924u0924);
+DO_TYPEDEF(
+    0x02A62100,
+    VRTK_BasicTeleport_u0925u091Eu0921u091Cu0924u091Du0926u091Cu091Bu0922u0922);
+DO_TYPEDEF(
+    0x02A62128,
+    VRTK_BasicTeleport_u0921u091Au0928u0926u0925u0924u0927u0921u0920u0924u0924);
 DO_TYPEDEF(0x02A15C68, u091Bu0927u091Fu091Cu091Fu0927u0926u0920u091Cu091Au091A);
 DO_TYPEDEF(0x02A5C3A8, u0920u0929u091Cu091Eu091Cu0921u091Eu091Cu0928u0928u0921);
-DO_TYPEDEF(0x02A61D88, VRTK_DashTeleport_u091Au0922u0920u0921u0922u0928u0929u091Eu0921u0924u0925);
-DO_TYPEDEF(0x02A61A00, VRTK_MoveInPlace_u0921u091Au0922u091Au0928u091Du091Eu091Bu0924u0920u0921__Enum);
-DO_TYPEDEF(0x02A61A90, VRTK_MoveInPlace_u0921u0922u0928u091Cu091Bu0922u091Du0927u0925u0926u0923__Enum);
-DO_TYPEDEF(0x02A61A60, Dictionary_2_UnityEngine_Transform_List_1_System_Single_);
+DO_TYPEDEF(
+    0x02A61D88,
+    VRTK_DashTeleport_u091Au0922u0920u0921u0922u0928u0929u091Eu0921u0924u0925);
+DO_TYPEDEF(
+    0x02A61A00,
+    VRTK_MoveInPlace_u0921u091Au0922u091Au0928u091Du091Eu091Bu0924u0920u0921__Enum);
+DO_TYPEDEF(
+    0x02A61A90,
+    VRTK_MoveInPlace_u0921u0922u0928u091Cu091Bu0922u091Du0927u0925u0926u0923__Enum);
+DO_TYPEDEF(0x02A61A60,
+           Dictionary_2_UnityEngine_Transform_List_1_System_Single_);
 DO_TYPEDEF(0x02A61A38, Dictionary_2_UnityEngine_Transform_System_Single_);
 DO_TYPEDEF(0x02A62510, u0929u091Bu0927u0926u0924u0920u091Au0921u091Cu091Du091C);
 DO_TYPEDEF(0x02A5B2D0, u091Fu0923u0922u091Eu0923u0927u091Bu0927u0929u0926u0928);
 DO_TYPEDEF(0x02A62488, u091Cu091Au091Bu0922u091Bu091Cu091Fu0922u091Cu0924u0922);
 DO_TYPEDEF(0x02A5C358, u091Du091Fu0920u091Au0923u091Du091Eu091Au0922u0928u0920);
-DO_TYPEDEF(0x02A61120, VRTK_TeleportDisableOnControllerObscured_u0929u0925u0927u0920u0920u091Bu0924u091Eu091Au0923u0922);
-DO_TYPEDEF(0x02A61108, VRTK_TeleportDisableOnHeadsetCollision_u091Bu091Du0920u0923u091Fu091Au0920u0928u091Fu0923u0923);
+DO_TYPEDEF(
+    0x02A61120,
+    VRTK_TeleportDisableOnControllerObscured_u0929u0925u0927u0920u0920u091Bu0924u091Eu091Au0923u0922);
+DO_TYPEDEF(
+    0x02A61108,
+    VRTK_TeleportDisableOnHeadsetCollision_u091Bu091Du0920u0923u091Fu091Au0920u0928u091Fu0923u0923);
 DO_TYPEDEF(0x02A610B8, u0927u0929u0921u091Eu0921u0928u091Fu091Bu0923u091Eu0924);
 DO_TYPEDEF(0x02A5B3E8, u091Eu091Fu0928u0926u091Eu091Du091Cu0921u091Bu091Du0920);
 DO_TYPEDEF(0x02A62190, VRTK_BasePointer_PointerOriginSmoothingSettings);
-DO_TYPEDEF(0x02A620C8, VRTK_BodyPhysics_u0929u0921u091Du091Bu091Du091Du0921u091Bu0928u0927u0929);
+DO_TYPEDEF(
+    0x02A620C8,
+    VRTK_BodyPhysics_u0929u0921u091Du091Bu091Du091Du0921u091Bu0928u0927u0929);
 DO_TYPEDEF(0x02A15450, u091Fu0920u0921u0923u091Du0924u0929u0928u0921u091Du0926);
 DO_TYPEDEF(0x02A5BE20, u091Fu091Fu0929u0926u0920u0922u091Du0928u0929u0929u091F);
-DO_TYPEDEF(0x02A61080, VRTK_UICanvas_u091Cu091Bu091Cu091Du0928u091Cu091Au091Eu0922u091Bu091F);
+DO_TYPEDEF(
+    0x02A61080,
+    VRTK_UICanvas_u091Cu091Bu091Cu091Du0928u091Cu091Au091Eu0922u091Bu091F);
 DO_TYPEDEF(0x02A62358, u0929u0928u091Bu0924u091Fu0920u0927u091Bu0927u0922u0925);
 DO_TYPEDEF(0x02A5B258, u0925u091Fu0923u0921u0928u091Du0929u0920u091Au091Du0929);
 DO_TYPEDEF(0x02A61830, VRTK_SDKManager_c);
 DO_TYPEDEF(0x02A616A8, Predicate_1_VRTK_VRTK_SDKSetup_);
 DO_TYPEDEF(0x02A617F8, Func_2_VRTK_VRTK_SDKSetup_Boolean_);
-DO_TYPEDEF(0x02A61790, Func_2_VRTK_VRTK_SDKSetup_System_Collections_Generic_IEnumerable_1_);
-DO_TYPEDEF(0x02A616C8, Comparison_1_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
-DO_TYPEDEF(0x02A61620, Func_2_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_Boolean_);
-DO_TYPEDEF(0x02A61608, Func_2_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_String_);
-DO_TYPEDEF(0x02A614F0, VRTK_SDKManager_u0920u0929u0922u091Eu0927u0927u0929u091Fu0927u091Fu0921);
-DO_TYPEDEF(0x02A61870, VRTK_SDKManager_u0925u0921u0929u0926u0921u0924u091Cu0929u0925u0921u0927);
-DO_TYPEDEF(0x02A61728, VRTK_SDKManager_u0922u091Au0920u0927u091Au0928u0921u0927u0924u0920u091B);
+DO_TYPEDEF(0x02A61790,
+           Func_2_VRTK_VRTK_SDKSetup_System_Collections_Generic_IEnumerable_1_);
+DO_TYPEDEF(
+    0x02A616C8,
+    Comparison_1_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
+DO_TYPEDEF(
+    0x02A61620,
+    Func_2_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_Boolean_);
+DO_TYPEDEF(
+    0x02A61608,
+    Func_2_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_String_);
+DO_TYPEDEF(
+    0x02A614F0,
+    VRTK_SDKManager_u0920u0929u0922u091Eu0927u0927u0929u091Fu0927u091Fu0921);
+DO_TYPEDEF(
+    0x02A61870,
+    VRTK_SDKManager_u0925u0921u0929u0926u0921u0924u091Cu0929u0925u0921u0927);
+DO_TYPEDEF(
+    0x02A61728,
+    VRTK_SDKManager_u0922u091Au0920u0927u091Au0928u0921u0927u0924u0920u091B);
 DO_TYPEDEF(0x02A613D8, VRTK_SDKSetup_c);
 DO_TYPEDEF(0x02A61338, Func_2_VRTK_VRTK_SDKInfo_String_);
 DO_TYPEDEF(0x02A613A8, Action_2_UnityEngine_GameObject_UnityEngine_GameObject_);
-DO_TYPEDEF(0x02A612B8, VRTK_SDKSetupSwitcher_u0922u091Du091Fu0926u091Cu0929u0929u0923u0920u091Eu091F__Enum);
-DO_TYPEDEF(0x02A61300, VRTK_SDKSetupSwitcher_u0928u0923u091Cu0926u0927u091Du091Bu0925u0926u0923u0923);
-DO_TYPEDEF(0x02A612E8, VRTK_SDKSetupSwitcher_u091Du091Au0921u0928u0920u0926u0920u0920u091Eu091Au0922);
-DO_TYPEDEF(0x02A62230, VRTK_AdaptiveQuality_u0925u0922u0928u0923u0922u0924u091Du091Cu0926u0920u0921_System_Int32_);
-DO_TYPEDEF(0x02A62208, VRTK_AdaptiveQuality_u0928u091Du0926u0927u0924u091Cu091Au0925u091Eu091Bu0924);
+DO_TYPEDEF(
+    0x02A612B8,
+    VRTK_SDKSetupSwitcher_u0922u091Du091Fu0926u091Cu0929u0929u0923u0920u091Eu091F__Enum);
+DO_TYPEDEF(
+    0x02A61300,
+    VRTK_SDKSetupSwitcher_u0928u0923u091Cu0926u0927u091Du091Bu0925u0926u0923u0923);
+DO_TYPEDEF(
+    0x02A612E8,
+    VRTK_SDKSetupSwitcher_u091Du091Au0921u0928u0920u0926u0920u0920u091Eu091Au0922);
+DO_TYPEDEF(
+    0x02A62230,
+    VRTK_AdaptiveQuality_u0925u0922u0928u0923u0922u0924u091Du091Cu0926u0920u0921_System_Int32_);
+DO_TYPEDEF(
+    0x02A62208,
+    VRTK_AdaptiveQuality_u0928u091Du0926u0927u0924u091Cu091Au0925u091Eu091Bu0924);
 DO_TYPEDEF(0x02A622C8, VRTK_AdaptiveQuality_c);
 DO_TYPEDEF(0x02A622B0, Predicate_1_Single_);
-DO_TYPEDEF(0x02A19AE0, u0929u0925u0926u0920u0923u091Fu0921u091Fu091Au091Du091A_u0920u0928u0923u0926u0922u091Du0925u0922u0922u091Cu0924__Enum);
+DO_TYPEDEF(
+    0x02A19AE0,
+    u0929u0925u0926u0920u0923u091Fu0921u091Fu091Au091Du091A_u0920u0928u0923u0926u0922u091Du0925u0922u0922u091Cu0924__Enum);
 DO_TYPEDEF(0x02A61210, List_1_VRTK_VRTK_SDKTransformModifiers_);
-DO_TYPEDEF(0x02A61248, VRTK_SDKTransformModify_u0924u091Fu0928u091Bu091Du0928u0923u091Au0925u0921u0926);
+DO_TYPEDEF(
+    0x02A61248,
+    VRTK_SDKTransformModify_u0924u091Fu0928u091Bu091Du0928u0923u091Au0925u0921u0926);
 DO_TYPEDEF(0x02A157B8, VRTK_BasicTeleport_UnityEvents_TeleportEvent);
 DO_TYPEDEF(0x02A15778, VRTK_BodyPhysics_UnityEvents_BodyPhysicsEvent);
 DO_TYPEDEF(0x02A15730, VRTK_Button_UnityEvents_Button3DEvent);
 DO_TYPEDEF(0x02A156E0, VRTK_Control_UnityEvents_Control3DEvent);
-DO_TYPEDEF(0x02A15688, VRTK_ControllerActions_UnityEvents_ControllerActionsEvent);
-DO_TYPEDEF(0x02A15658, VRTK_ControllerEvents_UnityEvents_ControllerInteractionEvent);
-DO_TYPEDEF(0x02A15618, VRTK_ControllerRigidbodyActivator_UnityEvents_ControllerRigidbodyActivatorEvent);
-DO_TYPEDEF(0x02A155B8, VRTK_ControllerTooltips_UnityEvents_ControllerTooltipsEvent);
+DO_TYPEDEF(0x02A15688,
+           VRTK_ControllerActions_UnityEvents_ControllerActionsEvent);
+DO_TYPEDEF(0x02A15658,
+           VRTK_ControllerEvents_UnityEvents_ControllerInteractionEvent);
+DO_TYPEDEF(
+    0x02A15618,
+    VRTK_ControllerRigidbodyActivator_UnityEvents_ControllerRigidbodyActivatorEvent);
+DO_TYPEDEF(0x02A155B8,
+           VRTK_ControllerTooltips_UnityEvents_ControllerTooltipsEvent);
 DO_TYPEDEF(0x02A15580, VRTK_DashTeleport_UnityEvents_DashTeleportEvent);
-DO_TYPEDEF(0x02A15578, VRTK_DestinationMarker_UnityEvents_DestinationMarkerEvent);
+DO_TYPEDEF(0x02A15578,
+           VRTK_DestinationMarker_UnityEvents_DestinationMarkerEvent);
 DO_TYPEDEF(0x02A15508, VRTK_DestinationPoint_UnityEvents_DestinationPointEvent);
 DO_TYPEDEF(0x02A154B8, VRTK_HeadsetCollision_UnityEvents_HeadsetCollisionEvent);
-DO_TYPEDEF(0x02A15478, VRTK_HeadsetControllerAware_UnityEvents_HeadsetControllerAwareEvent);
+DO_TYPEDEF(0x02A15478,
+           VRTK_HeadsetControllerAware_UnityEvents_HeadsetControllerAwareEvent);
 DO_TYPEDEF(0x02A15418, VRTK_HeadsetFade_UnityEvents_HeadsetFadeEvent);
-DO_TYPEDEF(0x02A153C8, VRTK_InteractControllerAppearance_UnityEvents_InteractControllerAppearanceEvent);
+DO_TYPEDEF(
+    0x02A153C8,
+    VRTK_InteractControllerAppearance_UnityEvents_InteractControllerAppearanceEvent);
 DO_TYPEDEF(0x02A153B0, VRTK_InteractGrab_UnityEvents_ObjectInteractEvent);
 DO_TYPEDEF(0x02A15368, VRTK_InteractHaptics_UnityEvents_InteractHapticsEvent);
 DO_TYPEDEF(0x02A15340, VRTK_InteractTouch_UnityEvents_ObjectInteractEvent);
 DO_TYPEDEF(0x02A15318, VRTK_InteractUse_UnityEvents_ObjectInteractEvent);
-DO_TYPEDEF(0x02A152F8, VRTK_InteractableObject_UnityEvents_InteractableObjectEvent);
+DO_TYPEDEF(0x02A152F8,
+           VRTK_InteractableObject_UnityEvents_InteractableObjectEvent);
 DO_TYPEDEF(0x02A152D0, VRTK_ObjectAutoGrab_UnityEvents_ObjectAutoGrabEvent);
 DO_TYPEDEF(0x02A625D8, VRTK_ObjectControl_UnityEvents_ObjectControlEvent);
 DO_TYPEDEF(0x02A625A0, VRTK_ObjectTooltip_UnityEvents_ObjectTooltipEvent);
 DO_TYPEDEF(0x02A62540, VRTK_PlayAreaCursor_UnityEvents_PlayAreaCursorEvent);
 DO_TYPEDEF(0x02A62508, VRTK_PlayerClimb_UnityEvents_PlayerClimbEvent);
-DO_TYPEDEF(0x02A624B0, VRTK_PointerDirectionIndicator_UnityEvents_PointerDirectionIndicatorEvent);
+DO_TYPEDEF(
+    0x02A624B0,
+    VRTK_PointerDirectionIndicator_UnityEvents_PointerDirectionIndicatorEvent);
 DO_TYPEDEF(0x02A62458, VRTK_PositionRewind_UnityEvents_PositionRewindEvent);
 DO_TYPEDEF(0x02A62440, VRTK_SDKManager_UnityEvents_LoadedSetupChangeEvent);
 DO_TYPEDEF(0x02A623B8, VRTK_SDKSetup_UnityEvents_LoadEvent);
 DO_TYPEDEF(0x02A623A0, VRTK_SnapDropZone_UnityEvents_SnapDropZoneEvent);
 DO_TYPEDEF(0x02A62348, VRTK_UIDraggableItem_UnityEvents_UIDraggableItemEvent);
 DO_TYPEDEF(0x02A62320, VRTK_UIPointer_UnityEvents_UIPointerEvent);
-DO_TYPEDEF(0x02A15808, VRTK_ControlDirectionGrabAction_u0926u0920u0924u0921u0927u091Du091Au091Fu091Cu091Eu0928);
-DO_TYPEDEF(0x02A15A40, VRTK_MaterialColorSwapHighlighter_u0928u0925u0928u091Bu0922u091Fu091Eu091Du0923u0920u091C);
-DO_TYPEDEF(0x02A15A00, Dictionary_2_System_String_UnityEngine_MaterialPropertyBlock_);
-DO_TYPEDEF(0x02A15A20, VRTK_MaterialPropertyBlockColorSwapHighlighter_u0926u091Au0924u091Eu0926u091Du091Fu0928u0922u091Fu091F);
+DO_TYPEDEF(
+    0x02A15808,
+    VRTK_ControlDirectionGrabAction_u0926u0920u0924u0921u0927u091Du091Au091Fu091Cu091Eu0928);
+DO_TYPEDEF(
+    0x02A15A40,
+    VRTK_MaterialColorSwapHighlighter_u0928u0925u0928u091Bu0922u091Fu091Eu091Du0923u0920u091C);
+DO_TYPEDEF(0x02A15A00,
+           Dictionary_2_System_String_UnityEngine_MaterialPropertyBlock_);
+DO_TYPEDEF(
+    0x02A15A20,
+    VRTK_MaterialPropertyBlockColorSwapHighlighter_u0926u091Au0924u091Eu0926u091Du091Fu0928u0922u091Fu091F);
 DO_TYPEDEF(0x02A15C48, List_1_VRTK_VRTK_DashTeleport_);
-DO_TYPEDEF(0x02A15B50, UI_Interactions_u0923u0927u0925u0927u0922u0924u0923u0924u0929u0926u0925);
-DO_TYPEDEF(0x02A15BA0, List_1_VRTK_SDK_BaseController_u091Fu091Du0920u091Du091Du0920u0929u0928u0929u0928u091C_);
-DO_TYPEDEF(0x02A15BF0, VRTK_BaseTest_u091Fu091Du0920u091Eu0929u091Du091Au091Au0928u0921u0927);
-DO_TYPEDEF(0x02A15D60, BowAim_u091Cu0927u0922u091Du091Cu091Fu0922u0929u0929u091Bu0929);
+DO_TYPEDEF(
+    0x02A15B50,
+    UI_Interactions_u0923u0927u0925u0927u0922u0924u0923u0924u0929u0926u0925);
+DO_TYPEDEF(
+    0x02A15BA0,
+    List_1_VRTK_SDK_BaseController_u091Fu091Du0920u091Du091Du0920u0929u0928u0929u0928u091C_);
+DO_TYPEDEF(
+    0x02A15BF0,
+    VRTK_BaseTest_u091Fu091Du0920u091Eu0929u091Du091Au091Au0928u0921u0927);
+DO_TYPEDEF(0x02A15D60,
+           BowAim_u091Cu0927u0922u091Du091Cu091Fu0922u0929u0929u091Bu0929);
 DO_TYPEDEF(0x02A5F908, IVRExtendedDisplay_GetWindowBounds);
 DO_TYPEDEF(0x02A5F8F8, IVRExtendedDisplay_GetEyeOutputViewport);
 DO_TYPEDEF(0x02A5F8C8, IVRExtendedDisplay_GetDXGIOutputInfo);
@@ -4514,7 +5185,8 @@ DO_TYPEDEF(0x02A60720, IVRApplications_GetStartingApplication);
 DO_TYPEDEF(0x02A606F0, IVRApplications_GetTransitionState);
 DO_TYPEDEF(0x02A605E8, EVRApplicationTransitionState__Enum);
 DO_TYPEDEF(0x02A606D8, IVRApplications_PerformApplicationPrelaunchCheck);
-DO_TYPEDEF(0x02A606A8, IVRApplications_GetApplicationsTransitionStateNameFromEnum);
+DO_TYPEDEF(0x02A606A8,
+           IVRApplications_GetApplicationsTransitionStateNameFromEnum);
 DO_TYPEDEF(0x02A60690, IVRApplications_IsQuitUserPromptRequested);
 DO_TYPEDEF(0x02A60658, IVRApplications_LaunchInternalProcess);
 DO_TYPEDEF(0x02A60640, IVRApplications_GetCurrentSceneProcessId);
@@ -4526,14 +5198,19 @@ DO_TYPEDEF(0x02A603B0, IVRChaperoneSetup_GetWorkingPlayAreaRect);
 DO_TYPEDEF(0x02A60390, IVRChaperoneSetup_GetWorkingCollisionBoundsInfo);
 DO_TYPEDEF(0x02A60F48, HmdQuad_t__Array);
 DO_TYPEDEF(0x02A60368, IVRChaperoneSetup_GetLiveCollisionBoundsInfo);
-DO_TYPEDEF(0x02A60328, IVRChaperoneSetup_GetWorkingSeatedZeroPoseToRawTrackingPose);
-DO_TYPEDEF(0x02A60310, IVRChaperoneSetup_GetWorkingStandingZeroPoseToRawTrackingPose);
+DO_TYPEDEF(0x02A60328,
+           IVRChaperoneSetup_GetWorkingSeatedZeroPoseToRawTrackingPose);
+DO_TYPEDEF(0x02A60310,
+           IVRChaperoneSetup_GetWorkingStandingZeroPoseToRawTrackingPose);
 DO_TYPEDEF(0x02A602E8, IVRChaperoneSetup_SetWorkingPlayAreaSize);
 DO_TYPEDEF(0x02A602B0, IVRChaperoneSetup_SetWorkingCollisionBoundsInfo);
-DO_TYPEDEF(0x02A602A0, IVRChaperoneSetup_SetWorkingSeatedZeroPoseToRawTrackingPose);
-DO_TYPEDEF(0x02A60270, IVRChaperoneSetup_SetWorkingStandingZeroPoseToRawTrackingPose);
+DO_TYPEDEF(0x02A602A0,
+           IVRChaperoneSetup_SetWorkingSeatedZeroPoseToRawTrackingPose);
+DO_TYPEDEF(0x02A60270,
+           IVRChaperoneSetup_SetWorkingStandingZeroPoseToRawTrackingPose);
 DO_TYPEDEF(0x02A60250, IVRChaperoneSetup_ReloadFromDisk);
-DO_TYPEDEF(0x02A60218, IVRChaperoneSetup_GetLiveSeatedZeroPoseToRawTrackingPose);
+DO_TYPEDEF(0x02A60218,
+           IVRChaperoneSetup_GetLiveSeatedZeroPoseToRawTrackingPose);
 DO_TYPEDEF(0x02A601F8, IVRChaperoneSetup_SetWorkingCollisionBoundsTagsInfo);
 DO_TYPEDEF(0x02A601D8, IVRChaperoneSetup_GetLiveCollisionBoundsTagsInfo);
 DO_TYPEDEF(0x02A601B8, IVRChaperoneSetup_SetWorkingPhysicalBoundsInfo);
@@ -4611,7 +5288,8 @@ DO_TYPEDEF(0x02A5D638, DebugUI);
 DO_TYPEDEF(0x02A5D620, DistanceHaptics_Start_d_4);
 DO_TYPEDEF(0x02A5D5E8, Hand_c_DisplayClass42_0);
 DO_TYPEDEF(0x02A5D590, Hand_c);
-DO_TYPEDEF(0x02A5D5C8, Predicate_1_Valve_VR_InteractionSystem_Hand_AttachedObject_);
+DO_TYPEDEF(0x02A5D5C8,
+           Predicate_1_Valve_VR_InteractionSystem_Hand_AttachedObject_);
 DO_TYPEDEF(0x02A5D568, Hand_Start_d_47);
 DO_TYPEDEF(0x02A5D538, Hand_c_DisplayClass48_0);
 DO_TYPEDEF(0x02A5D4B8, InputModule);
@@ -4622,7 +5300,9 @@ DO_TYPEDEF(0x02A5D260, Throwable_LateDetach_d_24);
 DO_TYPEDEF(0x02A5D230, Util_WrapCoroutine_d_43);
 DO_TYPEDEF(0x02A5D8B8, AfterTimer_Component_Wait_d_5);
 DO_TYPEDEF(0x02A5D200, VelocityEstimator_EstimateVelocityCoroutine_d_13);
-DO_TYPEDEF(0x02A5D748, Dictionary_2_Valve_VR_EVRButtonId_Valve_VR_InteractionSystem_ControllerButtonHints_ButtonHintInfo_);
+DO_TYPEDEF(
+    0x02A5D748,
+    Dictionary_2_Valve_VR_EVRButtonId_Valve_VR_InteractionSystem_ControllerButtonHints_ButtonHintInfo_);
 DO_TYPEDEF(0x02A5D730, ControllerButtonHints_ButtonHintInfo);
 DO_TYPEDEF(0x02A5D6B8, List_1_KeyValuePair_2_System_String_System_UInt64_);
 DO_TYPEDEF(0x02A5D710, ControllerButtonHints_TestButtonHints_d_36);
@@ -4637,8 +5317,12 @@ DO_TYPEDEF(0x02A5D810, ChaperoneInfo);
 DO_TYPEDEF(0x02A5D7E8, ChaperoneInfo_Start_d_21);
 DO_TYPEDEF(0x02A16A18, SteamVR_Events_Action_1_System_Single_);
 DO_TYPEDEF(0x02A168A8, SteamVR_Events_Event_1_System_Single_);
-DO_TYPEDEF(0x02A5D348, SteamVR_Events_Action_1_Valve_VR_InteractionSystem_TeleportMarkerBase_);
-DO_TYPEDEF(0x02A5D2B0, SteamVR_Events_Event_1_Valve_VR_InteractionSystem_TeleportMarkerBase_);
+DO_TYPEDEF(
+    0x02A5D348,
+    SteamVR_Events_Action_1_Valve_VR_InteractionSystem_TeleportMarkerBase_);
+DO_TYPEDEF(
+    0x02A5D2B0,
+    SteamVR_Events_Event_1_Valve_VR_InteractionSystem_TeleportMarkerBase_);
 DO_TYPEDEF(0x02A5D2E8, TeleportArea);
 DO_TYPEDEF(0x02A5D378, Teleport);
 DO_TYPEDEF(0x02A5D288, LineRenderer__Array);
@@ -4657,36 +5341,64 @@ DO_TYPEDEF(0x02A15E68, NavMeshSurface_c);
 DO_TYPEDEF(0x02A15E08, Predicate_1_UnityEngine_AI_NavMeshModifierVolume_);
 DO_TYPEDEF(0x02A15E48, Predicate_1_UnityEngine_AI_NavMeshModifier_);
 DO_TYPEDEF(0x02A15E30, Predicate_1_UnityEngine_AI_NavMeshBuildSource_);
-DO_TYPEDEF(0x02A19D80, AdvancedNightVision_u0929u091Eu091Fu091Au0923u0926u0929u0922u091Du0927u091C__Enum);
+DO_TYPEDEF(
+    0x02A19D80,
+    AdvancedNightVision_u0929u091Eu091Fu091Au0923u0926u0929u0922u091Du0927u091C__Enum);
 DO_TYPEDEF(0x02A19D58, AdvancedNightVision);
 DO_TYPEDEF(0x02A17FB8, MeshCombiner);
-DO_TYPEDEF(0x02A17FA0, MeshCombiner_u0921u0927u091Fu0926u091Bu091Au0929u091Au0928u091Bu0924);
+DO_TYPEDEF(
+    0x02A17FA0,
+    MeshCombiner_u0921u0927u091Fu0926u091Bu091Au0929u091Au0928u091Bu0924);
 DO_TYPEDEF(0x02A17A08, List_1_MeshCombineStudio_MeshCombiner_);
-DO_TYPEDEF(0x02A17DC8, MeshCombineJobManager_u0925u091Du091Eu091Cu0921u0922u091Cu091Cu091Cu0926u0924__Enum);
-DO_TYPEDEF(0x02A17D80, MeshCombineJobManager_u091Cu0920u0925u0923u091Eu0924u0929u091Au091Du091Bu0928__Enum);
+DO_TYPEDEF(
+    0x02A17DC8,
+    MeshCombineJobManager_u0925u091Du091Eu091Cu0921u0922u091Cu091Cu091Cu0926u0924__Enum);
+DO_TYPEDEF(
+    0x02A17D80,
+    MeshCombineJobManager_u091Cu0920u0925u0923u091Eu0924u0929u091Au091Du091Bu0928__Enum);
 DO_TYPEDEF(0x02A17E68, MeshCombineJobManager_JobSettings);
 DO_TYPEDEF(0x02A17B40, MeshCombiner_LODGroupSettings);
 DO_TYPEDEF(0x02A179A0, MeshCombiner_LODSettings);
 DO_TYPEDEF(0x02A179C0, MeshCombiner_LODSettings__Array);
 DO_TYPEDEF(0x02A17B68, MeshCombiner_LODGroupSettings__Array);
-DO_TYPEDEF(0x02A17BB0, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Cu0922u0922u0928u0926u091Au0927u0923u0922u0926u091D);
-DO_TYPEDEF(0x02A5C018, List_1_u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0923u0923u0921u0926u0928u0928u0920u0922u091Bu0923u0929_);
-DO_TYPEDEF(0x02A17C08, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0923u0923u0921u0926u0928u0928u0920u0922u091Bu0923u0929);
-DO_TYPEDEF(0x02A5C028, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0929u091Cu0924u0925u0923u0929u091Au0921u0921u0921u0921);
-DO_TYPEDEF(0x02A5BFC8, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Au0923u0921u0927u0922u091Eu0924u091Cu091Au091Au0926);
+DO_TYPEDEF(
+    0x02A17BB0,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Cu0922u0922u0928u0926u091Au0927u0923u0922u0926u091D);
+DO_TYPEDEF(
+    0x02A5C018,
+    List_1_u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0923u0923u0921u0926u0928u0928u0920u0922u091Bu0923u0929_);
+DO_TYPEDEF(
+    0x02A17C08,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0923u0923u0921u0926u0928u0928u0920u0922u091Bu0923u0929);
+DO_TYPEDEF(
+    0x02A5C028,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0929u091Cu0924u0925u0923u0929u091Au0921u0921u0921u0921);
+DO_TYPEDEF(
+    0x02A5BFC8,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Au0923u0921u0927u0922u091Eu0924u091Cu091Au091Au0926);
 DO_TYPEDEF(0x02A17D00, FastList_1_CachedGameObject_);
 DO_TYPEDEF(0x02A17CD8, CachedGameObject);
-DO_TYPEDEF(0x02A5C0C8, Dictionary_2_MeshCombineStudio_CombineCondition_MeshCombineStudio_MeshObjectsHolder_);
+DO_TYPEDEF(
+    0x02A5C0C8,
+    Dictionary_2_MeshCombineStudio_CombineCondition_MeshCombineStudio_MeshObjectsHolder_);
 DO_TYPEDEF(0x02A182E8, CombineCondition);
 DO_TYPEDEF(0x02A5C098, MeshObjectsHolder);
 DO_TYPEDEF(0x02A17928, FastList_1_MeshObject_);
 DO_TYPEDEF(0x02A5C078, MeshObject);
 DO_TYPEDEF(0x02A17EA8, u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928);
-DO_TYPEDEF(0x02A17D08, u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_u091Fu0927u0928u0925u091Cu091Eu0926u0922u0929u091Du0922);
-DO_TYPEDEF(0x02A5C4E8, u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_u091Fu0927u0928u0925u091Cu091Eu0926u0922u0929u091Du0922__Array);
+DO_TYPEDEF(
+    0x02A17D08,
+    u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_u091Fu0927u0928u0925u091Cu091Eu0926u0922u0929u091Du0922);
+DO_TYPEDEF(
+    0x02A5C4E8,
+    u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_u091Fu0927u0928u0925u091Cu091Eu0926u0922u0929u091Du0922__Array);
 DO_TYPEDEF(0x02A5C0F8, FastList_1_UnityEngine_MeshRenderer_);
-DO_TYPEDEF(0x02A5BFD8, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Au0923u0921u0927u0922u091Eu0924u091Cu091Au091Au0926__Array);
-DO_TYPEDEF(0x02A5C050, u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0929u091Cu0924u0925u0923u0929u091Au0921u0921u0921u0921__Array);
+DO_TYPEDEF(
+    0x02A5BFD8,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u091Au0923u0921u0927u0922u091Eu0924u091Cu091Au091Au0926__Array);
+DO_TYPEDEF(
+    0x02A5C050,
+    u091Eu091Du0923u091Bu091Au0925u0921u0920u091Du0928u091F_u0929u091Cu0924u0925u0923u0929u091Au0921u0921u0921u0921__Array);
 DO_TYPEDEF(0x02A17B20, MeshCombiner_LodParentHolder__Array);
 DO_TYPEDEF(0x02A17B88, List_1_MeshCombineStudio_CachedGameObject_);
 DO_TYPEDEF(0x02A17C50, List_1_MeshCombineStudio_CachedLodGameObject_);
@@ -4696,32 +5408,62 @@ DO_TYPEDEF(0x02A17AF8, HashSet_1_UnityEngine_LODGroup_);
 DO_TYPEDEF(0x02A17AC8, HashSet_1_UnityEngine_Mesh_);
 DO_TYPEDEF(0x02A17A88, FoundCombineConditions);
 DO_TYPEDEF(0x02A18090, HashSet_1_MeshCombineStudio_CombineCondition_);
-DO_TYPEDEF(0x02A17A78, HashSet_1_MeshCombineStudio_MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A_);
-DO_TYPEDEF(0x02A17E70, MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A);
-DO_TYPEDEF(0x02A17978, Dictionary_2_UnityEngine_Collider_MeshCombineStudio_CachedGameObject_);
-DO_TYPEDEF(0x02A17960, Dictionary_2_UnityEngine_LODGroup_MeshCombineStudio_CachedGameObject_);
-DO_TYPEDEF(0x02A17A40, FastList_1_u0924u0921u091Cu091Du0927u091Eu0924u0922u0925u0925u091F_);
+DO_TYPEDEF(
+    0x02A17A78,
+    HashSet_1_MeshCombineStudio_MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A_);
+DO_TYPEDEF(
+    0x02A17E70,
+    MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A);
+DO_TYPEDEF(
+    0x02A17978,
+    Dictionary_2_UnityEngine_Collider_MeshCombineStudio_CachedGameObject_);
+DO_TYPEDEF(
+    0x02A17960,
+    Dictionary_2_UnityEngine_LODGroup_MeshCombineStudio_CachedGameObject_);
+DO_TYPEDEF(0x02A17A40,
+           FastList_1_u0924u0921u091Cu091Du0927u091Eu0924u0922u0925u0925u091F_);
 DO_TYPEDEF(0x02A17A20, HashSet_1_UnityEngine_Transform_);
 DO_TYPEDEF(0x02A181E0, CombinedLODManager_LOD);
 DO_TYPEDEF(0x02A18218, CombinedLODManager_LOD__Array);
-DO_TYPEDEF(0x02A181B8, CombinedLODManager_u091Cu0929u0924u0925u0920u0924u0927u0920u0926u091Fu0924);
-DO_TYPEDEF(0x02A181B0, CombinedLODManager_u0927u091Bu0926u0925u0926u091Fu091Cu0926u0927u0925u0921);
+DO_TYPEDEF(
+    0x02A181B8,
+    CombinedLODManager_u091Cu0929u0924u0925u0920u0924u0927u0920u0926u091Fu0924);
+DO_TYPEDEF(
+    0x02A181B0,
+    CombinedLODManager_u0927u091Bu0926u0925u0926u091Fu091Cu0926u0927u0925u0921);
 DO_TYPEDEF(0x02A18168, List_1_UnityEngine_MeshRenderer___Array);
 DO_TYPEDEF(0x02A17EC8, MeshCombineJobManager);
-DO_TYPEDEF(0x02A17E30, FastList_1_MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928_);
-DO_TYPEDEF(0x02A17D78, MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928);
+DO_TYPEDEF(
+    0x02A17E30,
+    FastList_1_MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928_);
+DO_TYPEDEF(
+    0x02A17D78,
+    MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928);
 DO_TYPEDEF(0x02A17C98, FastList_1_UnityEngine_Vector3_);
-DO_TYPEDEF(0x02A17DF8, Dictionary_2_UnityEngine_Mesh_u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_);
-DO_TYPEDEF(0x02A17DE8, Queue_1_MeshCombineStudio_MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A_);
-DO_TYPEDEF(0x02A17EF8, MeshCombineJobManager_u091Cu0929u0923u0928u0925u091Du091Cu0924u091Fu0923u091A);
-DO_TYPEDEF(0x02A17D50, Queue_1_MeshCombineStudio_MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928_);
-DO_TYPEDEF(0x02A17F18, MeshCombineJobManager_u091Cu0929u0923u0928u0925u091Du091Cu0924u091Fu0923u091A__Array);
+DO_TYPEDEF(
+    0x02A17DF8,
+    Dictionary_2_UnityEngine_Mesh_u091Au091Du091Au0927u0926u0927u0920u0925u091Eu0928u0928_);
+DO_TYPEDEF(
+    0x02A17DE8,
+    Queue_1_MeshCombineStudio_MeshCombineJobManager_u091Cu0926u0921u091Cu091Eu091Au0929u091Au0921u091Au091A_);
+DO_TYPEDEF(
+    0x02A17EF8,
+    MeshCombineJobManager_u091Cu0929u0923u0928u0925u091Du091Cu0924u091Fu0923u091A);
+DO_TYPEDEF(
+    0x02A17D50,
+    Queue_1_MeshCombineStudio_MeshCombineJobManager_u0928u0927u091Eu0924u091Cu091Au091Fu0929u0921u0922u0928_);
+DO_TYPEDEF(
+    0x02A17F18,
+    MeshCombineJobManager_u091Cu0929u0923u0928u0925u091Du091Cu0924u091Fu0923u091A__Array);
 DO_TYPEDEF(0x02A178D8, Bounds__Array);
 DO_TYPEDEF(0x02A17BE0, SwapCombineKey);
 DO_TYPEDEF(0x02A17908, u0929u0925u091Bu091Cu0926u091Fu0924u0921u0924u0929u091D);
 DO_TYPEDEF(0x02A18118, Console_1);
-DO_TYPEDEF(0x02A180D0, List_1_MeshCombineStudio_Console_u0923u091Fu0923u0924u0927u0920u0923u091Eu0922u091Fu0923_);
-DO_TYPEDEF(0x02A180F0, Console_u0923u091Fu0923u0924u0927u0920u0923u091Eu0922u091Fu0923);
+DO_TYPEDEF(
+    0x02A180D0,
+    List_1_MeshCombineStudio_Console_u0923u091Fu0923u0924u0927u0920u0923u091Eu0922u091Fu0923_);
+DO_TYPEDEF(0x02A180F0,
+           Console_u0923u091Fu0923u0924u0927u0920u0923u091Eu0922u091Fu0923);
 DO_TYPEDEF(0x02A18008, MCS_FPSCounter);
 DO_TYPEDEF(0x02A5BC50, FastList_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A18AF8, LIV_WaitForUnityEndOfFrame_d_65);
@@ -4731,7 +5473,8 @@ DO_TYPEDEF(0x02A18818, TEXTURE_TYPE__Enum);
 DO_TYPEDEF(0x02A187D8, TEXTURE_FORMAT__Enum);
 DO_TYPEDEF(0x02A187B0, TEXTURE_COLOR_SPACE__Enum);
 DO_TYPEDEF(0x02A18A70, SDKTexture);
-DO_TYPEDEF(0x02A18E38, u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_9);
+DO_TYPEDEF(0x02A18E38,
+           u0927u091Cu0923u0922u0927u091Fu0925u0926u091Du091Cu091E_9);
 DO_TYPEDEF(0x02A59C38, List_1_System_IO_Directory_SearchData_);
 DO_TYPEDEF(0x02A5A5F8, AsyncLocalValueChangedArgs_1_System_Object_);
 DO_TYPEDEF(0x02A319A0, Func_3_AsyncCallback_Object_IAsyncResult_);
@@ -4758,45 +5501,70 @@ DO_TYPEDEF(0x02A3C840, Comparison_1_String_);
 DO_TYPEDEF(0x02A3C778, Action_2_Char_String_);
 DO_TYPEDEF(0x02A3C608, List_1_System_Diagnostics_Tracing_PropertyAnalysis_);
 DO_TYPEDEF(0x02A3BAB0, FileSystemEnumerableIterator_1_System_String_);
-DO_TYPEDEF(0x02A3B7B0, Tuple_2_System_IO_Stream_System_IO_Stream_ReadWriteTask_);
+DO_TYPEDEF(0x02A3B7B0,
+           Tuple_2_System_IO_Stream_System_IO_Stream_ReadWriteTask_);
 DO_TYPEDEF(0x02A3B5E0, Tuple_4_System_IO_TextReader_Char_Int32_Int32_);
 DO_TYPEDEF(0x02A3B530, Tuple_2_System_IO_TextWriter_Char_);
 DO_TYPEDEF(0x02A3B518, Tuple_2_System_IO_TextWriter_String_);
 DO_TYPEDEF(0x02A3B4F0, Tuple_4_System_IO_TextWriter_Char_Int32_Int32_);
-DO_TYPEDEF(0x02A3B218, Dictionary_2_System_Type_System_MonoCustomAttrs_AttributeInfo_);
+DO_TYPEDEF(0x02A3B218,
+           Dictionary_2_System_Type_System_MonoCustomAttrs_AttributeInfo_);
 DO_TYPEDEF(0x02A3CB70, IEnumerator_1_System_Reflection_CustomAttributeData_);
-DO_TYPEDEF(0x02A3B170, Dictionary_2_System_Type_System_AttributeUsageAttribute_);
+DO_TYPEDEF(0x02A3B170,
+           Dictionary_2_System_Type_System_AttributeUsageAttribute_);
 DO_TYPEDEF(0x02A3AC40, CustomAttributeTypedArgument__Array);
-DO_TYPEDEF(0x02A3AC30, ReadOnlyCollection_1_System_Reflection_CustomAttributeTypedArgument_);
-DO_TYPEDEF(0x02A3CAD8, IEnumerator_1_System_Reflection_CustomAttributeNamedArgument_);
+DO_TYPEDEF(
+    0x02A3AC30,
+    ReadOnlyCollection_1_System_Reflection_CustomAttributeTypedArgument_);
+DO_TYPEDEF(0x02A3CAD8,
+           IEnumerator_1_System_Reflection_CustomAttributeNamedArgument_);
 DO_TYPEDEF(0x02A3A9A8, List_1_System_Reflection_Module_);
-DO_TYPEDEF(0x02A38AC8, ConcurrentDictionary_2_System_Runtime_Serialization_MemberHolder_System_Reflection_MemberInfo_);
-DO_TYPEDEF(0x02A38A58, List_1_System_Runtime_Serialization_SerializationFieldInfo_);
-DO_TYPEDEF(0x02A38998, Func_2_System_Runtime_Serialization_MemberHolder_System_Reflection_MemberInfo_);
+DO_TYPEDEF(
+    0x02A38AC8,
+    ConcurrentDictionary_2_System_Runtime_Serialization_MemberHolder_System_Reflection_MemberInfo_);
+DO_TYPEDEF(0x02A38A58,
+           List_1_System_Runtime_Serialization_SerializationFieldInfo_);
+DO_TYPEDEF(
+    0x02A38998,
+    Func_2_System_Runtime_Serialization_MemberHolder_System_Reflection_MemberInfo_);
 DO_TYPEDEF(0x02A37A80, List_1_System_RuntimeType_);
 DO_TYPEDEF(0x02A379F8, List_1_System_Reflection_MethodBase_);
-DO_TYPEDEF(0x02A35E08, Tuple_3_System_Threading_Tasks_Task_System_Threading_Tasks_Task_System_Threading_Tasks_TaskContinuation_);
-DO_TYPEDEF(0x02A34730, Stack_1_System_Xml_DtdParser_ParseElementOnlyContent_LocalFrame_);
+DO_TYPEDEF(
+    0x02A35E08,
+    Tuple_3_System_Threading_Tasks_Task_System_Threading_Tasks_Task_System_Threading_Tasks_TaskContinuation_);
+DO_TYPEDEF(0x02A34730,
+           Stack_1_System_Xml_DtdParser_ParseElementOnlyContent_LocalFrame_);
 DO_TYPEDEF(0x02A33748, Stack_1_System_Xml_Schema_InteriorNode_);
-DO_TYPEDEF(0x02A33368, Stack_1_System_Xml_Schema_SequenceNode_SequenceConstructPosContext_);
+DO_TYPEDEF(0x02A33368,
+           Stack_1_System_Xml_Schema_SequenceNode_SequenceConstructPosContext_);
 DO_TYPEDEF(0x02A38758, DateTime__Array);
 DO_TYPEDEF(0x02A39290, Decimal__Array);
 DO_TYPEDEF(0x02A38770, TimeSpan__Array);
 DO_TYPEDEF(0x02A338D8, XmlAtomicValue__Array);
-DO_TYPEDEF(0x02A31D18, Dictionary_2_TKey_TValue_Enumerator_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaAttDef_);
+DO_TYPEDEF(
+    0x02A31D18,
+    Dictionary_2_TKey_TValue_Enumerator_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaAttDef_);
 DO_TYPEDEF(0x02A31A08, Func_1_System_IO_Stream_);
 DO_TYPEDEF(0x02A31968, Func_2_IAsyncResult_System_Net_WebResponse_);
-DO_TYPEDEF(0x02A317F8, Dictionary_2_TKey_TValue_Enumerator_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaElementDecl_);
-DO_TYPEDEF(0x02A31708, Dictionary_2_TKey_TValue_KeyCollection_TKey_TValue_Enumerator_System_String_System_String_);
+DO_TYPEDEF(
+    0x02A317F8,
+    Dictionary_2_TKey_TValue_Enumerator_System_Xml_XmlQualifiedName_System_Xml_Schema_SchemaElementDecl_);
+DO_TYPEDEF(
+    0x02A31708,
+    Dictionary_2_TKey_TValue_KeyCollection_TKey_TValue_Enumerator_System_String_System_String_);
 DO_TYPEDEF(0x02A31038, Queue_1_Mono_Net_CFNetwork_GetProxyData_);
 DO_TYPEDEF(0x02A30B68, Func_1_Int32_);
-DO_TYPEDEF(0x02A30A98, Dictionary_2_System_Guid_Mono_Security_Interface_MonoTlsProvider_);
+DO_TYPEDEF(0x02A30A98,
+           Dictionary_2_System_Guid_Mono_Security_Interface_MonoTlsProvider_);
 DO_TYPEDEF(0x02A30AD0, Dictionary_2_System_String_System_Tuple_2_);
 DO_TYPEDEF(0x02A30A70, Tuple_2_Guid_String_);
 DO_TYPEDEF(0x02A2F510, List_1_System_Enum_);
 DO_TYPEDEF(0x02A2F538, Enum__Array);
-DO_TYPEDEF(0x02A2EAF8, Dictionary_2_System_String_System_ComponentModel_EventDescriptor_);
-DO_TYPEDEF(0x02A2EAE8, Dictionary_2_System_String_System_ComponentModel_PropertyDescriptor_);
+DO_TYPEDEF(0x02A2EAF8,
+           Dictionary_2_System_String_System_ComponentModel_EventDescriptor_);
+DO_TYPEDEF(
+    0x02A2EAE8,
+    Dictionary_2_System_String_System_ComponentModel_PropertyDescriptor_);
 DO_TYPEDEF(0x02A2E458, List_1_System_Diagnostics_Process_);
 DO_TYPEDEF(0x02A2D4D8, List_1_System_Net_MonoChunkStream_Chunk_);
 DO_TYPEDEF(0x02A2D450, List_1_System_Net_IPAddress_);
@@ -4810,35 +5578,63 @@ DO_TYPEDEF(0x02A2B850, CachedInvokableCall_1_System_Single_);
 DO_TYPEDEF(0x02A2B810, CachedInvokableCall_1_System_Int32_);
 DO_TYPEDEF(0x02A2B7E8, CachedInvokableCall_1_System_String_);
 DO_TYPEDEF(0x02A2B7D0, CachedInvokableCall_1_System_Boolean_);
-DO_TYPEDEF(0x02A2B3B0, Func_2_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_Boolean_);
-DO_TYPEDEF(0x02A2B290, IEnumerable_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
+DO_TYPEDEF(
+    0x02A2B3B0,
+    Func_2_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_Boolean_);
+DO_TYPEDEF(
+    0x02A2B290,
+    IEnumerable_1_UnityEngine_Networking_PlayerConnection_PlayerEditorConnectionEvents_MessageTypeSubscribers_);
 DO_TYPEDEF(0x02A2A5B0, List_1_UnityEngine_ISubsystemDescriptor_);
 DO_TYPEDEF(0x02A2A5C8, List_1_UnityEngine_ISubsystemDescriptorImpl_);
 DO_TYPEDEF(0x02A2A528, List_1_UnityEngine_ISubsystem_);
-DO_TYPEDEF(0x02A29F90, Dictionary_2_System_Int32_UnityEngine_GUILayoutUtility_LayoutCache_);
-DO_TYPEDEF(0x02A29EC0, Dictionary_2_TKey_TValue_ValueCollection_TKey_TValue_Enumerator_System_String_UnityEngine_GUIStyle_);
+DO_TYPEDEF(0x02A29F90,
+           Dictionary_2_System_Int32_UnityEngine_GUILayoutUtility_LayoutCache_);
+DO_TYPEDEF(
+    0x02A29EC0,
+    Dictionary_2_TKey_TValue_ValueCollection_TKey_TValue_Enumerator_System_String_UnityEngine_GUIStyle_);
 DO_TYPEDEF(0x02A29E70, Dictionary_2_System_Int32_System_Object_);
 DO_TYPEDEF(0x02A284E8, Func_3_Int32_IntPtr_Boolean_);
 DO_TYPEDEF(0x02A284B0, Func_2_Exception_Boolean_);
 DO_TYPEDEF(0x02A29C60, List_1_UnityEngine_Rigidbody2D_);
-DO_TYPEDEF(0x02A21130, Action_1_UnityEngineInternal_Input_NativeInputUpdateType_);
-DO_TYPEDEF(0x02A210F0, Func_2_UnityEngineInternal_Input_NativeInputUpdateType_Boolean_);
-DO_TYPEDEF(0x02A286A0, Dictionary_2_UnityEngine_UIElements_StyleSheets_StyleSheetCache_SheetHandleKey_System_Int32_);
-DO_TYPEDEF(0x02A28678, Dictionary_2_UnityEngine_UIElements_StyleSheets_StyleSheetCache_SheetHandleKey_UnityEngine_UIElements_StyleSheets_StylePropertyID_);
-DO_TYPEDEF(0x02A28638, Dictionary_2_System_String_UnityEngine_UIElements_StyleSheets_StylePropertyID_);
+DO_TYPEDEF(0x02A21130,
+           Action_1_UnityEngineInternal_Input_NativeInputUpdateType_);
+DO_TYPEDEF(0x02A210F0,
+           Func_2_UnityEngineInternal_Input_NativeInputUpdateType_Boolean_);
+DO_TYPEDEF(
+    0x02A286A0,
+    Dictionary_2_UnityEngine_UIElements_StyleSheets_StyleSheetCache_SheetHandleKey_System_Int32_);
+DO_TYPEDEF(
+    0x02A28678,
+    Dictionary_2_UnityEngine_UIElements_StyleSheets_StyleSheetCache_SheetHandleKey_UnityEngine_UIElements_StyleSheets_StylePropertyID_);
+DO_TYPEDEF(
+    0x02A28638,
+    Dictionary_2_System_String_UnityEngine_UIElements_StyleSheets_StylePropertyID_);
 DO_TYPEDEF(0x02A28518, Stack_1_UnityEngine_UIElements_IMGUIContainer_);
 DO_TYPEDEF(0x02A283F8, ObjectPool_1_System_Collections_Generic_List_1_);
-DO_TYPEDEF(0x02A27FE8, NetworkMatch_InternalResponseDelegate_2_CreateMatchResponse_NetworkMatch_DataResponseDelegate_1_MatchInfo_);
-DO_TYPEDEF(0x02A27F50, NetworkMatch_InternalResponseDelegate_2_JoinMatchResponse_NetworkMatch_DataResponseDelegate_1_MatchInfo_);
-DO_TYPEDEF(0x02A27F18, NetworkMatch_InternalResponseDelegate_2_BasicResponse_NetworkMatch_BasicResponseDelegate_);
-DO_TYPEDEF(0x02A27ED0, NetworkMatch_InternalResponseDelegate_2_DropConnectionResponse_NetworkMatch_BasicResponseDelegate_);
-DO_TYPEDEF(0x02A27E78, NetworkMatch_InternalResponseDelegate_2_ListMatchResponse_NetworkMatch_DataResponseDelegate_1_System_Collections_Generic_List_1_);
-DO_TYPEDEF(0x02A27D18, Dictionary_2_UnityEngine_Networking_Types_NetworkID_UnityEngine_Networking_Types_NetworkAccessToken_);
+DO_TYPEDEF(
+    0x02A27FE8,
+    NetworkMatch_InternalResponseDelegate_2_CreateMatchResponse_NetworkMatch_DataResponseDelegate_1_MatchInfo_);
+DO_TYPEDEF(
+    0x02A27F50,
+    NetworkMatch_InternalResponseDelegate_2_JoinMatchResponse_NetworkMatch_DataResponseDelegate_1_MatchInfo_);
+DO_TYPEDEF(
+    0x02A27F18,
+    NetworkMatch_InternalResponseDelegate_2_BasicResponse_NetworkMatch_BasicResponseDelegate_);
+DO_TYPEDEF(
+    0x02A27ED0,
+    NetworkMatch_InternalResponseDelegate_2_DropConnectionResponse_NetworkMatch_BasicResponseDelegate_);
+DO_TYPEDEF(
+    0x02A27E78,
+    NetworkMatch_InternalResponseDelegate_2_ListMatchResponse_NetworkMatch_DataResponseDelegate_1_System_Collections_Generic_List_1_);
+DO_TYPEDEF(
+    0x02A27D18,
+    Dictionary_2_UnityEngine_Networking_Types_NetworkID_UnityEngine_Networking_Types_NetworkAccessToken_);
 DO_TYPEDEF(0x02A27690, Comparison_1_System_Net_IPAddress_);
 DO_TYPEDEF(0x02A26458, Predicate_1_Photon_Realtime_Region_);
 DO_TYPEDEF(0x02A25AF8, UnityAction_1_System_Collections_Generic_List_1_);
 DO_TYPEDEF(0x02A25AE0, ObjectPool_1_System_Collections_Generic_List_1__1);
-DO_TYPEDEF(0x02A25378, Dictionary_2_UnityEngine_Font_HashSet_1_UnityEngine_UI_Text_);
+DO_TYPEDEF(0x02A25378,
+           Dictionary_2_UnityEngine_Font_HashSet_1_UnityEngine_UI_Text_);
 DO_TYPEDEF(0x02A253B0, HashSet_1_UnityEngine_UI_Text_);
 DO_TYPEDEF(0x02A24620, List_1_UnityEngine_UI_StencilMaterial_MatEntry_);
 DO_TYPEDEF(0x02A241C8, IEnumerable_1_System_Linq_IGrouping_2__1);
@@ -4858,41 +5654,71 @@ DO_TYPEDEF(0x02A227A8, List_1_List_1_UnityEngine_InputSystem_InputBinding_);
 DO_TYPEDEF(0x02A22758, List_1_UnityEngine_InputSystem_InputBinding_);
 DO_TYPEDEF(0x02A22578, Predicate_1_UnityEngine_InputSystem_InputControlScheme_);
 DO_TYPEDEF(0x02A223F8, Predicate_1_UnityEngine_InputSystem_InputBinding_);
-DO_TYPEDEF(0x02A22390, List_1_UnityEngine_InputSystem_InputAnalytics_StartupEventData_DeviceInfo_);
+DO_TYPEDEF(
+    0x02A22390,
+    List_1_UnityEngine_InputSystem_InputAnalytics_StartupEventData_DeviceInfo_);
 DO_TYPEDEF(0x02A22308, InputAnalytics_StartupEventData_DeviceInfo__Array);
 DO_TYPEDEF(0x02A22080, List_1_UnityEngine_InputSystem_Utilities_Substring_);
 DO_TYPEDEF(0x02A21F48, List_1_UnityEngine_InputSystem_InputDevice_);
 DO_TYPEDEF(0x02A21BF0, InputRemoting_NewDeviceMsg_Data);
-DO_TYPEDEF(0x02A21998, Func_2_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_Boolean_);
-DO_TYPEDEF(0x02A5AA20, IEnumerable_1_UnityEngine_InputSystem_Utilities_NamedValue_);
+DO_TYPEDEF(
+    0x02A21998,
+    Func_2_UnityEngine_InputSystem_Layouts_InputControlLayout_ControlItem_Boolean_);
+DO_TYPEDEF(0x02A5AA20,
+           IEnumerable_1_UnityEngine_InputSystem_Utilities_NamedValue_);
 DO_TYPEDEF(0x02A215B0, InputDeviceDescription_DeviceDescriptionJson);
-DO_TYPEDEF(0x02A21288, Predicate_1_UnityEngine_InputSystem_LowLevel_InputEventTrace_DeviceInfo_);
-DO_TYPEDEF(0x02A20520, Dictionary_2_System_Type_System_Collections_ICollection_);
+DO_TYPEDEF(
+    0x02A21288,
+    Predicate_1_UnityEngine_InputSystem_LowLevel_InputEventTrace_DeviceInfo_);
+DO_TYPEDEF(0x02A20520,
+           Dictionary_2_System_Type_System_Collections_ICollection_);
 DO_TYPEDEF(0x02A204F8, Stack_1_UnityEngine_Transform_);
-DO_TYPEDEF(0x02A204B0, Predicate_1_Photon_Pun_PhotonAnimatorView_SynchronizedLayer_);
-DO_TYPEDEF(0x02A20468, Predicate_1_Photon_Pun_PhotonAnimatorView_SynchronizedParameter_);
+DO_TYPEDEF(0x02A204B0,
+           Predicate_1_Photon_Pun_PhotonAnimatorView_SynchronizedLayer_);
+DO_TYPEDEF(0x02A20468,
+           Predicate_1_Photon_Pun_PhotonAnimatorView_SynchronizedParameter_);
 DO_TYPEDEF(0x02A20198, HashSet_1_System_Byte_);
 DO_TYPEDEF(0x02A20160, HashSet_1_Photon_Pun_PhotonView_);
-DO_TYPEDEF(0x02A20128, Dictionary_2_System_Type_List_1_System_Reflection_MethodInfo_);
+DO_TYPEDEF(0x02A20128,
+           Dictionary_2_System_Type_List_1_System_Reflection_MethodInfo_);
 DO_TYPEDEF(0x02A200F0, List_1_Photon_Pun_PhotonView_);
-DO_TYPEDEF(0x02A20098, Dictionary_2_Photon_Pun_PhotonNetwork_RaiseEventBatch_Photon_Pun_PhotonNetwork_SerializeViewBatch_);
+DO_TYPEDEF(
+    0x02A20098,
+    Dictionary_2_Photon_Pun_PhotonNetwork_RaiseEventBatch_Photon_Pun_PhotonNetwork_SerializeViewBatch_);
 DO_TYPEDEF(0x02A20008, IPunInstantiateMagicCallback);
-DO_TYPEDEF(0x02A1FBD0, Dictionary_2_System_Reflection_MethodInfo_System_Reflection_ParameterInfo_);
+DO_TYPEDEF(
+    0x02A1FBD0,
+    Dictionary_2_System_Reflection_MethodInfo_System_Reflection_ParameterInfo_);
 DO_TYPEDEF(0x02A1F8C8, Func_1_Photon_Voice_IAudioOut_1_);
-DO_TYPEDEF(0x02A1EE70, Dictionary_2_UnityEngine_PrimitiveType_UnityEngine_Mesh_);
+DO_TYPEDEF(0x02A1EE70,
+           Dictionary_2_UnityEngine_PrimitiveType_UnityEngine_Mesh_);
 DO_TYPEDEF(0x02A1EE00, Dictionary_2_System_Type_UnityEngine_PrimitiveType_);
-DO_TYPEDEF(0x02A1EC80, Func_2_System_Reflection_FieldInfo_UnityEngine_Rendering_PostProcessing_ParameterOverride_);
-DO_TYPEDEF(0x02A1EA78, Func_2_System_Collections_Generic_KeyValuePair_2_Boolean_);
-DO_TYPEDEF(0x02A1EA08, Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessLayer_SerializedBundleRef_);
-DO_TYPEDEF(0x02A1E970, Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
-DO_TYPEDEF(0x02A5B140, List_1_T_Enumerator_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
+DO_TYPEDEF(
+    0x02A1EC80,
+    Func_2_System_Reflection_FieldInfo_UnityEngine_Rendering_PostProcessing_ParameterOverride_);
+DO_TYPEDEF(0x02A1EA78,
+           Func_2_System_Collections_Generic_KeyValuePair_2_Boolean_);
+DO_TYPEDEF(
+    0x02A1EA08,
+    Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessLayer_SerializedBundleRef_);
+DO_TYPEDEF(0x02A1E970,
+           Predicate_1_UnityEngine_Rendering_PostProcessing_PostProcessBundle_);
+DO_TYPEDEF(
+    0x02A5B140,
+    List_1_T_Enumerator_UnityEngine_Rendering_PostProcessing_PostProcessEffectSettings_);
 DO_TYPEDEF(0x02A1E4F8, Dictionary_2_System_Int32_UnityEngine_Texture2D_);
-DO_TYPEDEF(0x02A1E430, Dictionary_2_System_Int32_UnityEngine_RenderTextureFormat_);
-DO_TYPEDEF(0x02A1DC30, UnityAction_4_UnityEngine_InputSystem_Samples_RebindUI_RebindActionUI_System_String_System_String_System_String_);
+DO_TYPEDEF(0x02A1E430,
+           Dictionary_2_System_Int32_UnityEngine_RenderTextureFormat_);
+DO_TYPEDEF(
+    0x02A1DC30,
+    UnityAction_4_UnityEngine_InputSystem_Samples_RebindUI_RebindActionUI_System_String_System_String_System_String_);
 DO_TYPEDEF(0x02A1D098, List_1_UnityEngine_Networking_NetworkBehaviour_);
-DO_TYPEDEF(0x02A1CD58, List_1_UnityEngine_Networking_NetworkSystem_PeerInfoMessage_);
-DO_TYPEDEF(0x02A1CD10, List_1_UnityEngine_Networking_NetworkSystem_PeerInfoPlayer_);
-DO_TYPEDEF(0x02A1CB68, List_1_UnityEngine_Networking_NetworkSystem_CRCMessageEntry_);
+DO_TYPEDEF(0x02A1CD58,
+           List_1_UnityEngine_Networking_NetworkSystem_PeerInfoMessage_);
+DO_TYPEDEF(0x02A1CD10,
+           List_1_UnityEngine_Networking_NetworkSystem_PeerInfoPlayer_);
+DO_TYPEDEF(0x02A1CB68,
+           List_1_UnityEngine_Networking_NetworkSystem_CRCMessageEntry_);
 DO_TYPEDEF(0x02A1C668, List_1_HxVolumetricCamera_TriangleIndices_);
 DO_TYPEDEF(0x02A1B680, List_1_RootMotion_FinalIK_InteractionTarget_);
 DO_TYPEDEF(0x02A17C68, Dictionary_2_UnityEngine_Vector3_System_Int32_);
@@ -4905,52 +5731,96 @@ DO_TYPEDEF(0x02A16940, SteamVR_Events_Event_1_System_Boolean_);
 DO_TYPEDEF(0x02A16868, SteamVR_Events_Event_1_Valve_VR_TrackedDevicePose_t_);
 DO_TYPEDEF(0x02A16AB0, SteamVR_Events_Action_1_System_Boolean_);
 DO_TYPEDEF(0x02A16A90, SteamVR_Events_Action_2_System_Int32_System_Boolean_);
-DO_TYPEDEF(0x02A16A58, SteamVR_Events_Action_3_UnityEngine_Color_System_Single_System_Boolean_);
-DO_TYPEDEF(0x02A168E8, SteamVR_Events_Event_3_UnityEngine_Color_System_Single_System_Boolean_);
+DO_TYPEDEF(
+    0x02A16A58,
+    SteamVR_Events_Action_3_UnityEngine_Color_System_Single_System_Boolean_);
+DO_TYPEDEF(
+    0x02A168E8,
+    SteamVR_Events_Event_3_UnityEngine_Color_System_Single_System_Boolean_);
 DO_TYPEDEF(0x02A169E8, SteamVR_Events_Action_1_Valve_VR_TrackedDevicePose_t_);
-DO_TYPEDEF(0x02A169C8, SteamVR_Events_Action_2_SteamVR_RenderModel_System_Boolean_);
-DO_TYPEDEF(0x02A16860, SteamVR_Events_Event_2_SteamVR_RenderModel_System_Boolean_);
-DO_TYPEDEF(0x02A16818, Dictionary_2_Valve_VR_EVREventType_SteamVR_Events_Event_1_);
+DO_TYPEDEF(0x02A169C8,
+           SteamVR_Events_Action_2_SteamVR_RenderModel_System_Boolean_);
+DO_TYPEDEF(0x02A16860,
+           SteamVR_Events_Event_2_SteamVR_RenderModel_System_Boolean_);
+DO_TYPEDEF(0x02A16818,
+           Dictionary_2_Valve_VR_EVREventType_SteamVR_Events_Event_1_);
 DO_TYPEDEF(0x02A16960, SteamVR_Events_Action_1_Valve_VR_VREvent_t_);
-DO_TYPEDEF(0x02A15D18, UnityAction_2_System_Object_u0921u091Au0920u091Eu0926u0923u091Cu0923u0924u091Bu0924_);
+DO_TYPEDEF(
+    0x02A15D18,
+    UnityAction_2_System_Object_u0921u091Au0920u091Eu0926u0923u091Cu0923u0924u091Bu0924_);
 DO_TYPEDEF(0x02A5B298, List_1_VRTK_VRTK_BasicTeleport_);
 DO_TYPEDEF(0x02A159D0, List_1_UnityEngine_CombineInstance_);
 DO_TYPEDEF(0x02A62248, Func_2_UnityEngine_KeyCode_Boolean_);
 DO_TYPEDEF(0x02A5B268, List_1_VRTK_VRTK_DestinationMarker_);
 DO_TYPEDEF(0x02A617C0, IEnumerator_1_VRTK_VRTK_SDKSetup_);
 DO_TYPEDEF(0x02A617E0, IEnumerable_1_VRTK_VRTK_SDKSetup_);
-DO_TYPEDEF(0x02A61760, List_1_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
-DO_TYPEDEF(0x02A616D8, Func_2_VRTK_SDK_ScriptingDefineSymbolPredicateAttribute_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
+DO_TYPEDEF(
+    0x02A61760,
+    List_1_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
+DO_TYPEDEF(
+    0x02A616D8,
+    Func_2_VRTK_SDK_ScriptingDefineSymbolPredicateAttribute_VRTK_VRTK_SDKManager_u091Du0928u0920u091Eu0920u091Au091Du0922u091Au0920u0926_);
 DO_TYPEDEF(0x02A61498, SDK_Base__Array);
 DO_TYPEDEF(0x02A61468, Action_1_VRTK_SDK_Base_);
 DO_TYPEDEF(0x02A61298, Action_1_UnityEngine_GameObject_);
 DO_TYPEDEF(0x02A61268, Func_2_VRTK_VRTK_SDKTransformModifiers_Boolean_);
-DO_TYPEDEF(0x02A5C170, Dictionary_2_System_Int32_IDictionary_2_System_Int32_System_Int32_);
+DO_TYPEDEF(0x02A5C170,
+           Dictionary_2_System_Int32_IDictionary_2_System_Int32_System_Int32_);
 DO_TYPEDEF(0x02A5C188, IDictionary_2_System_Int32_System_Int32_);
 DO_TYPEDEF(0x02A5C138, Dictionary_2_System_Int32_System_Int32_);
-DO_TYPEDEF(0x02A5BDD8, Dictionary_2_System_String_u0928u0928u0923u091Eu0926u091Eu091Bu0922u0922u0921u091E_);
-DO_TYPEDEF(0x02A5BBD0, Dictionary_2_System_String_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5BDD8,
+    Dictionary_2_System_String_u0928u0928u0923u091Eu0926u091Eu091Bu0922u0922u0921u091E_);
+DO_TYPEDEF(
+    0x02A5BBD0,
+    Dictionary_2_System_String_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
 DO_TYPEDEF(0x02A5A0B0, u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922);
-DO_TYPEDEF(0x02A5B9F8, IEnumerator_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
-DO_TYPEDEF(0x02A5BB48, Dictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
-DO_TYPEDEF(0x02A5BAB0, List_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5B9F8,
+    IEnumerator_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5BB48,
+    Dictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
+DO_TYPEDEF(0x02A5BAB0,
+           List_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
 DO_TYPEDEF(0x02A5B940, Dictionary_2_System_Type_System_Reflection_MethodInfo_);
-DO_TYPEDEF(0x02A5B898, Dictionary_2_System_Type_u0928u0927u091Eu091Du091Cu091Du0921u091Cu091Bu0924u0929_);
-DO_TYPEDEF(0x02A5B860, Dictionary_2_System_Type_IDictionary_2_System_Type_System_Reflection_MethodInfo_);
+DO_TYPEDEF(
+    0x02A5B898,
+    Dictionary_2_System_Type_u0928u0927u091Eu091Du091Cu091Du0921u091Cu091Bu0924u0929_);
+DO_TYPEDEF(
+    0x02A5B860,
+    Dictionary_2_System_Type_IDictionary_2_System_Type_System_Reflection_MethodInfo_);
 DO_TYPEDEF(0x02A5B918, IDictionary_2_System_Type_System_Reflection_MethodInfo_);
-DO_TYPEDEF(0x02A5B828, Dictionary_2_System_Type_u091Bu0927u091Eu091Bu0921u0920u0927u0922u091Au0926u091A_);
-DO_TYPEDEF(0x02A5B820, Dictionary_2_System_Type_IList_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
-DO_TYPEDEF(0x02A5B7F0, Dictionary_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
-DO_TYPEDEF(0x02A5B7D0, Dictionary_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
-DO_TYPEDEF(0x02A5BB28, IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
-DO_TYPEDEF(0x02A5B578, Dictionary_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
-DO_TYPEDEF(0x02A5B550, List_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
-DO_TYPEDEF(0x02A5B490, List_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B828,
+    Dictionary_2_System_Type_u091Bu0927u091Eu091Bu0921u0920u0927u0922u091Au0926u091A_);
+DO_TYPEDEF(
+    0x02A5B820,
+    Dictionary_2_System_Type_IList_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5B7F0,
+    Dictionary_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
+DO_TYPEDEF(
+    0x02A5B7D0,
+    Dictionary_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
+DO_TYPEDEF(
+    0x02A5BB28,
+    IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
+DO_TYPEDEF(
+    0x02A5B578,
+    Dictionary_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B550,
+    List_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(0x02A5B490,
+           List_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
 DO_TYPEDEF(0x02A5A010, ByteEnum__Enum);
 DO_TYPEDEF(0x02A5A628, Int32Enum__Enum);
 DO_TYPEDEF(0x02A5A6E8, KeyValuePair_2_System_DateTime_System_Object_);
 DO_TYPEDEF(0x02A5A690, KeyValuePair_2_System_Object_System_UInt64_);
-DO_TYPEDEF(0x02A5A670, KeyValuePair_2_System_Object_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_);
+DO_TYPEDEF(
+    0x02A5A670,
+    KeyValuePair_2_System_Object_UnityEngine_InputSystem_Utilities_JsonParser_JsonValue_);
 DO_TYPEDEF(0x02A2B120, PlayableBinding);
 DO_TYPEDEF(0x02A2B0E8, PlayableBinding__Array);
 DO_TYPEDEF(0x02A5AB50, NullTypeInfo_1_EmptyStruct_);
@@ -4965,7 +5835,9 @@ DO_TYPEDEF(0x02A166A0, HmdVector3_t__Array);
 DO_TYPEDEF(0x02A5A9E0, Func_2_Type_System_Collections_Generic_IEnumerable_1_);
 DO_TYPEDEF(0x02A5A980, Func_2_VRTK_VRTK_SDKInfo_Boolean_);
 DO_TYPEDEF(0x02A5A910, Func_2_UnityEngine_GameObject_UnityEngine_GameObject_);
-DO_TYPEDEF(0x02A5BA18, IEnumerable_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5BA18,
+    IEnumerable_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
 DO_TYPEDEF(0x02A3FE48, GC_1);
 DO_TYPEDEF(0x02A400F8, Convert);
 DO_TYPEDEF(0x02A3EA28, RemotingServices);
@@ -4975,7 +5847,9 @@ DO_TYPEDEF(0x02A39FF0, ActivationServices);
 DO_TYPEDEF(0x02A2B4F8, Graphics);
 DO_TYPEDEF(0x02A2BA50, Mathf);
 DO_TYPEDEF(0x02A3EC80, ICollection_1_System_Exception_);
-DO_TYPEDEF(0x02A3EC00, ICollection_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
+DO_TYPEDEF(
+    0x02A3EC00,
+    ICollection_1_System_Runtime_ExceptionServices_ExceptionDispatchInfo_);
 DO_TYPEDEF(0x02A28320, RectTransformUtility);
 DO_TYPEDEF(0x02A2BD68, Debug_2);
 DO_TYPEDEF(0x02A1F308, RuntimeUtilities);
@@ -5075,10 +5949,14 @@ DO_TYPEDEF(0x02A381C0, ISerializable);
 DO_TYPEDEF(0x02A26D10, Extensions);
 DO_TYPEDEF(0x02A183F0, u091Fu0924u0923u091Fu091Bu0922u091Cu091Eu0926u091Du091D);
 DO_TYPEDEF(0x02A2F8E8, CultureInfoConverter_CultureInfoMapper);
-DO_TYPEDEF(0x02A3CB48, ICollection_1_System_Reflection_CustomAttributeTypedArgument_);
-DO_TYPEDEF(0x02A3AD20, ICollection_1_System_Reflection_CustomAttributeNamedArgument_);
-DO_TYPEDEF(0x02A3AD60, EmptyArray_1_System_Reflection_CustomAttributeTypedArgument_);
-DO_TYPEDEF(0x02A3AD38, EmptyArray_1_System_Reflection_CustomAttributeNamedArgument_);
+DO_TYPEDEF(0x02A3CB48,
+           ICollection_1_System_Reflection_CustomAttributeTypedArgument_);
+DO_TYPEDEF(0x02A3AD20,
+           ICollection_1_System_Reflection_CustomAttributeNamedArgument_);
+DO_TYPEDEF(0x02A3AD60,
+           EmptyArray_1_System_Reflection_CustomAttributeTypedArgument_);
+DO_TYPEDEF(0x02A3AD38,
+           EmptyArray_1_System_Reflection_CustomAttributeNamedArgument_);
 DO_TYPEDEF(0x02A205F0, CustomTypes);
 DO_TYPEDEF(0x02A37330, Utils);
 DO_TYPEDEF(0x02A37248, OidGroup__Enum_1);
@@ -5121,12 +5999,15 @@ DO_TYPEDEF(0x02A59CF0, EnumHelper_1_System_UInt32_);
 DO_TYPEDEF(0x02A59CA8, EnumHelper_1_System_UInt64_);
 DO_TYPEDEF(0x02A3C548, CompatibilitySwitches);
 DO_TYPEDEF(0x02A3C520, Environment);
-DO_TYPEDEF(0x02A3CC08, ICollection_1_KeyValuePair_2_System_String_System_String_);
+DO_TYPEDEF(0x02A3CC08,
+           ICollection_1_KeyValuePair_2_System_String_System_String_);
 DO_TYPEDEF(0x02A3CBA0, IEnumerable_1_System_Reflection_CustomAttributeData_);
-DO_TYPEDEF(0x02A3CB00, IEnumerable_1_System_Reflection_CustomAttributeNamedArgument_);
+DO_TYPEDEF(0x02A3CB00,
+           IEnumerable_1_System_Reflection_CustomAttributeNamedArgument_);
 DO_TYPEDEF(0x02A25DF0, ICollection_1_UnityEngine_Transform_);
 DO_TYPEDEF(0x02A252D8, ListPool_1_UnityEngine_Component_);
-DO_TYPEDEF(0x02A5AA48, ICollection_1_UnityEngine_EventSystems_IEventSystemHandler_);
+DO_TYPEDEF(0x02A5AA48,
+           ICollection_1_UnityEngine_EventSystems_IEventSystemHandler_);
 DO_TYPEDEF(0x02A1C9E0, FileBasedPrefs);
 DO_TYPEDEF(0x02A2DAA8, Logging);
 DO_TYPEDEF(0x02A2DA10, ICloseEx);
@@ -5158,9 +6039,11 @@ DO_TYPEDEF(0x02A22358, InputAnalytics_StartupEventData);
 DO_TYPEDEF(0x02A22200, InputInteraction);
 DO_TYPEDEF(0x02A22158, IInputStateCallbackReceiver);
 DO_TYPEDEF(0x02A21A38, IInputStateTypeInfo);
-DO_TYPEDEF(0x02A5B188, IEnumerable_1_UnityEngine_InputSystem_InputControlScheme_);
+DO_TYPEDEF(0x02A5B188,
+           IEnumerable_1_UnityEngine_InputSystem_InputControlScheme_);
 DO_TYPEDEF(0x02A5A8F0, IReadOnlyList_1_UnityEngine_InputSystem_InputDevice_);
-DO_TYPEDEF(0x02A5A8B8, IReadOnlyCollection_1_UnityEngine_InputSystem_InputDevice_);
+DO_TYPEDEF(0x02A5A8B8,
+           IReadOnlyCollection_1_UnityEngine_InputSystem_InputDevice_);
 DO_TYPEDEF(0x02A298E0, InputDevices);
 DO_TYPEDEF(0x02A24E30, ICollection_1_UnityEngine_UICharInfo_);
 DO_TYPEDEF(0x02A24DF0, ICollection_1_UnityEngine_UILineInfo_);
@@ -5277,25 +6160,45 @@ DO_TYPEDEF(0x02A59A70, IStructuralComparable);
 DO_TYPEDEF(0x02A59A30, ITupleInternal);
 DO_TYPEDEF(0x02A3C5B8, IEnumerator_1_System_Reflection_PropertyInfo_);
 DO_TYPEDEF(0x02A2E830, TypeDescriptor_IUnimplemented);
-DO_TYPEDEF(0x02A622E8, VRTK_AdaptiveQuality_u091Au0921u0920u0922u091Du0921u091Eu0927u091Du091Cu0921);
-DO_TYPEDEF(0x02A62280, VRTK_AdaptiveQuality_u091Bu091Au0927u0924u091Cu0924u0920u091Fu091Bu0924u091B);
+DO_TYPEDEF(
+    0x02A622E8,
+    VRTK_AdaptiveQuality_u091Au0921u0920u0922u091Du0921u091Eu0927u091Du091Cu0921);
+DO_TYPEDEF(
+    0x02A62280,
+    VRTK_AdaptiveQuality_u091Bu091Au0927u0924u091Cu0924u0920u091Fu091Bu0924u091B);
 DO_TYPEDEF(0x02A5C318, u091Cu091Au0927u0923u0924u091Bu0923u0929u091Bu091Eu091A);
 DO_TYPEDEF(0x02A1F3A0, u0921u0923u0923u091Fu0924u091Fu0925u091Bu091Au0927u0924);
 DO_TYPEDEF(0x02A1F428, u0925u091Bu0923u0924u0923u0926u0921u0927u091Bu0923u0924);
-DO_TYPEDEF(0x02A1F408, u091Du091Cu091Fu0927u0928u0928u091Fu0923u091Cu091Au0925_System_Byte_);
+DO_TYPEDEF(
+    0x02A1F408,
+    u091Du091Cu091Fu0927u0928u0928u091Fu0923u091Cu091Au0925_System_Byte_);
 DO_TYPEDEF(0x02A5C268, u091Du0926u0924u091Cu091Eu091Au0924u091Cu091Au091Cu0925);
 DO_TYPEDEF(0x02A5BF88, u091Eu0921u091Fu091Cu091Bu0926u0920u0920u091Bu0927u0924);
 DO_TYPEDEF(0x02A5BCC0, u0921u0929u0924u091Au0923u0921u0923u0923u091Au091Au0929);
 DO_TYPEDEF(0x02A5BC90, Version__Array);
-DO_TYPEDEF(0x02A5BC10, ICollection_1_KeyValuePair_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
-DO_TYPEDEF(0x02A5BA98, ICollection_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
-DO_TYPEDEF(0x02A5BB08, ICollection_1_KeyValuePair_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
+DO_TYPEDEF(
+    0x02A5BC10,
+    ICollection_1_KeyValuePair_2_System_Type_IDictionary_2_System_Type_u091Du0920u0924u091Au0925u091Fu0928u0923u0924u091Bu0927_);
+DO_TYPEDEF(
+    0x02A5BA98,
+    ICollection_1_u091Eu0928u0925u0928u0920u0922u091Eu091Eu0920u091Au0922_);
+DO_TYPEDEF(
+    0x02A5BB08,
+    ICollection_1_KeyValuePair_2_System_Type_u091Eu0922u0924u0922u0926u091Bu0926u091Du0927u0925u0929_);
 DO_TYPEDEF(0x02A5B758, u0924u091Au0921u091Du0922u0921u091Fu0922u0929u0927u0920);
-DO_TYPEDEF(0x02A621B8, VRTK_AdaptiveQuality_u0927u0921u0928u0927u091Cu0929u0925u0924u0923u0926u091D);
-DO_TYPEDEF(0x02A5B518, ICollection_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A621B8,
+    VRTK_AdaptiveQuality_u0927u0921u0928u0927u091Cu0929u0925u0924u0923u0926u091D);
+DO_TYPEDEF(
+    0x02A5B518,
+    ICollection_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
 DO_TYPEDEF(0x02A5B488, IOrderedDictionary);
-DO_TYPEDEF(0x02A5B4E8, IEnumerable_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
-DO_TYPEDEF(0x02A5B460, ICollection_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B4E8,
+    IEnumerable_1_KeyValuePair_2_System_String_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
+DO_TYPEDEF(
+    0x02A5B460,
+    ICollection_1_u0927u0924u0924u0928u0926u0922u091Bu091Bu0923u091Cu0921_);
 DO_TYPEDEF(0x02A28598, UIElementsRuntimeUtility);
 DO_TYPEDEF(0x02A28588, RuntimePanel);
 DO_TYPEDEF(0x02A30278, UnityTls_unitytls_ciphersuite__Enum__Array);
