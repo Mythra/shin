@@ -1,0 +1,4 @@
+/builddir/
+/version/
+/subprojects/nlohmann_json/
+/versioned/**/metadata.json

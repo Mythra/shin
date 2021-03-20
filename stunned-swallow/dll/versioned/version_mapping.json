@@ -1,0 +1,488 @@
+{
+  "b6326492": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6402651": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_9",
+    "LOCALISATION_RSRC_MI": "Resources_Load_7__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b5955822": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6090575": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6092917": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6095311": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6099916": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6106200": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6107340": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6119267": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6125838": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6126060": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6130912": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6140152": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6140759": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6147447": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6147802": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6148509": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6154340": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6159737": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6163195": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6166710": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6172107": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6172650": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6184915": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6191387": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6197011": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6203678": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6203978": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6208133": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6215212": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6221619": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6228162": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6235798": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6238241": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6239221": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6255344": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6261631": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6273023": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6278360": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6289949": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6290534": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6295655": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6296250": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6301137": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6305195": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6306027": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6307970": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6318523": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6325153": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6325644": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_7",
+    "LOCALISATION_RSRC_MI": "Resources_Load_5__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6404079": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_9",
+    "LOCALISATION_RSRC_MI": "Resources_Load_7__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6406070": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_9",
+    "LOCALISATION_RSRC_MI": "Resources_Load_7__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  },
+  "b6411088": {
+    "LOCALISATION_RSRC_LOAD": "Resources_Load_9",
+    "LOCALISATION_RSRC_MI": "Resources_Load_7__MethodInfo",
+    "TEXT_ASSET_AS_STR": "TextAsset_ToString",
+    "GET_LOCALISED_STR": "LocalisationSystem_GetLocalisedVoiceValue",
+    "GET_SAVE_FILE_PATH": "FileBasedPrefs_GetSaveFilePath",
+    "FILE_READ_ALL": "File_ReadAllText",
+    "DATA_SCRAMBLER": "FileBasedPrefs_DataScrambler"
+  }
+}

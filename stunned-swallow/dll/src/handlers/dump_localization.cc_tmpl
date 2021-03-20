@@ -1,0 +1,32 @@
+#include "handlers/dump_localization.h"
+
+#include <cstdint>
+#include <exception>
+#include <nlohmann/json.hpp>
+#include <utility>
+#include <vector>
+
+#include "il2.h"
+
+namespace stunned_swallow::handler {
+
+auto dump_localization() -> std::string {
+  try {
+    nlohmann::json resulting_json;
+
+    auto* material = @LOCALISATION_RSRC_LOAD@(stunned_swallow::std2il("localisation"), *@LOCALISATION_RSRC_MI@);
+    auto* as_app_str = @TEXT_ASSET_AS_STR@(reinterpret_cast<app::TextAsset*>(material), nullptr);
+    auto as_string = stunned_swallow::il2std(as_app_str);
+    resulting_json["localisation.csv"] = as_string;
+    return resulting_json.dump();
+  } catch (const std::exception& err) {
+    nlohmann::json error_json = {{"error", err.what()}};
+    return error_json.dump();
+  } catch (Il2CppExceptionWrapper& e) {
+    auto msg = il2std(e.ex->message);
+    nlohmann::json error_json = {{"error", msg}};
+    return error_json.dump();
+  }
+}
+
+}  // namespace stunned_swallow::handler
