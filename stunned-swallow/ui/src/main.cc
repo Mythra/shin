@@ -2,15 +2,14 @@
 #include <cstdio>
 #include <fstream>
 #include <iostream>
+#include <nana/gui.hpp>
+#include <nana/gui/widgets/button.hpp>
+#include <nana/gui/widgets/label.hpp>
 #include <nlohmann/json.hpp>
 #include <stdexcept>
 #include <string>
 #include <string_view>
 #include <thread>
-
-#include <nana/gui.hpp>
-#include <nana/gui/widgets/button.hpp>
-#include <nana/gui/widgets/label.hpp>
 
 #include "injector.h"
 #include "named_pipe.h"
@@ -44,7 +43,8 @@ void write_file(const std::string& file_path, const std::string& file_data) {
   myfile.close();
 }
 
-auto send_and_wait(stunned_swallow::NamedPipe& pipe, const char* command) -> std::string {
+auto send_and_wait(stunned_swallow::NamedPipe& pipe, const char* command)
+    -> std::string {
   pipe.write_message(std::string_view(command));
   // Sleep so we don't read our own message before server can pick up on it.
   std::this_thread::sleep_for(std::chrono::seconds(2));
@@ -53,15 +53,19 @@ auto send_and_wait(stunned_swallow::NamedPipe& pipe, const char* command) -> std
 }
 
 void write_error(std::string error_msg) {
-  std::cerr << "ERROR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" << std::endl;
+  std::cerr << "ERROR!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+            << std::endl;
   std::cerr << error_msg << std::endl;
-  std::cerr << "Note! Stunned-Swallow May be completely broken, best to restart!" << std::endl;
+  std::cerr
+      << "Note! Stunned-Swallow May be completely broken, best to restart!"
+      << std::endl;
 }
 
 int main(int argc, const char** argv) {
   try {
     using namespace nana;
 
+    std::cout << "Asking for Path to DLL to Inject..." << std::endl;
     auto dll_injection_path = file_picker(false);
     // Inject our DLL so it spins up a Named Pipe.
     stunned_swallow::inject_dll(dll_injection_path);
@@ -99,7 +103,8 @@ int main(int argc, const char** argv) {
         write_error(parsed["error"].get<std::string>());
       } else {
         auto write_locale_csv_where = file_picker(true);
-        write_file(write_locale_csv_where, parsed["localisation.csv"].get<std::string>());
+        write_file(write_locale_csv_where,
+                   parsed["localisation.csv"].get<std::string>());
       }
     });
     dump_words.events().click([&]() {
@@ -115,9 +120,10 @@ int main(int argc, const char** argv) {
 
     place layout(fm);
     layout.div(
-      "<><weight=80% vertical <><weight=70% vertical <vertical gap=10 dump_grp arrange=[30, 25, 25, 25]> ><>><>"
-    );
-    layout["dump_grp"] << dump_lb << dump_localization << dump_words << dump_config;
+        "<><weight=80% vertical <><weight=70% vertical <vertical gap=10 "
+        "dump_grp arrange=[30, 25, 25, 25]> ><>><>");
+    layout["dump_grp"] << dump_lb << dump_localization << dump_words
+                       << dump_config;
     layout.collocate();
 
     fm.show();

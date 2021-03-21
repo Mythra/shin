@@ -1,0 +1,32 @@
+#include "phasmo-api/bindings.h"
+
+namespace phasmophobia {
+
+auto GetTextResource(std::string_view asset_name) -> std::string {
+  auto* material = `LOCALISATION_RSRC_LOAD`(
+    stunned_swallow::std2il(asset_name.data()),
+    *`LOCALISATION_RSRC_MI`
+  );
+  auto* as_app_str = `TEXT_ASSET_AS_STR`(
+    reinterpret_cast<app::TextAsset*>(material),
+    nullptr
+  );
+
+  return stunned_swallow::il2std(as_app_str);
+}
+
+auto GetLocalizedVoiceString(std::string_view key) -> std::string {
+  return stunned_swallow::il2std(
+    `GET_LOCALISED_STR`(stunned_swallow::std2il(key.data()), nullptr)
+  );
+}
+
+auto GetSaveFileContents() -> std::string {
+  auto* save_file_path = `GET_SAVE_FILE_PATH`(nullptr);
+  auto* as_str = `FILE_READ_ALL`(save_file_path, nullptr);
+  auto* unscrambled = `DATA_SCRAMBLER`(as_str, nullptr);
+  
+  return stunned_swallow::il2std(unscrambled);
+}
+
+}  // namespace phasmophobia

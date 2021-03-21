@@ -1,0 +1,20 @@
+Checks: 'bugprone-*,
+        clang-analyzer-*,
+        clang-diagnostic-*,
+        modernize-*,
+        performance-*,
+        readability-braces-around-statements,
+        readability-container-size-empty,
+        readability-redundant-*,
+        -clang-diagnostic-pragma-once-outside-header,
+        -modernize-use-trailing-return-type'
+
+WarningsAsErrors: '*'
+
+CheckOptions:
+  - key:   bugprone-assert-side-effect.AssertMacros
+    value: 'ASSERT'
+  - key:   bugprone-dangling-handle.HandleClasses
+    value: 'std::basic_string_view;std::experimental::basic_string_view'
+  - key:   modernize-use-auto.MinTypeNameLength
+    value: '10'

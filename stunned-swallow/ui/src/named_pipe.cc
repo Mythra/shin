@@ -42,8 +42,7 @@ auto NamedPipe::read_message() -> std::string {
   char signature_byte;
 
   if (!_setup) {
-    throw std::runtime_error(
-        "NamedPipe read_message called before listen()");
+    throw std::runtime_error("NamedPipe read_message called before listen()");
   }
 
   if (!ReadFile(_pipe, (LPVOID)&signature_byte, sizeof(char), &bytes_received,

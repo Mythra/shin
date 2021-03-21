@@ -11,7 +11,7 @@ if ([string]::IsNullOrWhiteSpace($bucket)) {
 }
 
 foreach ($buildId in $bids) {
-  if (!(Test-Path "./$buildId")) {
+  if (-Not (Test-Path "./$buildId")) {
     New-Item -ItemType Directory -Path "./$buildId"
   }
   # Fetch GameAssembly.dll which is the actual unity code.

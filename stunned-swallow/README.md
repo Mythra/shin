@@ -36,13 +36,13 @@ it. A couple tips for newcomers:
 
   - Don't be afraid to nuke any builddirectories.
 
-Scripts for DLL:
+Building Scripts:
 
 ```powershell
-# Building
-.\.github\scripts\win\stunned_swallow\build-dll.ps1
-# Formatting, if you have clang-format installed
-.\.github\scripts\win\stunned_swallow\format-dll.ps1
+# Building the DLL to inject, version specific.
+.\.github\scripts\win\stunned-swallow\build-dll.ps1 [bid - optional build id , defaults to latest beta supported]
+# Building the UI, generic for any version.
+.\.github\scripts\win\stunned-swallow\build-ui.ps1
 ```
 
 ## Architecture Notes ##

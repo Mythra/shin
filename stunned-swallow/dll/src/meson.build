@@ -1,1 +1,1 @@
-subdir('handlers')
+subdir('phasmo-api')

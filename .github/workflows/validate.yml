@@ -1,5 +1,5 @@
 ---
-name: Validate Pull Request
+name: Validate Versions
 
 on:
   push:
@@ -10,9 +10,18 @@ on:
       - trunk
 
 jobs:
-  build_validate_release:
-    name: Build and Validate and Publish Release
+  format_lint_check:
+    name: Check Code
     runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: ./.github/scripts/win/stunned-swallow/check-format.ps1
+        name: Run clang-format
+
+  build_validate:
+    name: Build and Validate Release
+    runs-on: windows-latest
+    needs: [format_lint_check]
     strategy:
       matrix:
         build_id:
@@ -71,6 +80,7 @@ jobs:
           - 'b6406070'
           - 'b6411088'
           - 'b6414220'
+          - 'b6416496'
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v1
@@ -79,7 +89,7 @@ jobs:
       - run: pip install meson ninja
       - name: Enable Developer Command Prompt
         uses: ilammy/msvc-dev-cmd@v1.6.0
-      - run: ./.github/scripts/win/stunned_swallow/build-dll.ps1 -bid "${{ matrix.build_id }}"
+      - run: ./.github/scripts/win/stunned-swallow/build-dll.ps1 -bid "${{ matrix.build_id }}"
         env:
           CC: cl.exe
           CXX: cl.exe

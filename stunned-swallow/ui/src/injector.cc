@@ -57,8 +57,7 @@ void load_remote_dll(HANDLE process, const char* dll_path) {
       VirtualAllocEx(process, nullptr, strlen(dll_path),
                      MEM_RESERVE | MEM_COMMIT, PAGE_EXECUTE_READWRITE);
   if (addr_in_remote == nullptr) {
-    throw std::runtime_error(
-        "Failed to allocate memory in Phasmophobia.exe");
+    throw std::runtime_error("Failed to allocate memory in Phasmophobia.exe");
   }
 
   BOOL succeededWriting = WriteProcessMemory(process, addr_in_remote, dll_path,
@@ -77,8 +76,7 @@ void load_remote_dll(HANDLE process, const char* dll_path) {
       process, nullptr, 0, (LPTHREAD_START_ROUTINE)loadLibraryAddress,
       addr_in_remote, 0, nullptr);
   if (remoteThread == nullptr) {
-    throw std::runtime_error(
-        "Failed to jump Phasmophobia.exe to LoadLibraryA");
+    throw std::runtime_error("Failed to jump Phasmophobia.exe to LoadLibraryA");
   }
 
   CloseHandle(process);
