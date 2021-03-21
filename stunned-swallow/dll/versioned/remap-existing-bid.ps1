@@ -20,12 +20,17 @@ if (-Not (Test-Path -Path "$ScriptDir/$srcBid/metadata.json.brotli")) {
   throw "$srcBid has no metadata.json present!"
 }
 
-brotli -dkZo "$ScriptDir/$srcBid/metadata.json" -- "$ScriptDir/$srcBid/metadata.json.brotli"
+if (-Not (Test-Path "$ScriptDir/$srcBid/metadata.json")) {
+  brotli -dkZo "$ScriptDir/$srcBid/metadata.json" -- "$ScriptDir/$srcBid/metadata.json.brotli"
+}
 $SrcMetadata=(Get-Content -Raw -Path "$ScriptDir/$srcBid/metadata.json" | ConvertFrom-Json)
 
 foreach ($dstBid in $dstBids) {
   if (-Not (Test-Path -Path "$ScriptDir/$dstBid/metadata.json")) {
     throw "$dstBid has no metadata.json present!"
+  }
+  if (-Not (Test-Path "$ScriptDir/$dstBid/metadata.json")) {
+    brotli -dkZo "$ScriptDir/$dstBid/metadata.json" -- "$ScriptDir/$dstBid/metadata.json.brotli"
   }
   $dstMetadata=(Get-Content -Raw -Path "$ScriptDir/$dstBid/metadata.json" | ConvertFrom-Json)
   $dstBidObj=('{}' | ConvertFrom-Json)
